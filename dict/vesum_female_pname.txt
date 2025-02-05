@@ -1,0 +1,3556 @@
+Абакумівна noun:anim:f:v_naz:prop:pname
+  Абакумівни noun:anim:f:v_rod:prop:pname
+  Абакумівні noun:anim:f:v_dav:prop:pname
+  Абакумівну noun:anim:f:v_zna:prop:pname
+  Абакумівною noun:anim:f:v_oru:prop:pname
+  Абакумівні noun:anim:f:v_mis:prop:pname
+  Абакумівно noun:anim:f:v_kly:prop:pname
+Абдурахманівна noun:anim:f:v_naz:prop:pname
+  Абдурахманівни noun:anim:f:v_rod:prop:pname
+  Абдурахманівні noun:anim:f:v_dav:prop:pname
+  Абдурахманівну noun:anim:f:v_zna:prop:pname
+  Абдурахманівною noun:anim:f:v_oru:prop:pname
+  Абдурахманівні noun:anim:f:v_mis:prop:pname
+  Абдурахманівно noun:anim:f:v_kly:prop:pname
+Абрамівна noun:anim:f:v_naz:prop:pname
+  Абрамівни noun:anim:f:v_rod:prop:pname
+  Абрамівні noun:anim:f:v_dav:prop:pname
+  Абрамівну noun:anim:f:v_zna:prop:pname
+  Абрамівною noun:anim:f:v_oru:prop:pname
+  Абрамівні noun:anim:f:v_mis:prop:pname
+  Абрамівно noun:anim:f:v_kly:prop:pname
+Абрахамівна noun:anim:f:v_naz:prop:pname
+  Абрахамівни noun:anim:f:v_rod:prop:pname
+  Абрахамівні noun:anim:f:v_dav:prop:pname
+  Абрахамівну noun:anim:f:v_zna:prop:pname
+  Абрахамівною noun:anim:f:v_oru:prop:pname
+  Абрахамівні noun:anim:f:v_mis:prop:pname
+  Абрахамівно noun:anim:f:v_kly:prop:pname
+Авакумівна noun:anim:f:v_naz:prop:pname
+  Авакумівни noun:anim:f:v_rod:prop:pname
+  Авакумівні noun:anim:f:v_dav:prop:pname
+  Авакумівну noun:anim:f:v_zna:prop:pname
+  Авакумівною noun:anim:f:v_oru:prop:pname
+  Авакумівні noun:anim:f:v_mis:prop:pname
+  Авакумівно noun:anim:f:v_kly:prop:pname
+Августинівна noun:anim:f:v_naz:prop:pname
+  Августинівни noun:anim:f:v_rod:prop:pname
+  Августинівні noun:anim:f:v_dav:prop:pname
+  Августинівну noun:anim:f:v_zna:prop:pname
+  Августинівною noun:anim:f:v_oru:prop:pname
+  Августинівні noun:anim:f:v_mis:prop:pname
+  Августинівно noun:anim:f:v_kly:prop:pname
+Августівна noun:anim:f:v_naz:prop:pname
+  Августівни noun:anim:f:v_rod:prop:pname
+  Августівні noun:anim:f:v_dav:prop:pname
+  Августівну noun:anim:f:v_zna:prop:pname
+  Августівною noun:anim:f:v_oru:prop:pname
+  Августівні noun:anim:f:v_mis:prop:pname
+  Августівно noun:anim:f:v_kly:prop:pname
+Авґустинівна noun:anim:f:v_naz:prop:pname:ua_2019
+  Авґустинівни noun:anim:f:v_rod:prop:pname:ua_2019
+  Авґустинівні noun:anim:f:v_dav:prop:pname:ua_2019
+  Авґустинівну noun:anim:f:v_zna:prop:pname:ua_2019
+  Авґустинівною noun:anim:f:v_oru:prop:pname:ua_2019
+  Авґустинівні noun:anim:f:v_mis:prop:pname:ua_2019
+  Авґустинівно noun:anim:f:v_kly:prop:pname:ua_2019
+Авґустівна noun:anim:f:v_naz:prop:pname:ua_2019
+  Авґустівни noun:anim:f:v_rod:prop:pname:ua_2019
+  Авґустівні noun:anim:f:v_dav:prop:pname:ua_2019
+  Авґустівну noun:anim:f:v_zna:prop:pname:ua_2019
+  Авґустівною noun:anim:f:v_oru:prop:pname:ua_2019
+  Авґустівні noun:anim:f:v_mis:prop:pname:ua_2019
+  Авґустівно noun:anim:f:v_kly:prop:pname:ua_2019
+Авдіївна noun:anim:f:v_naz:prop:pname
+  Авдіївни noun:anim:f:v_rod:prop:pname
+  Авдіївні noun:anim:f:v_dav:prop:pname
+  Авдіївну noun:anim:f:v_zna:prop:pname
+  Авдіївною noun:anim:f:v_oru:prop:pname
+  Авдіївні noun:anim:f:v_mis:prop:pname
+  Авдіївно noun:anim:f:v_kly:prop:pname
+Аверкіївна noun:anim:f:v_naz:prop:pname
+  Аверкіївни noun:anim:f:v_rod:prop:pname
+  Аверкіївні noun:anim:f:v_dav:prop:pname
+  Аверкіївну noun:anim:f:v_zna:prop:pname
+  Аверкіївною noun:anim:f:v_oru:prop:pname
+  Аверкіївні noun:anim:f:v_mis:prop:pname
+  Аверкіївно noun:anim:f:v_kly:prop:pname
+Авер'янівна noun:anim:f:v_naz:prop:pname
+  Авер'янівни noun:anim:f:v_rod:prop:pname
+  Авер'янівні noun:anim:f:v_dav:prop:pname
+  Авер'янівну noun:anim:f:v_zna:prop:pname
+  Авер'янівною noun:anim:f:v_oru:prop:pname
+  Авер'янівні noun:anim:f:v_mis:prop:pname
+  Авер'янівно noun:anim:f:v_kly:prop:pname
+Авилівна noun:anim:f:v_naz:prop:pname
+  Авилівни noun:anim:f:v_rod:prop:pname
+  Авилівні noun:anim:f:v_dav:prop:pname
+  Авилівну noun:anim:f:v_zna:prop:pname
+  Авилівною noun:anim:f:v_oru:prop:pname
+  Авилівні noun:anim:f:v_mis:prop:pname
+  Авилівно noun:anim:f:v_kly:prop:pname
+Авксентіївна noun:anim:f:v_naz:prop:pname
+  Авксентіївни noun:anim:f:v_rod:prop:pname
+  Авксентіївні noun:anim:f:v_dav:prop:pname
+  Авксентіївну noun:anim:f:v_zna:prop:pname
+  Авксентіївною noun:anim:f:v_oru:prop:pname
+  Авксентіївні noun:anim:f:v_mis:prop:pname
+  Авксентіївно noun:anim:f:v_kly:prop:pname
+Аврамівна noun:anim:f:v_naz:prop:pname
+  Аврамівни noun:anim:f:v_rod:prop:pname
+  Аврамівні noun:anim:f:v_dav:prop:pname
+  Аврамівну noun:anim:f:v_zna:prop:pname
+  Аврамівною noun:anim:f:v_oru:prop:pname
+  Аврамівні noun:anim:f:v_mis:prop:pname
+  Аврамівно noun:anim:f:v_kly:prop:pname
+Агапіївна noun:anim:f:v_naz:prop:pname
+  Агапіївни noun:anim:f:v_rod:prop:pname
+  Агапіївні noun:anim:f:v_dav:prop:pname
+  Агапіївну noun:anim:f:v_zna:prop:pname
+  Агапіївною noun:anim:f:v_oru:prop:pname
+  Агапіївні noun:anim:f:v_mis:prop:pname
+  Агапіївно noun:anim:f:v_kly:prop:pname
+Агапонівна noun:anim:f:v_naz:prop:pname
+  Агапонівни noun:anim:f:v_rod:prop:pname
+  Агапонівні noun:anim:f:v_dav:prop:pname
+  Агапонівну noun:anim:f:v_zna:prop:pname
+  Агапонівною noun:anim:f:v_oru:prop:pname
+  Агапонівні noun:anim:f:v_mis:prop:pname
+  Агапонівно noun:anim:f:v_kly:prop:pname
+Агафониківна noun:anim:f:v_naz:prop:pname
+  Агафониківни noun:anim:f:v_rod:prop:pname
+  Агафониківні noun:anim:f:v_dav:prop:pname
+  Агафониківну noun:anim:f:v_zna:prop:pname
+  Агафониківною noun:anim:f:v_oru:prop:pname
+  Агафониківні noun:anim:f:v_mis:prop:pname
+  Агафониківно noun:anim:f:v_kly:prop:pname
+Агафонівна noun:anim:f:v_naz:prop:pname
+  Агафонівни noun:anim:f:v_rod:prop:pname
+  Агафонівні noun:anim:f:v_dav:prop:pname
+  Агафонівну noun:anim:f:v_zna:prop:pname
+  Агафонівною noun:anim:f:v_oru:prop:pname
+  Агафонівні noun:anim:f:v_mis:prop:pname
+  Агафонівно noun:anim:f:v_kly:prop:pname
+Адальбертівна noun:anim:f:v_naz:prop:pname
+  Адальбертівни noun:anim:f:v_rod:prop:pname
+  Адальбертівні noun:anim:f:v_dav:prop:pname
+  Адальбертівну noun:anim:f:v_zna:prop:pname
+  Адальбертівною noun:anim:f:v_oru:prop:pname
+  Адальбертівні noun:anim:f:v_mis:prop:pname
+  Адальбертівно noun:anim:f:v_kly:prop:pname
+Адамівна noun:anim:f:v_naz:prop:pname
+  Адамівни noun:anim:f:v_rod:prop:pname
+  Адамівні noun:anim:f:v_dav:prop:pname
+  Адамівну noun:anim:f:v_zna:prop:pname
+  Адамівною noun:anim:f:v_oru:prop:pname
+  Адамівні noun:anim:f:v_mis:prop:pname
+  Адамівно noun:anim:f:v_kly:prop:pname
+Адольфівна noun:anim:f:v_naz:prop:pname
+  Адольфівни noun:anim:f:v_rod:prop:pname
+  Адольфівні noun:anim:f:v_dav:prop:pname
+  Адольфівну noun:anim:f:v_zna:prop:pname
+  Адольфівною noun:anim:f:v_oru:prop:pname
+  Адольфівні noun:anim:f:v_mis:prop:pname
+  Адольфівно noun:anim:f:v_kly:prop:pname
+Адріанівна noun:anim:f:v_naz:prop:pname
+  Адріанівни noun:anim:f:v_rod:prop:pname
+  Адріанівні noun:anim:f:v_dav:prop:pname
+  Адріанівну noun:anim:f:v_zna:prop:pname
+  Адріанівною noun:anim:f:v_oru:prop:pname
+  Адріанівні noun:anim:f:v_mis:prop:pname
+  Адріанівно noun:anim:f:v_kly:prop:pname
+Адріянівна noun:anim:f:v_naz:prop:pname
+  Адріянівни noun:anim:f:v_rod:prop:pname
+  Адріянівні noun:anim:f:v_dav:prop:pname
+  Адріянівну noun:anim:f:v_zna:prop:pname
+  Адріянівною noun:anim:f:v_oru:prop:pname
+  Адріянівні noun:anim:f:v_mis:prop:pname
+  Адріянівно noun:anim:f:v_kly:prop:pname
+Айдерівна noun:anim:f:v_naz:prop:pname
+  Айдерівни noun:anim:f:v_rod:prop:pname
+  Айдерівні noun:anim:f:v_dav:prop:pname
+  Айдерівну noun:anim:f:v_zna:prop:pname
+  Айдерівною noun:anim:f:v_oru:prop:pname
+  Айдерівні noun:anim:f:v_mis:prop:pname
+  Айдерівно noun:anim:f:v_kly:prop:pname
+Александрівна noun:anim:f:v_naz:prop:pname
+  Александрівни noun:anim:f:v_rod:prop:pname
+  Александрівні noun:anim:f:v_dav:prop:pname
+  Александрівну noun:anim:f:v_zna:prop:pname
+  Александрівною noun:anim:f:v_oru:prop:pname
+  Александрівні noun:anim:f:v_mis:prop:pname
+  Александрівно noun:anim:f:v_kly:prop:pname
+Альбертівна noun:anim:f:v_naz:prop:pname
+  Альбертівни noun:anim:f:v_rod:prop:pname
+  Альбертівні noun:anim:f:v_dav:prop:pname
+  Альбертівну noun:anim:f:v_zna:prop:pname
+  Альбертівною noun:anim:f:v_oru:prop:pname
+  Альбертівні noun:anim:f:v_mis:prop:pname
+  Альбертівно noun:anim:f:v_kly:prop:pname
+Альфредівна noun:anim:f:v_naz:prop:pname
+  Альфредівни noun:anim:f:v_rod:prop:pname
+  Альфредівні noun:anim:f:v_dav:prop:pname
+  Альфредівну noun:anim:f:v_zna:prop:pname
+  Альфредівною noun:anim:f:v_oru:prop:pname
+  Альфредівні noun:anim:f:v_mis:prop:pname
+  Альфредівно noun:anim:f:v_kly:prop:pname
+Амброзіївна noun:anim:f:v_naz:prop:pname
+  Амброзіївни noun:anim:f:v_rod:prop:pname
+  Амброзіївні noun:anim:f:v_dav:prop:pname
+  Амброзіївну noun:anim:f:v_zna:prop:pname
+  Амброзіївною noun:anim:f:v_oru:prop:pname
+  Амброзіївні noun:anim:f:v_mis:prop:pname
+  Амброзіївно noun:anim:f:v_kly:prop:pname
+Амбросіївна noun:anim:f:v_naz:prop:pname
+  Амбросіївни noun:anim:f:v_rod:prop:pname
+  Амбросіївні noun:anim:f:v_dav:prop:pname
+  Амбросіївну noun:anim:f:v_zna:prop:pname
+  Амбросіївною noun:anim:f:v_oru:prop:pname
+  Амбросіївні noun:anim:f:v_mis:prop:pname
+  Амбросіївно noun:anim:f:v_kly:prop:pname
+Амвросіївна noun:anim:f:v_naz:prop:pname
+  Амвросіївни noun:anim:f:v_rod:prop:pname
+  Амвросіївні noun:anim:f:v_dav:prop:pname
+  Амвросіївну noun:anim:f:v_zna:prop:pname
+  Амвросіївною noun:anim:f:v_oru:prop:pname
+  Амвросіївні noun:anim:f:v_mis:prop:pname
+  Амвросіївно noun:anim:f:v_kly:prop:pname
+Амфілохіївна noun:anim:f:v_naz:prop:pname
+  Амфілохіївни noun:anim:f:v_rod:prop:pname
+  Амфілохіївні noun:anim:f:v_dav:prop:pname
+  Амфілохіївну noun:anim:f:v_zna:prop:pname
+  Амфілохіївною noun:anim:f:v_oru:prop:pname
+  Амфілохіївні noun:anim:f:v_mis:prop:pname
+  Амфілохіївно noun:anim:f:v_kly:prop:pname
+Анадіївна noun:anim:f:v_naz:prop:pname
+  Анадіївни noun:anim:f:v_rod:prop:pname
+  Анадіївні noun:anim:f:v_dav:prop:pname
+  Анадіївну noun:anim:f:v_zna:prop:pname
+  Анадіївною noun:anim:f:v_oru:prop:pname
+  Анадіївні noun:anim:f:v_mis:prop:pname
+  Анадіївно noun:anim:f:v_kly:prop:pname
+Ананіївна noun:anim:f:v_naz:prop:pname
+  Ананіївни noun:anim:f:v_rod:prop:pname
+  Ананіївні noun:anim:f:v_dav:prop:pname
+  Ананіївну noun:anim:f:v_zna:prop:pname
+  Ананіївною noun:anim:f:v_oru:prop:pname
+  Ананіївні noun:anim:f:v_mis:prop:pname
+  Ананіївно noun:anim:f:v_kly:prop:pname
+Анастасіївна noun:anim:f:v_naz:prop:pname
+  Анастасіївни noun:anim:f:v_rod:prop:pname
+  Анастасіївні noun:anim:f:v_dav:prop:pname
+  Анастасіївну noun:anim:f:v_zna:prop:pname
+  Анастасіївною noun:anim:f:v_oru:prop:pname
+  Анастасіївні noun:anim:f:v_mis:prop:pname
+  Анастасіївно noun:anim:f:v_kly:prop:pname
+Анатолівна noun:anim:f:v_naz:prop:pname
+  Анатолівни noun:anim:f:v_rod:prop:pname
+  Анатолівні noun:anim:f:v_dav:prop:pname
+  Анатолівну noun:anim:f:v_zna:prop:pname
+  Анатолівною noun:anim:f:v_oru:prop:pname
+  Анатолівні noun:anim:f:v_mis:prop:pname
+  Анатолівно noun:anim:f:v_kly:prop:pname
+Анатоліївна noun:anim:f:v_naz:prop:pname
+  Анатоліївни noun:anim:f:v_rod:prop:pname
+  Анатоліївні noun:anim:f:v_dav:prop:pname
+  Анатоліївну noun:anim:f:v_zna:prop:pname
+  Анатоліївною noun:anim:f:v_oru:prop:pname
+  Анатоліївні noun:anim:f:v_mis:prop:pname
+  Анатоліївно noun:anim:f:v_kly:prop:pname
+Андріанівна noun:anim:f:v_naz:prop:pname
+  Андріанівни noun:anim:f:v_rod:prop:pname
+  Андріанівні noun:anim:f:v_dav:prop:pname
+  Андріанівну noun:anim:f:v_zna:prop:pname
+  Андріанівною noun:anim:f:v_oru:prop:pname
+  Андріанівні noun:anim:f:v_mis:prop:pname
+  Андріанівно noun:anim:f:v_kly:prop:pname
+Андріївна noun:anim:f:v_naz:prop:pname
+  Андріївни noun:anim:f:v_rod:prop:pname
+  Андріївні noun:anim:f:v_dav:prop:pname
+  Андріївну noun:anim:f:v_zna:prop:pname
+  Андріївною noun:anim:f:v_oru:prop:pname
+  Андріївні noun:anim:f:v_mis:prop:pname
+  Андріївно noun:anim:f:v_kly:prop:pname
+Андріянівна noun:anim:f:v_naz:prop:pname
+  Андріянівни noun:anim:f:v_rod:prop:pname
+  Андріянівні noun:anim:f:v_dav:prop:pname
+  Андріянівну noun:anim:f:v_zna:prop:pname
+  Андріянівною noun:anim:f:v_oru:prop:pname
+  Андріянівні noun:anim:f:v_mis:prop:pname
+  Андріянівно noun:anim:f:v_kly:prop:pname
+Андронівна noun:anim:f:v_naz:prop:pname
+  Андронівни noun:anim:f:v_rod:prop:pname
+  Андронівні noun:anim:f:v_dav:prop:pname
+  Андронівну noun:anim:f:v_zna:prop:pname
+  Андронівною noun:anim:f:v_oru:prop:pname
+  Андронівні noun:anim:f:v_mis:prop:pname
+  Андронівно noun:anim:f:v_kly:prop:pname
+Аникитівна noun:anim:f:v_naz:prop:pname
+  Аникитівни noun:anim:f:v_rod:prop:pname
+  Аникитівні noun:anim:f:v_dav:prop:pname
+  Аникитівну noun:anim:f:v_zna:prop:pname
+  Аникитівною noun:anim:f:v_oru:prop:pname
+  Аникитівні noun:anim:f:v_mis:prop:pname
+  Аникитівно noun:anim:f:v_kly:prop:pname
+Аникіївна noun:anim:f:v_naz:prop:pname
+  Аникіївни noun:anim:f:v_rod:prop:pname
+  Аникіївні noun:anim:f:v_dav:prop:pname
+  Аникіївну noun:anim:f:v_zna:prop:pname
+  Аникіївною noun:anim:f:v_oru:prop:pname
+  Аникіївні noun:anim:f:v_mis:prop:pname
+  Аникіївно noun:anim:f:v_kly:prop:pname
+Антипівна noun:anim:f:v_naz:prop:pname
+  Антипівни noun:anim:f:v_rod:prop:pname
+  Антипівні noun:anim:f:v_dav:prop:pname
+  Антипівну noun:anim:f:v_zna:prop:pname
+  Антипівною noun:anim:f:v_oru:prop:pname
+  Антипівні noun:anim:f:v_mis:prop:pname
+  Антипівно noun:anim:f:v_kly:prop:pname
+Антонівна noun:anim:f:v_naz:prop:pname
+  Антонівни noun:anim:f:v_rod:prop:pname
+  Антонівні noun:anim:f:v_dav:prop:pname
+  Антонівну noun:anim:f:v_zna:prop:pname
+  Антонівною noun:anim:f:v_oru:prop:pname
+  Антонівні noun:anim:f:v_mis:prop:pname
+  Антонівно noun:anim:f:v_kly:prop:pname
+Аполлонівна noun:anim:f:v_naz:prop:pname
+  Аполлонівни noun:anim:f:v_rod:prop:pname
+  Аполлонівні noun:anim:f:v_dav:prop:pname
+  Аполлонівну noun:anim:f:v_zna:prop:pname
+  Аполлонівною noun:anim:f:v_oru:prop:pname
+  Аполлонівні noun:anim:f:v_mis:prop:pname
+  Аполлонівно noun:anim:f:v_kly:prop:pname
+Аразіївна noun:anim:f:v_naz:prop:pname
+  Аразіївни noun:anim:f:v_rod:prop:pname
+  Аразіївні noun:anim:f:v_dav:prop:pname
+  Аразіївну noun:anim:f:v_zna:prop:pname
+  Аразіївною noun:anim:f:v_oru:prop:pname
+  Аразіївні noun:anim:f:v_mis:prop:pname
+  Аразіївно noun:anim:f:v_kly:prop:pname
+Ардаліонівна noun:anim:f:v_naz:prop:pname
+  Ардаліонівни noun:anim:f:v_rod:prop:pname
+  Ардаліонівні noun:anim:f:v_dav:prop:pname
+  Ардаліонівну noun:anim:f:v_zna:prop:pname
+  Ардаліонівною noun:anim:f:v_oru:prop:pname
+  Ардаліонівні noun:anim:f:v_mis:prop:pname
+  Ардаліонівно noun:anim:f:v_kly:prop:pname
+Аристархівна noun:anim:f:v_naz:prop:pname
+  Аристархівни noun:anim:f:v_rod:prop:pname
+  Аристархівні noun:anim:f:v_dav:prop:pname
+  Аристархівну noun:anim:f:v_zna:prop:pname
+  Аристархівною noun:anim:f:v_oru:prop:pname
+  Аристархівні noun:anim:f:v_mis:prop:pname
+  Аристархівно noun:anim:f:v_kly:prop:pname
+Аристидівна noun:anim:f:v_naz:prop:pname
+  Аристидівни noun:anim:f:v_rod:prop:pname
+  Аристидівні noun:anim:f:v_dav:prop:pname
+  Аристидівну noun:anim:f:v_zna:prop:pname
+  Аристидівною noun:anim:f:v_oru:prop:pname
+  Аристидівні noun:anim:f:v_mis:prop:pname
+  Аристидівно noun:anim:f:v_kly:prop:pname
+Аркадіївна noun:anim:f:v_naz:prop:pname
+  Аркадіївни noun:anim:f:v_rod:prop:pname
+  Аркадіївні noun:anim:f:v_dav:prop:pname
+  Аркадіївну noun:anim:f:v_zna:prop:pname
+  Аркадіївною noun:anim:f:v_oru:prop:pname
+  Аркадіївні noun:anim:f:v_mis:prop:pname
+  Аркадіївно noun:anim:f:v_kly:prop:pname
+Арнольдівна noun:anim:f:v_naz:prop:pname
+  Арнольдівни noun:anim:f:v_rod:prop:pname
+  Арнольдівні noun:anim:f:v_dav:prop:pname
+  Арнольдівну noun:anim:f:v_zna:prop:pname
+  Арнольдівною noun:anim:f:v_oru:prop:pname
+  Арнольдівні noun:anim:f:v_mis:prop:pname
+  Арнольдівно noun:anim:f:v_kly:prop:pname
+Арпадівна noun:anim:f:v_naz:prop:pname
+  Арпадівни noun:anim:f:v_rod:prop:pname
+  Арпадівні noun:anim:f:v_dav:prop:pname
+  Арпадівну noun:anim:f:v_zna:prop:pname
+  Арпадівною noun:anim:f:v_oru:prop:pname
+  Арпадівні noun:anim:f:v_mis:prop:pname
+  Арпадівно noun:anim:f:v_kly:prop:pname
+Арсенівна noun:anim:f:v_naz:prop:pname
+  Арсенівни noun:anim:f:v_rod:prop:pname
+  Арсенівні noun:anim:f:v_dav:prop:pname
+  Арсенівну noun:anim:f:v_zna:prop:pname
+  Арсенівною noun:anim:f:v_oru:prop:pname
+  Арсенівні noun:anim:f:v_mis:prop:pname
+  Арсенівно noun:anim:f:v_kly:prop:pname
+Арсеніївна noun:anim:f:v_naz:prop:pname
+  Арсеніївни noun:anim:f:v_rod:prop:pname
+  Арсеніївні noun:anim:f:v_dav:prop:pname
+  Арсеніївну noun:anim:f:v_zna:prop:pname
+  Арсеніївною noun:anim:f:v_oru:prop:pname
+  Арсеніївні noun:anim:f:v_mis:prop:pname
+  Арсеніївно noun:anim:f:v_kly:prop:pname
+Арсентіївна noun:anim:f:v_naz:prop:pname
+  Арсентіївни noun:anim:f:v_rod:prop:pname
+  Арсентіївні noun:anim:f:v_dav:prop:pname
+  Арсентіївну noun:anim:f:v_zna:prop:pname
+  Арсентіївною noun:anim:f:v_oru:prop:pname
+  Арсентіївні noun:anim:f:v_mis:prop:pname
+  Арсентіївно noun:anim:f:v_kly:prop:pname
+Артемівна noun:anim:f:v_naz:prop:pname
+  Артемівни noun:anim:f:v_rod:prop:pname
+  Артемівні noun:anim:f:v_dav:prop:pname
+  Артемівну noun:anim:f:v_zna:prop:pname
+  Артемівною noun:anim:f:v_oru:prop:pname
+  Артемівні noun:anim:f:v_mis:prop:pname
+  Артемівно noun:anim:f:v_kly:prop:pname
+Артеміївна noun:anim:f:v_naz:prop:pname
+  Артеміївни noun:anim:f:v_rod:prop:pname
+  Артеміївні noun:anim:f:v_dav:prop:pname
+  Артеміївну noun:anim:f:v_zna:prop:pname
+  Артеміївною noun:anim:f:v_oru:prop:pname
+  Артеміївні noun:anim:f:v_mis:prop:pname
+  Артеміївно noun:anim:f:v_kly:prop:pname
+Артурівна noun:anim:f:v_naz:prop:pname
+  Артурівни noun:anim:f:v_rod:prop:pname
+  Артурівні noun:anim:f:v_dav:prop:pname
+  Артурівну noun:anim:f:v_zna:prop:pname
+  Артурівною noun:anim:f:v_oru:prop:pname
+  Артурівні noun:anim:f:v_mis:prop:pname
+  Артурівно noun:anim:f:v_kly:prop:pname
+Архипівна noun:anim:f:v_naz:prop:pname
+  Архипівни noun:anim:f:v_rod:prop:pname
+  Архипівні noun:anim:f:v_dav:prop:pname
+  Архипівну noun:anim:f:v_zna:prop:pname
+  Архипівною noun:anim:f:v_oru:prop:pname
+  Архипівні noun:anim:f:v_mis:prop:pname
+  Архипівно noun:anim:f:v_kly:prop:pname
+Асанівна noun:anim:f:v_naz:prop:pname
+  Асанівни noun:anim:f:v_rod:prop:pname
+  Асанівні noun:anim:f:v_dav:prop:pname
+  Асанівну noun:anim:f:v_zna:prop:pname
+  Асанівною noun:anim:f:v_oru:prop:pname
+  Асанівні noun:anim:f:v_mis:prop:pname
+  Асанівно noun:anim:f:v_kly:prop:pname
+Атанасіївна noun:anim:f:v_naz:prop:pname
+  Атанасіївни noun:anim:f:v_rod:prop:pname
+  Атанасіївні noun:anim:f:v_dav:prop:pname
+  Атанасіївну noun:anim:f:v_zna:prop:pname
+  Атанасіївною noun:anim:f:v_oru:prop:pname
+  Атанасіївні noun:anim:f:v_mis:prop:pname
+  Атанасіївно noun:anim:f:v_kly:prop:pname
+Аурелівна noun:anim:f:v_naz:prop:pname
+  Аурелівни noun:anim:f:v_rod:prop:pname
+  Аурелівні noun:anim:f:v_dav:prop:pname
+  Аурелівну noun:anim:f:v_zna:prop:pname
+  Аурелівною noun:anim:f:v_oru:prop:pname
+  Аурелівні noun:anim:f:v_mis:prop:pname
+  Аурелівно noun:anim:f:v_kly:prop:pname
+Афанасіївна noun:anim:f:v_naz:prop:pname
+  Афанасіївни noun:anim:f:v_rod:prop:pname
+  Афанасіївні noun:anim:f:v_dav:prop:pname
+  Афанасіївну noun:anim:f:v_zna:prop:pname
+  Афанасіївною noun:anim:f:v_oru:prop:pname
+  Афанасіївні noun:anim:f:v_mis:prop:pname
+  Афанасіївно noun:anim:f:v_kly:prop:pname
+Афіногенівна noun:anim:f:v_naz:prop:pname
+  Афіногенівни noun:anim:f:v_rod:prop:pname
+  Афіногенівні noun:anim:f:v_dav:prop:pname
+  Афіногенівну noun:anim:f:v_zna:prop:pname
+  Афіногенівною noun:anim:f:v_oru:prop:pname
+  Афіногенівні noun:anim:f:v_mis:prop:pname
+  Афіногенівно noun:anim:f:v_kly:prop:pname
+Ахматівна noun:anim:f:v_naz:prop:pname
+  Ахматівни noun:anim:f:v_rod:prop:pname
+  Ахматівні noun:anim:f:v_dav:prop:pname
+  Ахматівну noun:anim:f:v_zna:prop:pname
+  Ахматівною noun:anim:f:v_oru:prop:pname
+  Ахматівні noun:anim:f:v_mis:prop:pname
+  Ахматівно noun:anim:f:v_kly:prop:pname
+Ахмедівна noun:anim:f:v_naz:prop:pname
+  Ахмедівни noun:anim:f:v_rod:prop:pname
+  Ахмедівні noun:anim:f:v_dav:prop:pname
+  Ахмедівну noun:anim:f:v_zna:prop:pname
+  Ахмедівною noun:anim:f:v_oru:prop:pname
+  Ахмедівні noun:anim:f:v_mis:prop:pname
+  Ахмедівно noun:anim:f:v_kly:prop:pname
+Ашотівна noun:anim:f:v_naz:prop:pname
+  Ашотівни noun:anim:f:v_rod:prop:pname
+  Ашотівні noun:anim:f:v_dav:prop:pname
+  Ашотівну noun:anim:f:v_zna:prop:pname
+  Ашотівною noun:anim:f:v_oru:prop:pname
+  Ашотівні noun:anim:f:v_mis:prop:pname
+  Ашотівно noun:anim:f:v_kly:prop:pname
+Бартоломіївна noun:anim:f:v_naz:prop:pname
+  Бартоломіївни noun:anim:f:v_rod:prop:pname
+  Бартоломіївні noun:anim:f:v_dav:prop:pname
+  Бартоломіївну noun:anim:f:v_zna:prop:pname
+  Бартоломіївною noun:anim:f:v_oru:prop:pname
+  Бартоломіївні noun:anim:f:v_mis:prop:pname
+  Бартоломіївно noun:anim:f:v_kly:prop:pname
+батьківна noun:anim:f:v_naz:pname
+  батьківни noun:anim:f:v_rod:pname
+  батьківні noun:anim:f:v_dav:pname
+  батьківну noun:anim:f:v_zna:pname
+  батьківною noun:anim:f:v_oru:pname
+  батьківні noun:anim:f:v_mis:pname
+  батьківно noun:anim:f:v_kly:pname
+Бенедиктівна noun:anim:f:v_naz:prop:pname
+  Бенедиктівни noun:anim:f:v_rod:prop:pname
+  Бенедиктівні noun:anim:f:v_dav:prop:pname
+  Бенедиктівну noun:anim:f:v_zna:prop:pname
+  Бенедиктівною noun:anim:f:v_oru:prop:pname
+  Бенедиктівні noun:anim:f:v_mis:prop:pname
+  Бенедиктівно noun:anim:f:v_kly:prop:pname
+Богданівна noun:anim:f:v_naz:prop:pname    # ім'я
+  Богданівни noun:anim:f:v_rod:prop:pname
+  Богданівні noun:anim:f:v_dav:prop:pname
+  Богданівну noun:anim:f:v_zna:prop:pname
+  Богданівною noun:anim:f:v_oru:prop:pname
+  Богданівні noun:anim:f:v_mis:prop:pname
+  Богданівно noun:anim:f:v_kly:prop:pname
+Богуславівна noun:anim:f:v_naz:prop:pname
+  Богуславівни noun:anim:f:v_rod:prop:pname
+  Богуславівні noun:anim:f:v_dav:prop:pname
+  Богуславівну noun:anim:f:v_zna:prop:pname
+  Богуславівною noun:anim:f:v_oru:prop:pname
+  Богуславівні noun:anim:f:v_mis:prop:pname
+  Богуславівно noun:anim:f:v_kly:prop:pname
+Болеславівна noun:anim:f:v_naz:prop:pname
+  Болеславівни noun:anim:f:v_rod:prop:pname
+  Болеславівні noun:anim:f:v_dav:prop:pname
+  Болеславівну noun:anim:f:v_zna:prop:pname
+  Болеславівною noun:anim:f:v_oru:prop:pname
+  Болеславівні noun:anim:f:v_mis:prop:pname
+  Болеславівно noun:anim:f:v_kly:prop:pname
+Борисівна noun:anim:f:v_naz:prop:pname
+  Борисівни noun:anim:f:v_rod:prop:pname
+  Борисівні noun:anim:f:v_dav:prop:pname
+  Борисівну noun:anim:f:v_zna:prop:pname
+  Борисівною noun:anim:f:v_oru:prop:pname
+  Борисівні noun:anim:f:v_mis:prop:pname
+  Борисівно noun:anim:f:v_kly:prop:pname
+Бориславівна noun:anim:f:v_naz:prop:pname
+  Бориславівни noun:anim:f:v_rod:prop:pname
+  Бориславівні noun:anim:f:v_dav:prop:pname
+  Бориславівну noun:anim:f:v_zna:prop:pname
+  Бориславівною noun:anim:f:v_oru:prop:pname
+  Бориславівні noun:anim:f:v_mis:prop:pname
+  Бориславівно noun:anim:f:v_kly:prop:pname
+Броніславівна noun:anim:f:v_naz:prop:pname
+  Броніславівни noun:anim:f:v_rod:prop:pname
+  Броніславівні noun:anim:f:v_dav:prop:pname
+  Броніславівну noun:anim:f:v_zna:prop:pname
+  Броніславівною noun:anim:f:v_oru:prop:pname
+  Броніславівні noun:anim:f:v_mis:prop:pname
+  Броніславівно noun:anim:f:v_kly:prop:pname
+Вадимівна noun:anim:f:v_naz:prop:pname
+  Вадимівни noun:anim:f:v_rod:prop:pname
+  Вадимівні noun:anim:f:v_dav:prop:pname
+  Вадимівну noun:anim:f:v_zna:prop:pname
+  Вадимівною noun:anim:f:v_oru:prop:pname
+  Вадимівні noun:anim:f:v_mis:prop:pname
+  Вадимівно noun:anim:f:v_kly:prop:pname
+Валентинівна noun:anim:f:v_naz:prop:pname
+  Валентинівни noun:anim:f:v_rod:prop:pname
+  Валентинівні noun:anim:f:v_dav:prop:pname
+  Валентинівну noun:anim:f:v_zna:prop:pname
+  Валентинівною noun:anim:f:v_oru:prop:pname
+  Валентинівні noun:anim:f:v_mis:prop:pname
+  Валентинівно noun:anim:f:v_kly:prop:pname
+Валентіївна noun:anim:f:v_naz:prop:pname
+  Валентіївни noun:anim:f:v_rod:prop:pname
+  Валентіївні noun:anim:f:v_dav:prop:pname
+  Валентіївну noun:anim:f:v_zna:prop:pname
+  Валентіївною noun:anim:f:v_oru:prop:pname
+  Валентіївні noun:anim:f:v_mis:prop:pname
+  Валентіївно noun:anim:f:v_kly:prop:pname
+Валеріанівна noun:anim:f:v_naz:prop:pname
+  Валеріанівни noun:anim:f:v_rod:prop:pname
+  Валеріанівні noun:anim:f:v_dav:prop:pname
+  Валеріанівну noun:anim:f:v_zna:prop:pname
+  Валеріанівною noun:anim:f:v_oru:prop:pname
+  Валеріанівні noun:anim:f:v_mis:prop:pname
+  Валеріанівно noun:anim:f:v_kly:prop:pname
+Валеріївна noun:anim:f:v_naz:prop:pname
+  Валеріївни noun:anim:f:v_rod:prop:pname
+  Валеріївні noun:anim:f:v_dav:prop:pname
+  Валеріївну noun:anim:f:v_zna:prop:pname
+  Валеріївною noun:anim:f:v_oru:prop:pname
+  Валеріївні noun:anim:f:v_mis:prop:pname
+  Валеріївно noun:anim:f:v_kly:prop:pname
+Валер'янівна noun:anim:f:v_naz:prop:pname
+  Валер'янівни noun:anim:f:v_rod:prop:pname
+  Валер'янівні noun:anim:f:v_dav:prop:pname
+  Валер'янівну noun:anim:f:v_zna:prop:pname
+  Валер'янівною noun:anim:f:v_oru:prop:pname
+  Валер'янівні noun:anim:f:v_mis:prop:pname
+  Валер'янівно noun:anim:f:v_kly:prop:pname
+Варламівна noun:anim:f:v_naz:prop:pname
+  Варламівни noun:anim:f:v_rod:prop:pname
+  Варламівні noun:anim:f:v_dav:prop:pname
+  Варламівну noun:anim:f:v_zna:prop:pname
+  Варламівною noun:anim:f:v_oru:prop:pname
+  Варламівні noun:anim:f:v_mis:prop:pname
+  Варламівно noun:anim:f:v_kly:prop:pname
+Варлампіївна noun:anim:f:v_naz:prop:pname
+  Варлампіївни noun:anim:f:v_rod:prop:pname
+  Варлампіївні noun:anim:f:v_dav:prop:pname
+  Варлампіївну noun:anim:f:v_zna:prop:pname
+  Варлампіївною noun:anim:f:v_oru:prop:pname
+  Варлампіївні noun:anim:f:v_mis:prop:pname
+  Варлампіївно noun:anim:f:v_kly:prop:pname
+Варфоломеївна noun:anim:f:v_naz:prop:pname
+  Варфоломеївни noun:anim:f:v_rod:prop:pname
+  Варфоломеївні noun:anim:f:v_dav:prop:pname
+  Варфоломеївну noun:anim:f:v_zna:prop:pname
+  Варфоломеївною noun:anim:f:v_oru:prop:pname
+  Варфоломеївні noun:anim:f:v_mis:prop:pname
+  Варфоломеївно noun:anim:f:v_kly:prop:pname
+Варфоломіївна noun:anim:f:v_naz:prop:pname
+  Варфоломіївни noun:anim:f:v_rod:prop:pname
+  Варфоломіївні noun:anim:f:v_dav:prop:pname
+  Варфоломіївну noun:anim:f:v_zna:prop:pname
+  Варфоломіївною noun:anim:f:v_oru:prop:pname
+  Варфоломіївні noun:anim:f:v_mis:prop:pname
+  Варфоломіївно noun:anim:f:v_kly:prop:pname
+Василівна noun:anim:f:v_naz:prop:pname
+  Василівни noun:anim:f:v_rod:prop:pname
+  Василівні noun:anim:f:v_dav:prop:pname
+  Василівну noun:anim:f:v_zna:prop:pname
+  Василівною noun:anim:f:v_oru:prop:pname
+  Василівні noun:anim:f:v_mis:prop:pname
+  Василівно noun:anim:f:v_kly:prop:pname
+Вацлавівна noun:anim:f:v_naz:prop:pname
+  Вацлавівни noun:anim:f:v_rod:prop:pname
+  Вацлавівні noun:anim:f:v_dav:prop:pname
+  Вацлавівну noun:anim:f:v_zna:prop:pname
+  Вацлавівною noun:anim:f:v_oru:prop:pname
+  Вацлавівні noun:anim:f:v_mis:prop:pname
+  Вацлавівно noun:anim:f:v_kly:prop:pname
+Венедиктівна noun:anim:f:v_naz:prop:pname
+  Венедиктівни noun:anim:f:v_rod:prop:pname
+  Венедиктівні noun:anim:f:v_dav:prop:pname
+  Венедиктівну noun:anim:f:v_zna:prop:pname
+  Венедиктівною noun:anim:f:v_oru:prop:pname
+  Венедиктівні noun:anim:f:v_mis:prop:pname
+  Венедиктівно noun:anim:f:v_kly:prop:pname
+Веніамінівна noun:anim:f:v_naz:prop:pname
+  Веніамінівни noun:anim:f:v_rod:prop:pname
+  Веніамінівні noun:anim:f:v_dav:prop:pname
+  Веніамінівну noun:anim:f:v_zna:prop:pname
+  Веніамінівною noun:anim:f:v_oru:prop:pname
+  Веніамінівні noun:anim:f:v_mis:prop:pname
+  Веніамінівно noun:anim:f:v_kly:prop:pname
+Вереміївна noun:anim:f:v_naz:prop:pname
+  Вереміївни noun:anim:f:v_rod:prop:pname
+  Вереміївні noun:anim:f:v_dav:prop:pname
+  Вереміївну noun:anim:f:v_zna:prop:pname
+  Вереміївною noun:anim:f:v_oru:prop:pname
+  Вереміївні noun:anim:f:v_mis:prop:pname
+  Вереміївно noun:anim:f:v_kly:prop:pname
+Вікентівна noun:anim:f:v_naz:prop:pname
+  Вікентівни noun:anim:f:v_rod:prop:pname
+  Вікентівні noun:anim:f:v_dav:prop:pname
+  Вікентівну noun:anim:f:v_zna:prop:pname
+  Вікентівною noun:anim:f:v_oru:prop:pname
+  Вікентівні noun:anim:f:v_mis:prop:pname
+  Вікентівно noun:anim:f:v_kly:prop:pname
+Вікентіївна noun:anim:f:v_naz:prop:pname
+  Вікентіївни noun:anim:f:v_rod:prop:pname
+  Вікентіївні noun:anim:f:v_dav:prop:pname
+  Вікентіївну noun:anim:f:v_zna:prop:pname
+  Вікентіївною noun:anim:f:v_oru:prop:pname
+  Вікентіївні noun:anim:f:v_mis:prop:pname
+  Вікентіївно noun:anim:f:v_kly:prop:pname
+Вікторівна noun:anim:f:v_naz:prop:pname
+  Вікторівни noun:anim:f:v_rod:prop:pname
+  Вікторівні noun:anim:f:v_dav:prop:pname
+  Вікторівну noun:anim:f:v_zna:prop:pname
+  Вікторівною noun:anim:f:v_oru:prop:pname
+  Вікторівні noun:anim:f:v_mis:prop:pname
+  Вікторівно noun:anim:f:v_kly:prop:pname
+Віленівна noun:anim:f:v_naz:prop:pname
+  Віленівни noun:anim:f:v_rod:prop:pname
+  Віленівні noun:anim:f:v_dav:prop:pname
+  Віленівну noun:anim:f:v_zna:prop:pname
+  Віленівною noun:anim:f:v_oru:prop:pname
+  Віленівні noun:anim:f:v_mis:prop:pname
+  Віленівно noun:anim:f:v_kly:prop:pname
+Вільгельмівна noun:anim:f:v_naz:prop:pname
+  Вільгельмівни noun:anim:f:v_rod:prop:pname
+  Вільгельмівні noun:anim:f:v_dav:prop:pname
+  Вільгельмівну noun:anim:f:v_zna:prop:pname
+  Вільгельмівною noun:anim:f:v_oru:prop:pname
+  Вільгельмівні noun:anim:f:v_mis:prop:pname
+  Вільгельмівно noun:anim:f:v_kly:prop:pname
+Вірославівна noun:anim:f:v_naz:prop:pname
+  Вірославівни noun:anim:f:v_rod:prop:pname
+  Вірославівні noun:anim:f:v_dav:prop:pname
+  Вірославівну noun:anim:f:v_zna:prop:pname
+  Вірославівною noun:anim:f:v_oru:prop:pname
+  Вірославівні noun:anim:f:v_mis:prop:pname
+  Вірославівно noun:anim:f:v_kly:prop:pname
+Віссаріонівна noun:anim:f:v_naz:prop:pname
+  Віссаріонівни noun:anim:f:v_rod:prop:pname
+  Віссаріонівні noun:anim:f:v_dav:prop:pname
+  Віссаріонівну noun:anim:f:v_zna:prop:pname
+  Віссаріонівною noun:anim:f:v_oru:prop:pname
+  Віссаріонівні noun:anim:f:v_mis:prop:pname
+  Віссаріонівно noun:anim:f:v_kly:prop:pname
+Віталівна noun:anim:f:v_naz:prop:pname
+  Віталівни noun:anim:f:v_rod:prop:pname
+  Віталівні noun:anim:f:v_dav:prop:pname
+  Віталівну noun:anim:f:v_zna:prop:pname
+  Віталівною noun:anim:f:v_oru:prop:pname
+  Віталівні noun:anim:f:v_mis:prop:pname
+  Віталівно noun:anim:f:v_kly:prop:pname
+Віталіївна noun:anim:f:v_naz:prop:pname
+  Віталіївни noun:anim:f:v_rod:prop:pname
+  Віталіївні noun:anim:f:v_dav:prop:pname
+  Віталіївну noun:anim:f:v_zna:prop:pname
+  Віталіївною noun:anim:f:v_oru:prop:pname
+  Віталіївні noun:anim:f:v_mis:prop:pname
+  Віталіївно noun:anim:f:v_kly:prop:pname
+Вітольдівна noun:anim:f:v_naz:prop:pname
+  Вітольдівни noun:anim:f:v_rod:prop:pname
+  Вітольдівні noun:anim:f:v_dav:prop:pname
+  Вітольдівну noun:anim:f:v_zna:prop:pname
+  Вітольдівною noun:anim:f:v_oru:prop:pname
+  Вітольдівні noun:anim:f:v_mis:prop:pname
+  Вітольдівно noun:anim:f:v_kly:prop:pname
+Владиленівна noun:anim:f:v_naz:prop:pname
+  Владиленівни noun:anim:f:v_rod:prop:pname
+  Владиленівні noun:anim:f:v_dav:prop:pname
+  Владиленівну noun:anim:f:v_zna:prop:pname
+  Владиленівною noun:anim:f:v_oru:prop:pname
+  Владиленівні noun:anim:f:v_mis:prop:pname
+  Владиленівно noun:anim:f:v_kly:prop:pname
+Владиславівна noun:anim:f:v_naz:prop:pname
+  Владиславівни noun:anim:f:v_rod:prop:pname
+  Владиславівні noun:anim:f:v_dav:prop:pname
+  Владиславівну noun:anim:f:v_zna:prop:pname
+  Владиславівною noun:anim:f:v_oru:prop:pname
+  Владиславівні noun:anim:f:v_mis:prop:pname
+  Владиславівно noun:anim:f:v_kly:prop:pname
+Владіморівна noun:anim:f:v_naz:prop:pname
+  Владіморівни noun:anim:f:v_rod:prop:pname
+  Владіморівні noun:anim:f:v_dav:prop:pname
+  Владіморівну noun:anim:f:v_zna:prop:pname
+  Владіморівною noun:anim:f:v_oru:prop:pname
+  Владіморівні noun:anim:f:v_mis:prop:pname
+  Владіморівно noun:anim:f:v_kly:prop:pname
+Владленівна noun:anim:f:v_naz:prop:pname
+  Владленівни noun:anim:f:v_rod:prop:pname
+  Владленівні noun:anim:f:v_dav:prop:pname
+  Владленівну noun:anim:f:v_zna:prop:pname
+  Владленівною noun:anim:f:v_oru:prop:pname
+  Владленівні noun:anim:f:v_mis:prop:pname
+  Владленівно noun:anim:f:v_kly:prop:pname
+Власівна noun:anim:f:v_naz:prop:pname
+  Власівни noun:anim:f:v_rod:prop:pname
+  Власівні noun:anim:f:v_dav:prop:pname
+  Власівну noun:anim:f:v_zna:prop:pname
+  Власівною noun:anim:f:v_oru:prop:pname
+  Власівні noun:anim:f:v_mis:prop:pname
+  Власівно noun:anim:f:v_kly:prop:pname
+Власіївна noun:anim:f:v_naz:prop:pname
+  Власіївни noun:anim:f:v_rod:prop:pname
+  Власіївні noun:anim:f:v_dav:prop:pname
+  Власіївну noun:anim:f:v_zna:prop:pname
+  Власіївною noun:anim:f:v_oru:prop:pname
+  Власіївні noun:anim:f:v_mis:prop:pname
+  Власіївно noun:anim:f:v_kly:prop:pname
+Войцехівна noun:anim:f:v_naz:prop:pname
+  Войцехівни noun:anim:f:v_rod:prop:pname
+  Войцехівні noun:anim:f:v_dav:prop:pname
+  Войцехівну noun:anim:f:v_zna:prop:pname
+  Войцехівною noun:anim:f:v_oru:prop:pname
+  Войцехівні noun:anim:f:v_mis:prop:pname
+  Войцехівно noun:anim:f:v_kly:prop:pname
+Володимирівна noun:anim:f:v_naz:prop:pname    # ім'я
+  Володимирівни noun:anim:f:v_rod:prop:pname
+  Володимирівні noun:anim:f:v_dav:prop:pname
+  Володимирівну noun:anim:f:v_zna:prop:pname
+  Володимирівною noun:anim:f:v_oru:prop:pname
+  Володимирівні noun:anim:f:v_mis:prop:pname
+  Володимирівно noun:anim:f:v_kly:prop:pname
+Вольфівна noun:anim:f:v_naz:prop:pname
+  Вольфівни noun:anim:f:v_rod:prop:pname
+  Вольфівні noun:anim:f:v_dav:prop:pname
+  Вольфівну noun:anim:f:v_zna:prop:pname
+  Вольфівною noun:anim:f:v_oru:prop:pname
+  Вольфівні noun:anim:f:v_mis:prop:pname
+  Вольфівно noun:anim:f:v_kly:prop:pname
+Всеволодівна noun:anim:f:v_naz:prop:pname
+  Всеволодівни noun:anim:f:v_rod:prop:pname
+  Всеволодівні noun:anim:f:v_dav:prop:pname
+  Всеволодівну noun:anim:f:v_zna:prop:pname
+  Всеволодівною noun:anim:f:v_oru:prop:pname
+  Всеволодівні noun:anim:f:v_mis:prop:pname
+  Всеволодівно noun:anim:f:v_kly:prop:pname
+Всеславівна noun:anim:f:v_naz:prop:pname
+  Всеславівни noun:anim:f:v_rod:prop:pname
+  Всеславівні noun:anim:f:v_dav:prop:pname
+  Всеславівну noun:anim:f:v_zna:prop:pname
+  Всеславівною noun:anim:f:v_oru:prop:pname
+  Всеславівні noun:anim:f:v_mis:prop:pname
+  Всеславівно noun:anim:f:v_kly:prop:pname
+В'ячеславівна noun:anim:f:v_naz:prop:pname
+  В'ячеславівни noun:anim:f:v_rod:prop:pname
+  В'ячеславівні noun:anim:f:v_dav:prop:pname
+  В'ячеславівну noun:anim:f:v_zna:prop:pname
+  В'ячеславівною noun:anim:f:v_oru:prop:pname
+  В'ячеславівні noun:anim:f:v_mis:prop:pname
+  В'ячеславівно noun:anim:f:v_kly:prop:pname
+Гаврилівна noun:anim:f:v_naz:prop:pname
+  Гаврилівни noun:anim:f:v_rod:prop:pname
+  Гаврилівні noun:anim:f:v_dav:prop:pname
+  Гаврилівну noun:anim:f:v_zna:prop:pname
+  Гаврилівною noun:anim:f:v_oru:prop:pname
+  Гаврилівні noun:anim:f:v_mis:prop:pname
+  Гаврилівно noun:anim:f:v_kly:prop:pname
+Гайдарівна noun:anim:f:v_naz:prop:pname
+  Гайдарівни noun:anim:f:v_rod:prop:pname
+  Гайдарівні noun:anim:f:v_dav:prop:pname
+  Гайдарівну noun:anim:f:v_zna:prop:pname
+  Гайдарівною noun:anim:f:v_oru:prop:pname
+  Гайдарівні noun:anim:f:v_mis:prop:pname
+  Гайдарівно noun:anim:f:v_kly:prop:pname
+Галактіонівна noun:anim:f:v_naz:prop:pname
+  Галактіонівни noun:anim:f:v_rod:prop:pname
+  Галактіонівні noun:anim:f:v_dav:prop:pname
+  Галактіонівну noun:anim:f:v_zna:prop:pname
+  Галактіонівною noun:anim:f:v_oru:prop:pname
+  Галактіонівні noun:anim:f:v_mis:prop:pname
+  Галактіонівно noun:anim:f:v_kly:prop:pname
+Гамзатівна noun:anim:f:v_naz:prop:pname
+  Гамзатівни noun:anim:f:v_rod:prop:pname
+  Гамзатівні noun:anim:f:v_dav:prop:pname
+  Гамзатівну noun:anim:f:v_zna:prop:pname
+  Гамзатівною noun:anim:f:v_oru:prop:pname
+  Гамзатівні noun:anim:f:v_mis:prop:pname
+  Гамзатівно noun:anim:f:v_kly:prop:pname
+Гедимонівна noun:anim:f:v_naz:prop:pname
+  Гедимонівни noun:anim:f:v_rod:prop:pname
+  Гедимонівні noun:anim:f:v_dav:prop:pname
+  Гедимонівну noun:anim:f:v_zna:prop:pname
+  Гедимонівною noun:anim:f:v_oru:prop:pname
+  Гедимонівні noun:anim:f:v_mis:prop:pname
+  Гедимонівно noun:anim:f:v_kly:prop:pname
+Геннадіївна noun:anim:f:v_naz:prop:pname
+  Геннадіївни noun:anim:f:v_rod:prop:pname
+  Геннадіївні noun:anim:f:v_dav:prop:pname
+  Геннадіївну noun:anim:f:v_zna:prop:pname
+  Геннадіївною noun:anim:f:v_oru:prop:pname
+  Геннадіївні noun:anim:f:v_mis:prop:pname
+  Геннадіївно noun:anim:f:v_kly:prop:pname
+Генріхівна noun:anim:f:v_naz:prop:pname
+  Генріхівни noun:anim:f:v_rod:prop:pname
+  Генріхівні noun:anim:f:v_dav:prop:pname
+  Генріхівну noun:anim:f:v_zna:prop:pname
+  Генріхівною noun:anim:f:v_oru:prop:pname
+  Генріхівні noun:anim:f:v_mis:prop:pname
+  Генріхівно noun:anim:f:v_kly:prop:pname
+Георгівна noun:anim:f:v_naz:prop:pname
+  Георгівни noun:anim:f:v_rod:prop:pname
+  Георгівні noun:anim:f:v_dav:prop:pname
+  Георгівну noun:anim:f:v_zna:prop:pname
+  Георгівною noun:anim:f:v_oru:prop:pname
+  Георгівні noun:anim:f:v_mis:prop:pname
+  Георгівно noun:anim:f:v_kly:prop:pname
+Георгіївна noun:anim:f:v_naz:prop:pname
+  Георгіївни noun:anim:f:v_rod:prop:pname
+  Георгіївні noun:anim:f:v_dav:prop:pname
+  Георгіївну noun:anim:f:v_zna:prop:pname
+  Георгіївною noun:anim:f:v_oru:prop:pname
+  Георгіївні noun:anim:f:v_mis:prop:pname
+  Георгіївно noun:anim:f:v_kly:prop:pname
+Герасимівна noun:anim:f:v_naz:prop:pname
+  Герасимівни noun:anim:f:v_rod:prop:pname
+  Герасимівні noun:anim:f:v_dav:prop:pname
+  Герасимівну noun:anim:f:v_zna:prop:pname
+  Герасимівною noun:anim:f:v_oru:prop:pname
+  Герасимівні noun:anim:f:v_mis:prop:pname
+  Герасимівно noun:anim:f:v_kly:prop:pname
+Германівна noun:anim:f:v_naz:prop:pname
+  Германівни noun:anim:f:v_rod:prop:pname
+  Германівні noun:anim:f:v_dav:prop:pname
+  Германівну noun:anim:f:v_zna:prop:pname
+  Германівною noun:anim:f:v_oru:prop:pname
+  Германівні noun:anim:f:v_mis:prop:pname
+  Германівно noun:anim:f:v_kly:prop:pname
+Герхардівна noun:anim:f:v_naz:prop:pname
+  Герхардівни noun:anim:f:v_rod:prop:pname
+  Герхардівні noun:anim:f:v_dav:prop:pname
+  Герхардівну noun:anim:f:v_zna:prop:pname
+  Герхардівною noun:anim:f:v_oru:prop:pname
+  Герхардівні noun:anim:f:v_mis:prop:pname
+  Герхардівно noun:anim:f:v_kly:prop:pname
+Глібівна noun:anim:f:v_naz:prop:pname
+  Глібівни noun:anim:f:v_rod:prop:pname
+  Глібівні noun:anim:f:v_dav:prop:pname
+  Глібівну noun:anim:f:v_zna:prop:pname
+  Глібівною noun:anim:f:v_oru:prop:pname
+  Глібівні noun:anim:f:v_mis:prop:pname
+  Глібівно noun:anim:f:v_kly:prop:pname
+Гнатівна noun:anim:f:v_naz:prop:pname
+  Гнатівни noun:anim:f:v_rod:prop:pname
+  Гнатівні noun:anim:f:v_dav:prop:pname
+  Гнатівну noun:anim:f:v_zna:prop:pname
+  Гнатівною noun:anim:f:v_oru:prop:pname
+  Гнатівні noun:anim:f:v_mis:prop:pname
+  Гнатівно noun:anim:f:v_kly:prop:pname
+Гоноріївна noun:anim:f:v_naz:prop:pname
+  Гоноріївни noun:anim:f:v_rod:prop:pname
+  Гоноріївні noun:anim:f:v_dav:prop:pname
+  Гоноріївну noun:anim:f:v_zna:prop:pname
+  Гоноріївною noun:anim:f:v_oru:prop:pname
+  Гоноріївні noun:anim:f:v_mis:prop:pname
+  Гоноріївно noun:anim:f:v_kly:prop:pname
+Гордіївна noun:anim:f:v_naz:prop:pname
+  Гордіївни noun:anim:f:v_rod:prop:pname
+  Гордіївні noun:anim:f:v_dav:prop:pname
+  Гордіївну noun:anim:f:v_zna:prop:pname
+  Гордіївною noun:anim:f:v_oru:prop:pname
+  Гордіївні noun:anim:f:v_mis:prop:pname
+  Гордіївно noun:anim:f:v_kly:prop:pname
+Григорівна noun:anim:f:v_naz:prop:pname
+  Григорівни noun:anim:f:v_rod:prop:pname
+  Григорівні noun:anim:f:v_dav:prop:pname
+  Григорівну noun:anim:f:v_zna:prop:pname
+  Григорівною noun:anim:f:v_oru:prop:pname
+  Григорівні noun:anim:f:v_mis:prop:pname
+  Григорівно noun:anim:f:v_kly:prop:pname
+Григоріївна noun:anim:f:v_naz:prop:pname
+  Григоріївни noun:anim:f:v_rod:prop:pname
+  Григоріївні noun:anim:f:v_dav:prop:pname
+  Григоріївну noun:anim:f:v_zna:prop:pname
+  Григоріївною noun:anim:f:v_oru:prop:pname
+  Григоріївні noun:anim:f:v_mis:prop:pname
+  Григоріївно noun:anim:f:v_kly:prop:pname
+Гургенівна noun:anim:f:v_naz:prop:pname
+  Гургенівни noun:anim:f:v_rod:prop:pname
+  Гургенівні noun:anim:f:v_dav:prop:pname
+  Гургенівну noun:anim:f:v_zna:prop:pname
+  Гургенівною noun:anim:f:v_oru:prop:pname
+  Гургенівні noun:anim:f:v_mis:prop:pname
+  Гургенівно noun:anim:f:v_kly:prop:pname
+Густавівна noun:anim:f:v_naz:prop:pname
+  Густавівни noun:anim:f:v_rod:prop:pname
+  Густавівні noun:anim:f:v_dav:prop:pname
+  Густавівну noun:anim:f:v_zna:prop:pname
+  Густавівною noun:anim:f:v_oru:prop:pname
+  Густавівні noun:anim:f:v_mis:prop:pname
+  Густавівно noun:anim:f:v_kly:prop:pname
+Ґеоргівна noun:anim:f:v_naz:prop:pname
+  Ґеоргівни noun:anim:f:v_rod:prop:pname
+  Ґеоргівні noun:anim:f:v_dav:prop:pname
+  Ґеоргівну noun:anim:f:v_zna:prop:pname
+  Ґеоргівною noun:anim:f:v_oru:prop:pname
+  Ґеоргівні noun:anim:f:v_mis:prop:pname
+  Ґеоргівно noun:anim:f:v_kly:prop:pname
+Ґеорґівна noun:anim:f:v_naz:prop:pname
+  Ґеорґівни noun:anim:f:v_rod:prop:pname
+  Ґеорґівні noun:anim:f:v_dav:prop:pname
+  Ґеорґівну noun:anim:f:v_zna:prop:pname
+  Ґеорґівною noun:anim:f:v_oru:prop:pname
+  Ґеорґівні noun:anim:f:v_mis:prop:pname
+  Ґеорґівно noun:anim:f:v_kly:prop:pname
+Давидівна noun:anim:f:v_naz:prop:pname
+  Давидівни noun:anim:f:v_rod:prop:pname
+  Давидівні noun:anim:f:v_dav:prop:pname
+  Давидівну noun:anim:f:v_zna:prop:pname
+  Давидівною noun:anim:f:v_oru:prop:pname
+  Давидівні noun:anim:f:v_mis:prop:pname
+  Давидівно noun:anim:f:v_kly:prop:pname
+Данилівна noun:anim:f:v_naz:prop:pname
+  Данилівни noun:anim:f:v_rod:prop:pname
+  Данилівні noun:anim:f:v_dav:prop:pname
+  Данилівну noun:anim:f:v_zna:prop:pname
+  Данилівною noun:anim:f:v_oru:prop:pname
+  Данилівні noun:anim:f:v_mis:prop:pname
+  Данилівно noun:anim:f:v_kly:prop:pname
+Дементіївна noun:anim:f:v_naz:prop:pname
+  Дементіївни noun:anim:f:v_rod:prop:pname
+  Дементіївні noun:anim:f:v_dav:prop:pname
+  Дементіївну noun:anim:f:v_zna:prop:pname
+  Дементіївною noun:anim:f:v_oru:prop:pname
+  Дементіївні noun:anim:f:v_mis:prop:pname
+  Дементіївно noun:anim:f:v_kly:prop:pname
+Дем'янівна noun:anim:f:v_naz:prop:pname
+  Дем'янівни noun:anim:f:v_rod:prop:pname
+  Дем'янівні noun:anim:f:v_dav:prop:pname
+  Дем'янівну noun:anim:f:v_zna:prop:pname
+  Дем'янівною noun:anim:f:v_oru:prop:pname
+  Дем'янівні noun:anim:f:v_mis:prop:pname
+  Дем'янівно noun:anim:f:v_kly:prop:pname
+Денисівна noun:anim:f:v_naz:prop:pname
+  Денисівни noun:anim:f:v_rod:prop:pname
+  Денисівні noun:anim:f:v_dav:prop:pname
+  Денисівну noun:anim:f:v_zna:prop:pname
+  Денисівною noun:anim:f:v_oru:prop:pname
+  Денисівні noun:anim:f:v_mis:prop:pname
+  Денисівно noun:anim:f:v_kly:prop:pname
+Дмитрівна noun:anim:f:v_naz:prop:pname
+  Дмитрівни noun:anim:f:v_rod:prop:pname
+  Дмитрівні noun:anim:f:v_dav:prop:pname
+  Дмитрівну noun:anim:f:v_zna:prop:pname
+  Дмитрівною noun:anim:f:v_oru:prop:pname
+  Дмитрівні noun:anim:f:v_mis:prop:pname
+  Дмитрівно noun:anim:f:v_kly:prop:pname
+Дмитріївна noun:anim:f:v_naz:prop:pname
+  Дмитріївни noun:anim:f:v_rod:prop:pname
+  Дмитріївні noun:anim:f:v_dav:prop:pname
+  Дмитріївну noun:anim:f:v_zna:prop:pname
+  Дмитріївною noun:anim:f:v_oru:prop:pname
+  Дмитріївні noun:anim:f:v_mis:prop:pname
+  Дмитріївно noun:anim:f:v_kly:prop:pname
+Домініківна noun:anim:f:v_naz:prop:pname
+  Домініківни noun:anim:f:v_rod:prop:pname
+  Домініківні noun:anim:f:v_dav:prop:pname
+  Домініківну noun:anim:f:v_zna:prop:pname
+  Домініківною noun:anim:f:v_oru:prop:pname
+  Домініківні noun:anim:f:v_mis:prop:pname
+  Домініківно noun:anim:f:v_kly:prop:pname
+Дорофеївна noun:anim:f:v_naz:prop:pname
+  Дорофеївни noun:anim:f:v_rod:prop:pname
+  Дорофеївні noun:anim:f:v_dav:prop:pname
+  Дорофеївну noun:anim:f:v_zna:prop:pname
+  Дорофеївною noun:anim:f:v_oru:prop:pname
+  Дорофеївні noun:anim:f:v_mis:prop:pname
+  Дорофеївно noun:anim:f:v_kly:prop:pname
+Дорофіївна noun:anim:f:v_naz:prop:pname
+  Дорофіївни noun:anim:f:v_rod:prop:pname
+  Дорофіївні noun:anim:f:v_dav:prop:pname
+  Дорофіївну noun:anim:f:v_zna:prop:pname
+  Дорофіївною noun:anim:f:v_oru:prop:pname
+  Дорофіївні noun:anim:f:v_mis:prop:pname
+  Дорофіївно noun:anim:f:v_kly:prop:pname
+Едвардівна noun:anim:f:v_naz:prop:pname
+  Едвардівни noun:anim:f:v_rod:prop:pname
+  Едвардівні noun:anim:f:v_dav:prop:pname
+  Едвардівну noun:anim:f:v_zna:prop:pname
+  Едвардівною noun:anim:f:v_oru:prop:pname
+  Едвардівні noun:anim:f:v_mis:prop:pname
+  Едвардівно noun:anim:f:v_kly:prop:pname
+Едгарівна noun:anim:f:v_naz:prop:pname
+  Едгарівни noun:anim:f:v_rod:prop:pname
+  Едгарівні noun:anim:f:v_dav:prop:pname
+  Едгарівну noun:anim:f:v_zna:prop:pname
+  Едгарівною noun:anim:f:v_oru:prop:pname
+  Едгарівні noun:anim:f:v_mis:prop:pname
+  Едгарівно noun:anim:f:v_kly:prop:pname
+Едґарівна noun:anim:f:v_naz:prop:pname
+  Едґарівни noun:anim:f:v_rod:prop:pname
+  Едґарівні noun:anim:f:v_dav:prop:pname
+  Едґарівну noun:anim:f:v_zna:prop:pname
+  Едґарівною noun:anim:f:v_oru:prop:pname
+  Едґарівні noun:anim:f:v_mis:prop:pname
+  Едґарівно noun:anim:f:v_kly:prop:pname
+Едмондівна noun:anim:f:v_naz:prop:pname
+  Едмондівни noun:anim:f:v_rod:prop:pname
+  Едмондівні noun:anim:f:v_dav:prop:pname
+  Едмондівну noun:anim:f:v_zna:prop:pname
+  Едмондівною noun:anim:f:v_oru:prop:pname
+  Едмондівні noun:anim:f:v_mis:prop:pname
+  Едмондівно noun:anim:f:v_kly:prop:pname
+Едмундівна noun:anim:f:v_naz:prop:pname
+  Едмундівни noun:anim:f:v_rod:prop:pname
+  Едмундівні noun:anim:f:v_dav:prop:pname
+  Едмундівну noun:anim:f:v_zna:prop:pname
+  Едмундівною noun:anim:f:v_oru:prop:pname
+  Едмундівні noun:anim:f:v_mis:prop:pname
+  Едмундівно noun:anim:f:v_kly:prop:pname
+Едуардівна noun:anim:f:v_naz:prop:pname
+  Едуардівни noun:anim:f:v_rod:prop:pname
+  Едуардівні noun:anim:f:v_dav:prop:pname
+  Едуардівну noun:anim:f:v_zna:prop:pname
+  Едуардівною noun:anim:f:v_oru:prop:pname
+  Едуардівні noun:anim:f:v_mis:prop:pname
+  Едуардівно noun:anim:f:v_kly:prop:pname
+Ельдарівна noun:anim:f:v_naz:prop:pname
+  Ельдарівни noun:anim:f:v_rod:prop:pname
+  Ельдарівні noun:anim:f:v_dav:prop:pname
+  Ельдарівну noun:anim:f:v_zna:prop:pname
+  Ельдарівною noun:anim:f:v_oru:prop:pname
+  Ельдарівні noun:anim:f:v_mis:prop:pname
+  Ельдарівно noun:anim:f:v_kly:prop:pname
+Емануїлівна noun:anim:f:v_naz:prop:pname
+  Емануїлівни noun:anim:f:v_rod:prop:pname
+  Емануїлівні noun:anim:f:v_dav:prop:pname
+  Емануїлівну noun:anim:f:v_zna:prop:pname
+  Емануїлівною noun:anim:f:v_oru:prop:pname
+  Емануїлівні noun:anim:f:v_mis:prop:pname
+  Емануїлівно noun:anim:f:v_kly:prop:pname
+Еммануїлівна noun:anim:f:v_naz:prop:pname
+  Еммануїлівни noun:anim:f:v_rod:prop:pname
+  Еммануїлівні noun:anim:f:v_dav:prop:pname
+  Еммануїлівну noun:anim:f:v_zna:prop:pname
+  Еммануїлівною noun:anim:f:v_oru:prop:pname
+  Еммануїлівні noun:anim:f:v_mis:prop:pname
+  Еммануїлівно noun:anim:f:v_kly:prop:pname
+Енверівна noun:anim:f:v_naz:prop:pname
+  Енверівни noun:anim:f:v_rod:prop:pname
+  Енверівні noun:anim:f:v_dav:prop:pname
+  Енверівну noun:anim:f:v_zna:prop:pname
+  Енверівною noun:anim:f:v_oru:prop:pname
+  Енверівні noun:anim:f:v_mis:prop:pname
+  Енверівно noun:anim:f:v_kly:prop:pname
+Ернестівна noun:anim:f:v_naz:prop:pname
+  Ернестівни noun:anim:f:v_rod:prop:pname
+  Ернестівні noun:anim:f:v_dav:prop:pname
+  Ернестівну noun:anim:f:v_zna:prop:pname
+  Ернестівною noun:anim:f:v_oru:prop:pname
+  Ернестівні noun:anim:f:v_mis:prop:pname
+  Ернестівно noun:anim:f:v_kly:prop:pname
+Євгенівна noun:anim:f:v_naz:prop:pname
+  Євгенівни noun:anim:f:v_rod:prop:pname
+  Євгенівні noun:anim:f:v_dav:prop:pname
+  Євгенівну noun:anim:f:v_zna:prop:pname
+  Євгенівною noun:anim:f:v_oru:prop:pname
+  Євгенівні noun:anim:f:v_mis:prop:pname
+  Євгенівно noun:anim:f:v_kly:prop:pname
+Євгеніївна noun:anim:f:v_naz:prop:pname
+  Євгеніївни noun:anim:f:v_rod:prop:pname
+  Євгеніївні noun:anim:f:v_dav:prop:pname
+  Євгеніївну noun:anim:f:v_zna:prop:pname
+  Євгеніївною noun:anim:f:v_oru:prop:pname
+  Євгеніївні noun:anim:f:v_mis:prop:pname
+  Євгеніївно noun:anim:f:v_kly:prop:pname
+Євграфівна noun:anim:f:v_naz:prop:pname
+  Євграфівни noun:anim:f:v_rod:prop:pname
+  Євграфівні noun:anim:f:v_dav:prop:pname
+  Євграфівну noun:anim:f:v_zna:prop:pname
+  Євграфівною noun:anim:f:v_oru:prop:pname
+  Євграфівні noun:anim:f:v_mis:prop:pname
+  Євграфівно noun:anim:f:v_kly:prop:pname
+Євдокимівна noun:anim:f:v_naz:prop:pname
+  Євдокимівни noun:anim:f:v_rod:prop:pname
+  Євдокимівні noun:anim:f:v_dav:prop:pname
+  Євдокимівну noun:anim:f:v_zna:prop:pname
+  Євдокимівною noun:anim:f:v_oru:prop:pname
+  Євдокимівні noun:anim:f:v_mis:prop:pname
+  Євдокимівно noun:anim:f:v_kly:prop:pname
+Євлампіївна noun:anim:f:v_naz:prop:pname
+  Євлампіївни noun:anim:f:v_rod:prop:pname
+  Євлампіївні noun:anim:f:v_dav:prop:pname
+  Євлампіївну noun:anim:f:v_zna:prop:pname
+  Євлампіївною noun:anim:f:v_oru:prop:pname
+  Євлампіївні noun:anim:f:v_mis:prop:pname
+  Євлампіївно noun:anim:f:v_kly:prop:pname
+Євменівна noun:anim:f:v_naz:prop:pname
+  Євменівни noun:anim:f:v_rod:prop:pname
+  Євменівні noun:anim:f:v_dav:prop:pname
+  Євменівну noun:anim:f:v_zna:prop:pname
+  Євменівною noun:anim:f:v_oru:prop:pname
+  Євменівні noun:anim:f:v_mis:prop:pname
+  Євменівно noun:anim:f:v_kly:prop:pname
+Євсевіївна noun:anim:f:v_naz:prop:pname
+  Євсевіївни noun:anim:f:v_rod:prop:pname
+  Євсевіївні noun:anim:f:v_dav:prop:pname
+  Євсевіївну noun:anim:f:v_zna:prop:pname
+  Євсевіївною noun:anim:f:v_oru:prop:pname
+  Євсевіївні noun:anim:f:v_mis:prop:pname
+  Євсевіївно noun:anim:f:v_kly:prop:pname
+Євсеївна noun:anim:f:v_naz:prop:pname
+  Євсеївни noun:anim:f:v_rod:prop:pname
+  Євсеївні noun:anim:f:v_dav:prop:pname
+  Євсеївну noun:anim:f:v_zna:prop:pname
+  Євсеївною noun:anim:f:v_oru:prop:pname
+  Євсеївні noun:anim:f:v_mis:prop:pname
+  Євсеївно noun:anim:f:v_kly:prop:pname
+Євсіївна noun:anim:f:v_naz:prop:pname
+  Євсіївни noun:anim:f:v_rod:prop:pname
+  Євсіївні noun:anim:f:v_dav:prop:pname
+  Євсіївну noun:anim:f:v_zna:prop:pname
+  Євсіївною noun:anim:f:v_oru:prop:pname
+  Євсіївні noun:anim:f:v_mis:prop:pname
+  Євсіївно noun:anim:f:v_kly:prop:pname
+Євстафіївна noun:anim:f:v_naz:prop:pname
+  Євстафіївни noun:anim:f:v_rod:prop:pname
+  Євстафіївні noun:anim:f:v_dav:prop:pname
+  Євстафіївну noun:anim:f:v_zna:prop:pname
+  Євстафіївною noun:anim:f:v_oru:prop:pname
+  Євстафіївні noun:anim:f:v_mis:prop:pname
+  Євстафіївно noun:anim:f:v_kly:prop:pname
+Євстахіївна noun:anim:f:v_naz:prop:pname
+  Євстахіївни noun:anim:f:v_rod:prop:pname
+  Євстахіївні noun:anim:f:v_dav:prop:pname
+  Євстахіївну noun:anim:f:v_zna:prop:pname
+  Євстахіївною noun:anim:f:v_oru:prop:pname
+  Євстахіївні noun:anim:f:v_mis:prop:pname
+  Євстахіївно noun:anim:f:v_kly:prop:pname
+Євстратівна noun:anim:f:v_naz:prop:pname
+  Євстратівни noun:anim:f:v_rod:prop:pname
+  Євстратівні noun:anim:f:v_dav:prop:pname
+  Євстратівну noun:anim:f:v_zna:prop:pname
+  Євстратівною noun:anim:f:v_oru:prop:pname
+  Євстратівні noun:anim:f:v_mis:prop:pname
+  Євстратівно noun:anim:f:v_kly:prop:pname
+Євстратіївна noun:anim:f:v_naz:prop:pname
+  Євстратіївни noun:anim:f:v_rod:prop:pname
+  Євстратіївні noun:anim:f:v_dav:prop:pname
+  Євстратіївну noun:anim:f:v_zna:prop:pname
+  Євстратіївною noun:anim:f:v_oru:prop:pname
+  Євстратіївні noun:anim:f:v_mis:prop:pname
+  Євстратіївно noun:anim:f:v_kly:prop:pname
+Євтихіївна noun:anim:f:v_naz:prop:pname
+  Євтихіївни noun:anim:f:v_rod:prop:pname
+  Євтихіївні noun:anim:f:v_dav:prop:pname
+  Євтихіївну noun:anim:f:v_zna:prop:pname
+  Євтихіївною noun:anim:f:v_oru:prop:pname
+  Євтихіївні noun:anim:f:v_mis:prop:pname
+  Євтихіївно noun:anim:f:v_kly:prop:pname
+Єгорівна noun:anim:f:v_naz:prop:pname
+  Єгорівни noun:anim:f:v_rod:prop:pname
+  Єгорівні noun:anim:f:v_dav:prop:pname
+  Єгорівну noun:anim:f:v_zna:prop:pname
+  Єгорівною noun:anim:f:v_oru:prop:pname
+  Єгорівні noun:anim:f:v_mis:prop:pname
+  Єгорівно noun:anim:f:v_kly:prop:pname
+Єлеазарівна noun:anim:f:v_naz:prop:pname
+  Єлеазарівни noun:anim:f:v_rod:prop:pname
+  Єлеазарівні noun:anim:f:v_dav:prop:pname
+  Єлеазарівну noun:anim:f:v_zna:prop:pname
+  Єлеазарівною noun:anim:f:v_oru:prop:pname
+  Єлеазарівні noun:anim:f:v_mis:prop:pname
+  Єлеазарівно noun:anim:f:v_kly:prop:pname
+Єлизарівна noun:anim:f:v_naz:prop:pname
+  Єлизарівни noun:anim:f:v_rod:prop:pname
+  Єлизарівні noun:anim:f:v_dav:prop:pname
+  Єлизарівну noun:anim:f:v_zna:prop:pname
+  Єлизарівною noun:anim:f:v_oru:prop:pname
+  Єлизарівні noun:anim:f:v_mis:prop:pname
+  Єлизарівно noun:anim:f:v_kly:prop:pname
+Єлисеївна noun:anim:f:v_naz:prop:pname
+  Єлисеївни noun:anim:f:v_rod:prop:pname
+  Єлисеївні noun:anim:f:v_dav:prop:pname
+  Єлисеївну noun:anim:f:v_zna:prop:pname
+  Єлисеївною noun:anim:f:v_oru:prop:pname
+  Єлисеївні noun:anim:f:v_mis:prop:pname
+  Єлисеївно noun:anim:f:v_kly:prop:pname
+Єпіфанівна noun:anim:f:v_naz:prop:pname
+  Єпіфанівни noun:anim:f:v_rod:prop:pname
+  Єпіфанівні noun:anim:f:v_dav:prop:pname
+  Єпіфанівну noun:anim:f:v_zna:prop:pname
+  Єпіфанівною noun:anim:f:v_oru:prop:pname
+  Єпіфанівні noun:anim:f:v_mis:prop:pname
+  Єпіфанівно noun:anim:f:v_kly:prop:pname
+Єреміївна noun:anim:f:v_naz:prop:pname
+  Єреміївни noun:anim:f:v_rod:prop:pname
+  Єреміївні noun:anim:f:v_dav:prop:pname
+  Єреміївну noun:anim:f:v_zna:prop:pname
+  Єреміївною noun:anim:f:v_oru:prop:pname
+  Єреміївні noun:anim:f:v_mis:prop:pname
+  Єреміївно noun:anim:f:v_kly:prop:pname
+Єрмилівна noun:anim:f:v_naz:prop:pname
+  Єрмилівни noun:anim:f:v_rod:prop:pname
+  Єрмилівні noun:anim:f:v_dav:prop:pname
+  Єрмилівну noun:anim:f:v_zna:prop:pname
+  Єрмилівною noun:anim:f:v_oru:prop:pname
+  Єрмилівні noun:anim:f:v_mis:prop:pname
+  Єрмилівно noun:anim:f:v_kly:prop:pname
+Єрмолаївна noun:anim:f:v_naz:prop:pname
+  Єрмолаївни noun:anim:f:v_rod:prop:pname
+  Єрмолаївні noun:anim:f:v_dav:prop:pname
+  Єрмолаївну noun:anim:f:v_zna:prop:pname
+  Єрмолаївною noun:anim:f:v_oru:prop:pname
+  Єрмолаївні noun:anim:f:v_mis:prop:pname
+  Єрмолаївно noun:anim:f:v_kly:prop:pname
+Єрофеївна noun:anim:f:v_naz:prop:pname
+  Єрофеївни noun:anim:f:v_rod:prop:pname
+  Єрофеївні noun:anim:f:v_dav:prop:pname
+  Єрофеївну noun:anim:f:v_zna:prop:pname
+  Єрофеївною noun:anim:f:v_oru:prop:pname
+  Єрофеївні noun:anim:f:v_mis:prop:pname
+  Єрофеївно noun:anim:f:v_kly:prop:pname
+Єрофіївна noun:anim:f:v_naz:prop:pname
+  Єрофіївни noun:anim:f:v_rod:prop:pname
+  Єрофіївні noun:anim:f:v_dav:prop:pname
+  Єрофіївну noun:anim:f:v_zna:prop:pname
+  Єрофіївною noun:anim:f:v_oru:prop:pname
+  Єрофіївні noun:anim:f:v_mis:prop:pname
+  Єрофіївно noun:anim:f:v_kly:prop:pname
+Єфимівна noun:anim:f:v_naz:prop:pname
+  Єфимівни noun:anim:f:v_rod:prop:pname
+  Єфимівні noun:anim:f:v_dav:prop:pname
+  Єфимівну noun:anim:f:v_zna:prop:pname
+  Єфимівною noun:anim:f:v_oru:prop:pname
+  Єфимівні noun:anim:f:v_mis:prop:pname
+  Єфимівно noun:anim:f:v_kly:prop:pname
+Єфімівна noun:anim:f:v_naz:prop:pname
+  Єфімівни noun:anim:f:v_rod:prop:pname
+  Єфімівні noun:anim:f:v_dav:prop:pname
+  Єфімівну noun:anim:f:v_zna:prop:pname
+  Єфімівною noun:anim:f:v_oru:prop:pname
+  Єфімівні noun:anim:f:v_mis:prop:pname
+  Єфімівно noun:anim:f:v_kly:prop:pname
+Єфремівна noun:anim:f:v_naz:prop:pname
+  Єфремівни noun:anim:f:v_rod:prop:pname
+  Єфремівні noun:anim:f:v_dav:prop:pname
+  Єфремівну noun:anim:f:v_zna:prop:pname
+  Єфремівною noun:anim:f:v_oru:prop:pname
+  Єфремівні noun:anim:f:v_mis:prop:pname
+  Єфремівно noun:anim:f:v_kly:prop:pname
+Жанівна noun:anim:f:v_naz:prop:pname
+  Жанівни noun:anim:f:v_rod:prop:pname
+  Жанівні noun:anim:f:v_dav:prop:pname
+  Жанівну noun:anim:f:v_zna:prop:pname
+  Жанівною noun:anim:f:v_oru:prop:pname
+  Жанівні noun:anim:f:v_mis:prop:pname
+  Жанівно noun:anim:f:v_kly:prop:pname
+Жоржівна noun:anim:f:v_naz:prop:pname
+  Жоржівни noun:anim:f:v_rod:prop:pname
+  Жоржівні noun:anim:f:v_dav:prop:pname
+  Жоржівну noun:anim:f:v_zna:prop:pname
+  Жоржівною noun:anim:f:v_oru:prop:pname
+  Жоржівні noun:anim:f:v_mis:prop:pname
+  Жоржівно noun:anim:f:v_kly:prop:pname
+Захарівна noun:anim:f:v_naz:prop:pname
+  Захарівни noun:anim:f:v_rod:prop:pname
+  Захарівні noun:anim:f:v_dav:prop:pname
+  Захарівну noun:anim:f:v_zna:prop:pname
+  Захарівною noun:anim:f:v_oru:prop:pname
+  Захарівні noun:anim:f:v_mis:prop:pname
+  Захарівно noun:anim:f:v_kly:prop:pname
+Зеновіївна noun:anim:f:v_naz:prop:pname
+  Зеновіївни noun:anim:f:v_rod:prop:pname
+  Зеновіївні noun:anim:f:v_dav:prop:pname
+  Зеновіївну noun:anim:f:v_zna:prop:pname
+  Зеновіївною noun:anim:f:v_oru:prop:pname
+  Зеновіївні noun:anim:f:v_mis:prop:pname
+  Зеновіївно noun:anim:f:v_kly:prop:pname
+Зенонівна noun:anim:f:v_naz:prop:pname
+  Зенонівни noun:anim:f:v_rod:prop:pname
+  Зенонівні noun:anim:f:v_dav:prop:pname
+  Зенонівну noun:anim:f:v_zna:prop:pname
+  Зенонівною noun:anim:f:v_oru:prop:pname
+  Зенонівні noun:anim:f:v_mis:prop:pname
+  Зенонівно noun:anim:f:v_kly:prop:pname
+Зигмундівна noun:anim:f:v_naz:prop:pname
+  Зигмундівни noun:anim:f:v_rod:prop:pname
+  Зигмундівні noun:anim:f:v_dav:prop:pname
+  Зигмундівну noun:anim:f:v_zna:prop:pname
+  Зигмундівною noun:anim:f:v_oru:prop:pname
+  Зигмундівні noun:anim:f:v_mis:prop:pname
+  Зигмундівно noun:anim:f:v_kly:prop:pname
+Зигфрідівна noun:anim:f:v_naz:prop:pname
+  Зигфрідівни noun:anim:f:v_rod:prop:pname
+  Зигфрідівні noun:anim:f:v_dav:prop:pname
+  Зигфрідівну noun:anim:f:v_zna:prop:pname
+  Зигфрідівною noun:anim:f:v_oru:prop:pname
+  Зигфрідівні noun:anim:f:v_mis:prop:pname
+  Зигфрідівно noun:anim:f:v_kly:prop:pname
+Зиґмундівна noun:anim:f:v_naz:prop:pname:ua_2019
+  Зиґмундівни noun:anim:f:v_rod:prop:pname:ua_2019
+  Зиґмундівні noun:anim:f:v_dav:prop:pname:ua_2019
+  Зиґмундівну noun:anim:f:v_zna:prop:pname:ua_2019
+  Зиґмундівною noun:anim:f:v_oru:prop:pname:ua_2019
+  Зиґмундівні noun:anim:f:v_mis:prop:pname:ua_2019
+  Зиґмундівно noun:anim:f:v_kly:prop:pname:ua_2019
+Зиґфрідівна noun:anim:f:v_naz:prop:pname:ua_2019
+  Зиґфрідівни noun:anim:f:v_rod:prop:pname:ua_2019
+  Зиґфрідівні noun:anim:f:v_dav:prop:pname:ua_2019
+  Зиґфрідівну noun:anim:f:v_zna:prop:pname:ua_2019
+  Зиґфрідівною noun:anim:f:v_oru:prop:pname:ua_2019
+  Зиґфрідівні noun:anim:f:v_mis:prop:pname:ua_2019
+  Зиґфрідівно noun:anim:f:v_kly:prop:pname:ua_2019
+Зиновіївна noun:anim:f:v_naz:prop:pname
+  Зиновіївни noun:anim:f:v_rod:prop:pname
+  Зиновіївні noun:anim:f:v_dav:prop:pname
+  Зиновіївну noun:anim:f:v_zna:prop:pname
+  Зиновіївною noun:anim:f:v_oru:prop:pname
+  Зиновіївні noun:anim:f:v_mis:prop:pname
+  Зиновіївно noun:anim:f:v_kly:prop:pname
+Зігфрідівна noun:anim:f:v_naz:prop:pname
+  Зігфрідівни noun:anim:f:v_rod:prop:pname
+  Зігфрідівні noun:anim:f:v_dav:prop:pname
+  Зігфрідівну noun:anim:f:v_zna:prop:pname
+  Зігфрідівною noun:anim:f:v_oru:prop:pname
+  Зігфрідівні noun:anim:f:v_mis:prop:pname
+  Зігфрідівно noun:anim:f:v_kly:prop:pname
+Зіґфрідівна noun:anim:f:v_naz:prop:pname
+  Зіґфрідівни noun:anim:f:v_rod:prop:pname
+  Зіґфрідівні noun:anim:f:v_dav:prop:pname
+  Зіґфрідівну noun:anim:f:v_zna:prop:pname
+  Зіґфрідівною noun:anim:f:v_oru:prop:pname
+  Зіґфрідівні noun:anim:f:v_mis:prop:pname
+  Зіґфрідівно noun:anim:f:v_kly:prop:pname
+Зіновіївна noun:anim:f:v_naz:prop:pname
+  Зіновіївни noun:anim:f:v_rod:prop:pname
+  Зіновіївні noun:anim:f:v_dav:prop:pname
+  Зіновіївну noun:anim:f:v_zna:prop:pname
+  Зіновіївною noun:anim:f:v_oru:prop:pname
+  Зіновіївні noun:anim:f:v_mis:prop:pname
+  Зіновіївно noun:anim:f:v_kly:prop:pname
+Золтанівна noun:anim:f:v_naz:prop:pname
+  Золтанівни noun:anim:f:v_rod:prop:pname
+  Золтанівні noun:anim:f:v_dav:prop:pname
+  Золтанівну noun:anim:f:v_zna:prop:pname
+  Золтанівною noun:anim:f:v_oru:prop:pname
+  Золтанівні noun:anim:f:v_mis:prop:pname
+  Золтанівно noun:anim:f:v_kly:prop:pname
+Зореславівна noun:anim:f:v_naz:prop:pname
+  Зореславівни noun:anim:f:v_rod:prop:pname
+  Зореславівні noun:anim:f:v_dav:prop:pname
+  Зореславівну noun:anim:f:v_zna:prop:pname
+  Зореславівною noun:anim:f:v_oru:prop:pname
+  Зореславівні noun:anim:f:v_mis:prop:pname
+  Зореславівно noun:anim:f:v_kly:prop:pname
+Зосимівна noun:anim:f:v_naz:prop:pname
+  Зосимівни noun:anim:f:v_rod:prop:pname
+  Зосимівні noun:anim:f:v_dav:prop:pname
+  Зосимівну noun:anim:f:v_zna:prop:pname
+  Зосимівною noun:anim:f:v_oru:prop:pname
+  Зосимівні noun:anim:f:v_mis:prop:pname
+  Зосимівно noun:anim:f:v_kly:prop:pname
+Ібрагімівна noun:anim:f:v_naz:prop:pname
+  Ібрагімівни noun:anim:f:v_rod:prop:pname
+  Ібрагімівні noun:anim:f:v_dav:prop:pname
+  Ібрагімівну noun:anim:f:v_zna:prop:pname
+  Ібрагімівною noun:anim:f:v_oru:prop:pname
+  Ібрагімівні noun:anim:f:v_mis:prop:pname
+  Ібрагімівно noun:anim:f:v_kly:prop:pname
+Іванівна noun:anim:f:v_naz:prop:pname
+  Іванівни noun:anim:f:v_rod:prop:pname
+  Іванівні noun:anim:f:v_dav:prop:pname
+  Іванівну noun:anim:f:v_zna:prop:pname
+  Іванівною noun:anim:f:v_oru:prop:pname
+  Іванівні noun:anim:f:v_mis:prop:pname
+  Іванівно noun:anim:f:v_kly:prop:pname
+Ігнатівна noun:anim:f:v_naz:prop:pname
+  Ігнатівни noun:anim:f:v_rod:prop:pname
+  Ігнатівні noun:anim:f:v_dav:prop:pname
+  Ігнатівну noun:anim:f:v_zna:prop:pname
+  Ігнатівною noun:anim:f:v_oru:prop:pname
+  Ігнатівні noun:anim:f:v_mis:prop:pname
+  Ігнатівно noun:anim:f:v_kly:prop:pname
+Ігнатіївна noun:anim:f:v_naz:prop:pname
+  Ігнатіївни noun:anim:f:v_rod:prop:pname
+  Ігнатіївні noun:anim:f:v_dav:prop:pname
+  Ігнатіївну noun:anim:f:v_zna:prop:pname
+  Ігнатіївною noun:anim:f:v_oru:prop:pname
+  Ігнатіївні noun:anim:f:v_mis:prop:pname
+  Ігнатіївно noun:anim:f:v_kly:prop:pname
+Ігорівна noun:anim:f:v_naz:prop:pname
+  Ігорівни noun:anim:f:v_rod:prop:pname
+  Ігорівні noun:anim:f:v_dav:prop:pname
+  Ігорівну noun:anim:f:v_zna:prop:pname
+  Ігорівною noun:anim:f:v_oru:prop:pname
+  Ігорівні noun:anim:f:v_mis:prop:pname
+  Ігорівно noun:anim:f:v_kly:prop:pname
+Ізотівна noun:anim:f:v_naz:prop:pname
+  Ізотівни noun:anim:f:v_rod:prop:pname
+  Ізотівні noun:anim:f:v_dav:prop:pname
+  Ізотівну noun:anim:f:v_zna:prop:pname
+  Ізотівною noun:anim:f:v_oru:prop:pname
+  Ізотівні noun:anim:f:v_mis:prop:pname
+  Ізотівно noun:anim:f:v_kly:prop:pname
+Ізраїлівна noun:anim:f:v_naz:prop:pname
+  Ізраїлівни noun:anim:f:v_rod:prop:pname
+  Ізраїлівні noun:anim:f:v_dav:prop:pname
+  Ізраїлівну noun:anim:f:v_zna:prop:pname
+  Ізраїлівною noun:anim:f:v_oru:prop:pname
+  Ізраїлівні noun:anim:f:v_mis:prop:pname
+  Ізраїлівно noun:anim:f:v_kly:prop:pname
+Іларіонівна noun:anim:f:v_naz:prop:pname
+  Іларіонівни noun:anim:f:v_rod:prop:pname
+  Іларіонівні noun:anim:f:v_dav:prop:pname
+  Іларіонівну noun:anim:f:v_zna:prop:pname
+  Іларіонівною noun:anim:f:v_oru:prop:pname
+  Іларіонівні noun:anim:f:v_mis:prop:pname
+  Іларіонівно noun:anim:f:v_kly:prop:pname
+Іліанівна noun:anim:f:v_naz:prop:pname
+  Іліанівни noun:anim:f:v_rod:prop:pname
+  Іліанівні noun:anim:f:v_dav:prop:pname
+  Іліанівну noun:anim:f:v_zna:prop:pname
+  Іліанівною noun:anim:f:v_oru:prop:pname
+  Іліанівні noun:anim:f:v_mis:prop:pname
+  Іліанівно noun:anim:f:v_kly:prop:pname
+Іліодорівна noun:anim:f:v_naz:prop:pname
+  Іліодорівни noun:anim:f:v_rod:prop:pname
+  Іліодорівні noun:anim:f:v_dav:prop:pname
+  Іліодорівну noun:anim:f:v_zna:prop:pname
+  Іліодорівною noun:anim:f:v_oru:prop:pname
+  Іліодорівні noun:anim:f:v_mis:prop:pname
+  Іліодорівно noun:anim:f:v_kly:prop:pname
+Іліриківна noun:anim:f:v_naz:prop:pname
+  Іліриківни noun:anim:f:v_rod:prop:pname
+  Іліриківні noun:anim:f:v_dav:prop:pname
+  Іліриківну noun:anim:f:v_zna:prop:pname
+  Іліриківною noun:anim:f:v_oru:prop:pname
+  Іліриківні noun:anim:f:v_mis:prop:pname
+  Іліриківно noun:anim:f:v_kly:prop:pname
+Іллівна noun:anim:f:v_naz:prop:pname
+  Іллівни noun:anim:f:v_rod:prop:pname
+  Іллівні noun:anim:f:v_dav:prop:pname
+  Іллівну noun:anim:f:v_zna:prop:pname
+  Іллівною noun:anim:f:v_oru:prop:pname
+  Іллівні noun:anim:f:v_mis:prop:pname
+  Іллівно noun:anim:f:v_kly:prop:pname
+Ілляшівна noun:anim:f:v_naz:prop:pname
+  Ілляшівни noun:anim:f:v_rod:prop:pname
+  Ілляшівні noun:anim:f:v_dav:prop:pname
+  Ілляшівну noun:anim:f:v_zna:prop:pname
+  Ілляшівною noun:anim:f:v_oru:prop:pname
+  Ілляшівні noun:anim:f:v_mis:prop:pname
+  Ілляшівно noun:anim:f:v_kly:prop:pname
+Ільівна noun:anim:f:v_naz:prop:pname
+  Ільівни noun:anim:f:v_rod:prop:pname
+  Ільівні noun:anim:f:v_dav:prop:pname
+  Ільівну noun:anim:f:v_zna:prop:pname
+  Ільівною noun:anim:f:v_oru:prop:pname
+  Ільівні noun:anim:f:v_mis:prop:pname
+  Ільівно noun:anim:f:v_kly:prop:pname
+Ільківна noun:anim:f:v_naz:prop:pname
+  Ільківни noun:anim:f:v_rod:prop:pname
+  Ільківні noun:anim:f:v_dav:prop:pname
+  Ільківну noun:anim:f:v_zna:prop:pname
+  Ільківною noun:anim:f:v_oru:prop:pname
+  Ільківні noun:anim:f:v_mis:prop:pname
+  Ільківно noun:anim:f:v_kly:prop:pname
+Іммануїлівна noun:anim:f:v_naz:prop:pname
+  Іммануїлівни noun:anim:f:v_rod:prop:pname
+  Іммануїлівні noun:anim:f:v_dav:prop:pname
+  Іммануїлівну noun:anim:f:v_zna:prop:pname
+  Іммануїлівною noun:anim:f:v_oru:prop:pname
+  Іммануїлівні noun:anim:f:v_mis:prop:pname
+  Іммануїлівно noun:anim:f:v_kly:prop:pname
+Інокентіївна noun:anim:f:v_naz:prop:pname
+  Інокентіївни noun:anim:f:v_rod:prop:pname
+  Інокентіївні noun:anim:f:v_dav:prop:pname
+  Інокентіївну noun:anim:f:v_zna:prop:pname
+  Інокентіївною noun:anim:f:v_oru:prop:pname
+  Інокентіївні noun:anim:f:v_mis:prop:pname
+  Інокентіївно noun:anim:f:v_kly:prop:pname
+Іоанівна noun:anim:f:v_naz:prop:pname
+  Іоанівни noun:anim:f:v_rod:prop:pname
+  Іоанівні noun:anim:f:v_dav:prop:pname
+  Іоанівну noun:anim:f:v_zna:prop:pname
+  Іоанівною noun:anim:f:v_oru:prop:pname
+  Іоанівні noun:anim:f:v_mis:prop:pname
+  Іоанівно noun:anim:f:v_kly:prop:pname
+Іоаннівна noun:anim:f:v_naz:prop:pname
+  Іоаннівни noun:anim:f:v_rod:prop:pname
+  Іоаннівні noun:anim:f:v_dav:prop:pname
+  Іоаннівну noun:anim:f:v_zna:prop:pname
+  Іоаннівною noun:anim:f:v_oru:prop:pname
+  Іоаннівні noun:anim:f:v_mis:prop:pname
+  Іоаннівно noun:anim:f:v_kly:prop:pname
+Іосифівна noun:anim:f:v_naz:prop:pname
+  Іосифівни noun:anim:f:v_rod:prop:pname
+  Іосифівні noun:anim:f:v_dav:prop:pname
+  Іосифівну noun:anim:f:v_zna:prop:pname
+  Іосифівною noun:anim:f:v_oru:prop:pname
+  Іосифівні noun:anim:f:v_mis:prop:pname
+  Іосифівно noun:anim:f:v_kly:prop:pname
+Іосіфівна noun:anim:f:v_naz:prop:pname
+  Іосіфівни noun:anim:f:v_rod:prop:pname
+  Іосіфівні noun:anim:f:v_dav:prop:pname
+  Іосіфівну noun:anim:f:v_zna:prop:pname
+  Іосіфівною noun:anim:f:v_oru:prop:pname
+  Іосіфівні noun:anim:f:v_mis:prop:pname
+  Іосіфівно noun:anim:f:v_kly:prop:pname
+Іпатівна noun:anim:f:v_naz:prop:pname
+  Іпатівни noun:anim:f:v_rod:prop:pname
+  Іпатівні noun:anim:f:v_dav:prop:pname
+  Іпатівну noun:anim:f:v_zna:prop:pname
+  Іпатівною noun:anim:f:v_oru:prop:pname
+  Іпатівні noun:anim:f:v_mis:prop:pname
+  Іпатівно noun:anim:f:v_kly:prop:pname
+Іпатіївна noun:anim:f:v_naz:prop:pname
+  Іпатіївни noun:anim:f:v_rod:prop:pname
+  Іпатіївні noun:anim:f:v_dav:prop:pname
+  Іпатіївну noun:anim:f:v_zna:prop:pname
+  Іпатіївною noun:anim:f:v_oru:prop:pname
+  Іпатіївні noun:anim:f:v_mis:prop:pname
+  Іпатіївно noun:anim:f:v_kly:prop:pname
+Іполитівна noun:anim:f:v_naz:prop:pname
+  Іполитівни noun:anim:f:v_rod:prop:pname
+  Іполитівні noun:anim:f:v_dav:prop:pname
+  Іполитівну noun:anim:f:v_zna:prop:pname
+  Іполитівною noun:anim:f:v_oru:prop:pname
+  Іполитівні noun:anim:f:v_mis:prop:pname
+  Іполитівно noun:anim:f:v_kly:prop:pname
+Іполітівна noun:anim:f:v_naz:prop:pname
+  Іполітівни noun:anim:f:v_rod:prop:pname
+  Іполітівні noun:anim:f:v_dav:prop:pname
+  Іполітівну noun:anim:f:v_zna:prop:pname
+  Іполітівною noun:anim:f:v_oru:prop:pname
+  Іполітівні noun:anim:f:v_mis:prop:pname
+  Іполітівно noun:anim:f:v_kly:prop:pname
+Іракліївна noun:anim:f:v_naz:prop:pname
+  Іракліївни noun:anim:f:v_rod:prop:pname
+  Іракліївні noun:anim:f:v_dav:prop:pname
+  Іракліївну noun:anim:f:v_zna:prop:pname
+  Іракліївною noun:anim:f:v_oru:prop:pname
+  Іракліївні noun:anim:f:v_mis:prop:pname
+  Іракліївно noun:anim:f:v_kly:prop:pname
+Іриніївна noun:anim:f:v_naz:prop:pname
+  Іриніївни noun:anim:f:v_rod:prop:pname
+  Іриніївні noun:anim:f:v_dav:prop:pname
+  Іриніївну noun:anim:f:v_zna:prop:pname
+  Іриніївною noun:anim:f:v_oru:prop:pname
+  Іриніївні noun:anim:f:v_mis:prop:pname
+  Іриніївно noun:anim:f:v_kly:prop:pname
+Ісааківна noun:anim:f:v_naz:prop:pname
+  Ісааківни noun:anim:f:v_rod:prop:pname
+  Ісааківні noun:anim:f:v_dav:prop:pname
+  Ісааківну noun:anim:f:v_zna:prop:pname
+  Ісааківною noun:anim:f:v_oru:prop:pname
+  Ісааківні noun:anim:f:v_mis:prop:pname
+  Ісааківно noun:anim:f:v_kly:prop:pname
+Ісаївна noun:anim:f:v_naz:prop:pname
+  Ісаївни noun:anim:f:v_rod:prop:pname
+  Ісаївні noun:anim:f:v_dav:prop:pname
+  Ісаївну noun:anim:f:v_zna:prop:pname
+  Ісаївною noun:anim:f:v_oru:prop:pname
+  Ісаївні noun:anim:f:v_mis:prop:pname
+  Ісаївно noun:anim:f:v_kly:prop:pname
+Ісидорівна noun:anim:f:v_naz:prop:pname
+  Ісидорівни noun:anim:f:v_rod:prop:pname
+  Ісидорівні noun:anim:f:v_dav:prop:pname
+  Ісидорівну noun:anim:f:v_zna:prop:pname
+  Ісидорівною noun:anim:f:v_oru:prop:pname
+  Ісидорівні noun:anim:f:v_mis:prop:pname
+  Ісидорівно noun:anim:f:v_kly:prop:pname
+Іштванівна noun:anim:f:v_naz:prop:pname
+  Іштванівни noun:anim:f:v_rod:prop:pname
+  Іштванівні noun:anim:f:v_dav:prop:pname
+  Іштванівну noun:anim:f:v_zna:prop:pname
+  Іштванівною noun:anim:f:v_oru:prop:pname
+  Іштванівні noun:anim:f:v_mis:prop:pname
+  Іштванівно noun:anim:f:v_kly:prop:pname
+Йванівна noun:anim:f:v_naz:prop:pname
+  Йванівни noun:anim:f:v_rod:prop:pname
+  Йванівні noun:anim:f:v_dav:prop:pname
+  Йванівну noun:anim:f:v_zna:prop:pname
+  Йванівною noun:anim:f:v_oru:prop:pname
+  Йванівні noun:anim:f:v_mis:prop:pname
+  Йванівно noun:anim:f:v_kly:prop:pname
+Йожефівна noun:anim:f:v_naz:prop:pname
+  Йожефівни noun:anim:f:v_rod:prop:pname
+  Йожефівні noun:anim:f:v_dav:prop:pname
+  Йожефівну noun:anim:f:v_zna:prop:pname
+  Йожефівною noun:anim:f:v_oru:prop:pname
+  Йожефівні noun:anim:f:v_mis:prop:pname
+  Йожефівно noun:anim:f:v_kly:prop:pname
+Йозефівна noun:anim:f:v_naz:prop:pname
+  Йозефівни noun:anim:f:v_rod:prop:pname
+  Йозефівні noun:anim:f:v_dav:prop:pname
+  Йозефівну noun:anim:f:v_zna:prop:pname
+  Йозефівною noun:anim:f:v_oru:prop:pname
+  Йозефівні noun:anim:f:v_mis:prop:pname
+  Йозефівно noun:anim:f:v_kly:prop:pname
+Йосафатівна noun:anim:f:v_naz:prop:pname
+  Йосафатівни noun:anim:f:v_rod:prop:pname
+  Йосафатівні noun:anim:f:v_dav:prop:pname
+  Йосафатівну noun:anim:f:v_zna:prop:pname
+  Йосафатівною noun:anim:f:v_oru:prop:pname
+  Йосафатівні noun:anim:f:v_mis:prop:pname
+  Йосафатівно noun:anim:f:v_kly:prop:pname
+Йосефівна noun:anim:f:v_naz:prop:pname
+  Йосефівни noun:anim:f:v_rod:prop:pname
+  Йосефівні noun:anim:f:v_dav:prop:pname
+  Йосефівну noun:anim:f:v_zna:prop:pname
+  Йосефівною noun:anim:f:v_oru:prop:pname
+  Йосефівні noun:anim:f:v_mis:prop:pname
+  Йосефівно noun:anim:f:v_kly:prop:pname
+Йосипівна noun:anim:f:v_naz:prop:pname
+  Йосипівни noun:anim:f:v_rod:prop:pname
+  Йосипівні noun:anim:f:v_dav:prop:pname
+  Йосипівну noun:anim:f:v_zna:prop:pname
+  Йосипівною noun:anim:f:v_oru:prop:pname
+  Йосипівні noun:anim:f:v_mis:prop:pname
+  Йосипівно noun:anim:f:v_kly:prop:pname
+Йосифівна noun:anim:f:v_naz:prop:pname
+  Йосифівни noun:anim:f:v_rod:prop:pname
+  Йосифівні noun:anim:f:v_dav:prop:pname
+  Йосифівну noun:anim:f:v_zna:prop:pname
+  Йосифівною noun:anim:f:v_oru:prop:pname
+  Йосифівні noun:anim:f:v_mis:prop:pname
+  Йосифівно noun:anim:f:v_kly:prop:pname
+Казимирівна noun:anim:f:v_naz:prop:pname
+  Казимирівни noun:anim:f:v_rod:prop:pname
+  Казимирівні noun:anim:f:v_dav:prop:pname
+  Казимирівну noun:anim:f:v_zna:prop:pname
+  Казимирівною noun:anim:f:v_oru:prop:pname
+  Казимирівні noun:anim:f:v_mis:prop:pname
+  Казимирівно noun:anim:f:v_kly:prop:pname
+Калістратівна noun:anim:f:v_naz:prop:pname
+  Калістратівни noun:anim:f:v_rod:prop:pname
+  Калістратівні noun:anim:f:v_dav:prop:pname
+  Калістратівну noun:anim:f:v_zna:prop:pname
+  Калістратівною noun:anim:f:v_oru:prop:pname
+  Калістратівні noun:anim:f:v_mis:prop:pname
+  Калістратівно noun:anim:f:v_kly:prop:pname
+Капітонівна noun:anim:f:v_naz:prop:pname
+  Капітонівни noun:anim:f:v_rod:prop:pname
+  Капітонівні noun:anim:f:v_dav:prop:pname
+  Капітонівну noun:anim:f:v_zna:prop:pname
+  Капітонівною noun:anim:f:v_oru:prop:pname
+  Капітонівні noun:anim:f:v_mis:prop:pname
+  Капітонівно noun:anim:f:v_kly:prop:pname
+Карлівна noun:anim:f:v_naz:prop:pname
+  Карлівни noun:anim:f:v_rod:prop:pname
+  Карлівні noun:anim:f:v_dav:prop:pname
+  Карлівну noun:anim:f:v_zna:prop:pname
+  Карлівною noun:anim:f:v_oru:prop:pname
+  Карлівні noun:anim:f:v_mis:prop:pname
+  Карлівно noun:anim:f:v_kly:prop:pname
+Карпівна noun:anim:f:v_naz:prop:pname
+  Карпівни noun:anim:f:v_rod:prop:pname
+  Карпівні noun:anim:f:v_dav:prop:pname
+  Карпівну noun:anim:f:v_zna:prop:pname
+  Карпівною noun:anim:f:v_oru:prop:pname
+  Карпівні noun:anim:f:v_mis:prop:pname
+  Карпівно noun:anim:f:v_kly:prop:pname
+Кас'янівна noun:anim:f:v_naz:prop:pname
+  Кас'янівни noun:anim:f:v_rod:prop:pname
+  Кас'янівні noun:anim:f:v_dav:prop:pname
+  Кас'янівну noun:anim:f:v_zna:prop:pname
+  Кас'янівною noun:anim:f:v_oru:prop:pname
+  Кас'янівні noun:anim:f:v_mis:prop:pname
+  Кас'янівно noun:anim:f:v_kly:prop:pname
+Квінтиліанівна noun:anim:f:v_naz:prop:pname
+  Квінтиліанівни noun:anim:f:v_rod:prop:pname
+  Квінтиліанівні noun:anim:f:v_dav:prop:pname
+  Квінтиліанівну noun:anim:f:v_zna:prop:pname
+  Квінтиліанівною noun:anim:f:v_oru:prop:pname
+  Квінтиліанівні noun:anim:f:v_mis:prop:pname
+  Квінтиліанівно noun:anim:f:v_kly:prop:pname
+Киреївна noun:anim:f:v_naz:prop:pname
+  Киреївни noun:anim:f:v_rod:prop:pname
+  Киреївні noun:anim:f:v_dav:prop:pname
+  Киреївну noun:anim:f:v_zna:prop:pname
+  Киреївною noun:anim:f:v_oru:prop:pname
+  Киреївні noun:anim:f:v_mis:prop:pname
+  Киреївно noun:anim:f:v_kly:prop:pname
+Кирилівна noun:anim:f:v_naz:prop:pname
+  Кирилівни noun:anim:f:v_rod:prop:pname
+  Кирилівні noun:anim:f:v_dav:prop:pname
+  Кирилівну noun:anim:f:v_zna:prop:pname
+  Кирилівною noun:anim:f:v_oru:prop:pname
+  Кирилівні noun:anim:f:v_mis:prop:pname
+  Кирилівно noun:anim:f:v_kly:prop:pname
+Кіндратівна noun:anim:f:v_naz:prop:pname
+  Кіндратівни noun:anim:f:v_rod:prop:pname
+  Кіндратівні noun:anim:f:v_dav:prop:pname
+  Кіндратівну noun:anim:f:v_zna:prop:pname
+  Кіндратівною noun:anim:f:v_oru:prop:pname
+  Кіндратівні noun:anim:f:v_mis:prop:pname
+  Кіндратівно noun:anim:f:v_kly:prop:pname
+Кіндратіївна noun:anim:f:v_naz:prop:pname
+  Кіндратіївни noun:anim:f:v_rod:prop:pname
+  Кіндратіївні noun:anim:f:v_dav:prop:pname
+  Кіндратіївну noun:anim:f:v_zna:prop:pname
+  Кіндратіївною noun:anim:f:v_oru:prop:pname
+  Кіндратіївні noun:anim:f:v_mis:prop:pname
+  Кіндратіївно noun:anim:f:v_kly:prop:pname
+Клавдіївна noun:anim:f:v_naz:prop:pname
+  Клавдіївни noun:anim:f:v_rod:prop:pname
+  Клавдіївні noun:anim:f:v_dav:prop:pname
+  Клавдіївну noun:anim:f:v_zna:prop:pname
+  Клавдіївною noun:anim:f:v_oru:prop:pname
+  Клавдіївні noun:anim:f:v_mis:prop:pname
+  Клавдіївно noun:anim:f:v_kly:prop:pname
+Климівна noun:anim:f:v_naz:prop:pname
+  Климівни noun:anim:f:v_rod:prop:pname
+  Климівні noun:anim:f:v_dav:prop:pname
+  Климівну noun:anim:f:v_zna:prop:pname
+  Климівною noun:anim:f:v_oru:prop:pname
+  Климівні noun:anim:f:v_mis:prop:pname
+  Климівно noun:anim:f:v_kly:prop:pname
+Корнилівна noun:anim:f:v_naz:prop:pname
+  Корнилівни noun:anim:f:v_rod:prop:pname
+  Корнилівні noun:anim:f:v_dav:prop:pname
+  Корнилівну noun:anim:f:v_zna:prop:pname
+  Корнилівною noun:anim:f:v_oru:prop:pname
+  Корнилівні noun:anim:f:v_mis:prop:pname
+  Корнилівно noun:anim:f:v_kly:prop:pname
+Корниліївна noun:anim:f:v_naz:prop:pname
+  Корниліївни noun:anim:f:v_rod:prop:pname
+  Корниліївні noun:anim:f:v_dav:prop:pname
+  Корниліївну noun:anim:f:v_zna:prop:pname
+  Корниліївною noun:anim:f:v_oru:prop:pname
+  Корниліївні noun:anim:f:v_mis:prop:pname
+  Корниліївно noun:anim:f:v_kly:prop:pname
+Корніївна noun:anim:f:v_naz:prop:pname
+  Корніївни noun:anim:f:v_rod:prop:pname
+  Корніївні noun:anim:f:v_dav:prop:pname
+  Корніївну noun:anim:f:v_zna:prop:pname
+  Корніївною noun:anim:f:v_oru:prop:pname
+  Корніївні noun:anim:f:v_mis:prop:pname
+  Корніївно noun:anim:f:v_kly:prop:pname
+Костянтинівна noun:anim:f:v_naz:prop:pname
+  Костянтинівни noun:anim:f:v_rod:prop:pname
+  Костянтинівні noun:anim:f:v_dav:prop:pname
+  Костянтинівну noun:anim:f:v_zna:prop:pname
+  Костянтинівною noun:anim:f:v_oru:prop:pname
+  Костянтинівні noun:anim:f:v_mis:prop:pname
+  Костянтинівно noun:anim:f:v_kly:prop:pname
+Ксенофонтівна noun:anim:f:v_naz:prop:pname
+  Ксенофонтівни noun:anim:f:v_rod:prop:pname
+  Ксенофонтівні noun:anim:f:v_dav:prop:pname
+  Ксенофонтівну noun:anim:f:v_zna:prop:pname
+  Ксенофонтівною noun:anim:f:v_oru:prop:pname
+  Ксенофонтівні noun:anim:f:v_mis:prop:pname
+  Ксенофонтівно noun:anim:f:v_kly:prop:pname
+Кузьмівна noun:anim:f:v_naz:prop:pname
+  Кузьмівни noun:anim:f:v_rod:prop:pname
+  Кузьмівні noun:anim:f:v_dav:prop:pname
+  Кузьмівну noun:anim:f:v_zna:prop:pname
+  Кузьмівною noun:anim:f:v_oru:prop:pname
+  Кузьмівні noun:anim:f:v_mis:prop:pname
+  Кузьмівно noun:anim:f:v_kly:prop:pname
+Купріянівна noun:anim:f:v_naz:prop:pname
+  Купріянівни noun:anim:f:v_rod:prop:pname
+  Купріянівні noun:anim:f:v_dav:prop:pname
+  Купріянівну noun:anim:f:v_zna:prop:pname
+  Купріянівною noun:anim:f:v_oru:prop:pname
+  Купріянівні noun:anim:f:v_mis:prop:pname
+  Купріянівно noun:anim:f:v_kly:prop:pname
+Лаврентіївна noun:anim:f:v_naz:prop:pname
+  Лаврентіївни noun:anim:f:v_rod:prop:pname
+  Лаврентіївні noun:anim:f:v_dav:prop:pname
+  Лаврентіївну noun:anim:f:v_zna:prop:pname
+  Лаврентіївною noun:anim:f:v_oru:prop:pname
+  Лаврентіївні noun:anim:f:v_mis:prop:pname
+  Лаврентіївно noun:anim:f:v_kly:prop:pname
+Лазарівна noun:anim:f:v_naz:prop:pname
+  Лазарівни noun:anim:f:v_rod:prop:pname
+  Лазарівні noun:anim:f:v_dav:prop:pname
+  Лазарівну noun:anim:f:v_zna:prop:pname
+  Лазарівною noun:anim:f:v_oru:prop:pname
+  Лазарівні noun:anim:f:v_mis:prop:pname
+  Лазарівно noun:anim:f:v_kly:prop:pname
+Ларіонівна noun:anim:f:v_naz:prop:pname
+  Ларіонівни noun:anim:f:v_rod:prop:pname
+  Ларіонівні noun:anim:f:v_dav:prop:pname
+  Ларіонівну noun:anim:f:v_zna:prop:pname
+  Ларіонівною noun:anim:f:v_oru:prop:pname
+  Ларіонівні noun:anim:f:v_mis:prop:pname
+  Ларіонівно noun:anim:f:v_kly:prop:pname
+Левівна noun:anim:f:v_naz:prop:pname
+  Левівни noun:anim:f:v_rod:prop:pname
+  Левівні noun:anim:f:v_dav:prop:pname
+  Левівну noun:anim:f:v_zna:prop:pname
+  Левівною noun:anim:f:v_oru:prop:pname
+  Левівні noun:anim:f:v_mis:prop:pname
+  Левівно noun:anim:f:v_kly:prop:pname
+Леонівна noun:anim:f:v_naz:prop:pname
+  Леонівни noun:anim:f:v_rod:prop:pname
+  Леонівні noun:anim:f:v_dav:prop:pname
+  Леонівну noun:anim:f:v_zna:prop:pname
+  Леонівною noun:anim:f:v_oru:prop:pname
+  Леонівні noun:anim:f:v_mis:prop:pname
+  Леонівно noun:anim:f:v_kly:prop:pname
+Леонідівна noun:anim:f:v_naz:prop:pname
+  Леонідівни noun:anim:f:v_rod:prop:pname
+  Леонідівні noun:anim:f:v_dav:prop:pname
+  Леонідівну noun:anim:f:v_zna:prop:pname
+  Леонідівною noun:anim:f:v_oru:prop:pname
+  Леонідівні noun:anim:f:v_mis:prop:pname
+  Леонідівно noun:anim:f:v_kly:prop:pname
+Леонтівна noun:anim:f:v_naz:prop:pname
+  Леонтівни noun:anim:f:v_rod:prop:pname
+  Леонтівні noun:anim:f:v_dav:prop:pname
+  Леонтівну noun:anim:f:v_zna:prop:pname
+  Леонтівною noun:anim:f:v_oru:prop:pname
+  Леонтівні noun:anim:f:v_mis:prop:pname
+  Леонтівно noun:anim:f:v_kly:prop:pname
+Леонтіївна noun:anim:f:v_naz:prop:pname
+  Леонтіївни noun:anim:f:v_rod:prop:pname
+  Леонтіївні noun:anim:f:v_dav:prop:pname
+  Леонтіївну noun:anim:f:v_zna:prop:pname
+  Леонтіївною noun:anim:f:v_oru:prop:pname
+  Леонтіївні noun:anim:f:v_mis:prop:pname
+  Леонтіївно noun:anim:f:v_kly:prop:pname
+Леопольдівна noun:anim:f:v_naz:prop:pname
+  Леопольдівни noun:anim:f:v_rod:prop:pname
+  Леопольдівні noun:anim:f:v_dav:prop:pname
+  Леопольдівну noun:anim:f:v_zna:prop:pname
+  Леопольдівною noun:anim:f:v_oru:prop:pname
+  Леопольдівні noun:anim:f:v_mis:prop:pname
+  Леопольдівно noun:anim:f:v_kly:prop:pname
+Лукашівна noun:anim:f:v_naz:prop:pname
+  Лукашівни noun:anim:f:v_rod:prop:pname
+  Лукашівні noun:anim:f:v_dav:prop:pname
+  Лукашівну noun:anim:f:v_zna:prop:pname
+  Лукашівною noun:anim:f:v_oru:prop:pname
+  Лукашівні noun:anim:f:v_mis:prop:pname
+  Лукашівно noun:anim:f:v_kly:prop:pname
+Луківна noun:anim:f:v_naz:prop:pname
+  Луківни noun:anim:f:v_rod:prop:pname
+  Луківні noun:anim:f:v_dav:prop:pname
+  Луківну noun:anim:f:v_zna:prop:pname
+  Луківною noun:anim:f:v_oru:prop:pname
+  Луківні noun:anim:f:v_mis:prop:pname
+  Луківно noun:anim:f:v_kly:prop:pname
+Лукіївна noun:anim:f:v_naz:prop:pname
+  Лукіївни noun:anim:f:v_rod:prop:pname
+  Лукіївні noun:anim:f:v_dav:prop:pname
+  Лукіївну noun:anim:f:v_zna:prop:pname
+  Лукіївною noun:anim:f:v_oru:prop:pname
+  Лукіївні noun:anim:f:v_mis:prop:pname
+  Лукіївно noun:anim:f:v_kly:prop:pname
+Лукіліанівна noun:anim:f:v_naz:prop:pname
+  Лукіліанівни noun:anim:f:v_rod:prop:pname
+  Лукіліанівні noun:anim:f:v_dav:prop:pname
+  Лукіліанівну noun:anim:f:v_zna:prop:pname
+  Лукіліанівною noun:anim:f:v_oru:prop:pname
+  Лукіліанівні noun:anim:f:v_mis:prop:pname
+  Лукіліанівно noun:anim:f:v_kly:prop:pname
+Лук'янівна noun:anim:f:v_naz:prop:pname
+  Лук'янівни noun:anim:f:v_rod:prop:pname
+  Лук'янівні noun:anim:f:v_dav:prop:pname
+  Лук'янівну noun:anim:f:v_zna:prop:pname
+  Лук'янівною noun:anim:f:v_oru:prop:pname
+  Лук'янівні noun:anim:f:v_mis:prop:pname
+  Лук'янівно noun:anim:f:v_kly:prop:pname
+Львівна noun:anim:f:v_naz:prop:pname
+  Львівни noun:anim:f:v_rod:prop:pname
+  Львівні noun:anim:f:v_dav:prop:pname
+  Львівну noun:anim:f:v_zna:prop:pname
+  Львівною noun:anim:f:v_oru:prop:pname
+  Львівні noun:anim:f:v_mis:prop:pname
+  Львівно noun:anim:f:v_kly:prop:pname
+Любомирівна noun:anim:f:v_naz:prop:pname
+  Любомирівни noun:anim:f:v_rod:prop:pname
+  Любомирівні noun:anim:f:v_dav:prop:pname
+  Любомирівну noun:anim:f:v_zna:prop:pname
+  Любомирівною noun:anim:f:v_oru:prop:pname
+  Любомирівні noun:anim:f:v_mis:prop:pname
+  Любомирівно noun:anim:f:v_kly:prop:pname
+Людомирівна noun:anim:f:v_naz:prop:pname
+  Людомирівни noun:anim:f:v_rod:prop:pname
+  Людомирівні noun:anim:f:v_dav:prop:pname
+  Людомирівну noun:anim:f:v_zna:prop:pname
+  Людомирівною noun:anim:f:v_oru:prop:pname
+  Людомирівні noun:anim:f:v_mis:prop:pname
+  Людомирівно noun:anim:f:v_kly:prop:pname
+Макарівна noun:anim:f:v_naz:prop:pname
+  Макарівни noun:anim:f:v_rod:prop:pname
+  Макарівні noun:anim:f:v_dav:prop:pname
+  Макарівну noun:anim:f:v_zna:prop:pname
+  Макарівною noun:anim:f:v_oru:prop:pname
+  Макарівні noun:anim:f:v_mis:prop:pname
+  Макарівно noun:anim:f:v_kly:prop:pname
+Максимівна noun:anim:f:v_naz:prop:pname
+  Максимівни noun:anim:f:v_rod:prop:pname
+  Максимівні noun:anim:f:v_dav:prop:pname
+  Максимівну noun:anim:f:v_zna:prop:pname
+  Максимівною noun:anim:f:v_oru:prop:pname
+  Максимівні noun:anim:f:v_mis:prop:pname
+  Максимівно noun:anim:f:v_kly:prop:pname
+Маркелівна noun:anim:f:v_naz:prop:pname
+  Маркелівни noun:anim:f:v_rod:prop:pname
+  Маркелівні noun:anim:f:v_dav:prop:pname
+  Маркелівну noun:anim:f:v_zna:prop:pname
+  Маркелівною noun:anim:f:v_oru:prop:pname
+  Маркелівні noun:anim:f:v_mis:prop:pname
+  Маркелівно noun:anim:f:v_kly:prop:pname
+Марківна noun:anim:f:v_naz:prop:pname
+  Марківни noun:anim:f:v_rod:prop:pname
+  Марківні noun:anim:f:v_dav:prop:pname
+  Марківну noun:anim:f:v_zna:prop:pname
+  Марківною noun:anim:f:v_oru:prop:pname
+  Марківні noun:anim:f:v_mis:prop:pname
+  Марківно noun:anim:f:v_kly:prop:pname
+Мартиніанівна noun:anim:f:v_naz:prop:pname
+  Мартиніанівни noun:anim:f:v_rod:prop:pname
+  Мартиніанівні noun:anim:f:v_dav:prop:pname
+  Мартиніанівну noun:anim:f:v_zna:prop:pname
+  Мартиніанівною noun:anim:f:v_oru:prop:pname
+  Мартиніанівні noun:anim:f:v_mis:prop:pname
+  Мартиніанівно noun:anim:f:v_kly:prop:pname
+Мартинівна noun:anim:f:v_naz:prop:pname
+  Мартинівни noun:anim:f:v_rod:prop:pname
+  Мартинівні noun:anim:f:v_dav:prop:pname
+  Мартинівну noun:anim:f:v_zna:prop:pname
+  Мартинівною noun:anim:f:v_oru:prop:pname
+  Мартинівні noun:anim:f:v_mis:prop:pname
+  Мартинівно noun:anim:f:v_kly:prop:pname
+Мартьянівна noun:anim:f:v_naz:prop:pname
+  Мартьянівни noun:anim:f:v_rod:prop:pname
+  Мартьянівні noun:anim:f:v_dav:prop:pname
+  Мартьянівну noun:anim:f:v_zna:prop:pname
+  Мартьянівною noun:anim:f:v_oru:prop:pname
+  Мартьянівні noun:anim:f:v_mis:prop:pname
+  Мартьянівно noun:anim:f:v_kly:prop:pname
+Мар'янівна noun:anim:f:v_naz:prop:pname
+  Мар'янівни noun:anim:f:v_rod:prop:pname
+  Мар'янівні noun:anim:f:v_dav:prop:pname
+  Мар'янівну noun:anim:f:v_zna:prop:pname
+  Мар'янівною noun:anim:f:v_oru:prop:pname
+  Мар'янівні noun:anim:f:v_mis:prop:pname
+  Мар'янівно noun:anim:f:v_kly:prop:pname
+Матвіївна noun:anim:f:v_naz:prop:pname
+  Матвіївни noun:anim:f:v_rod:prop:pname
+  Матвіївні noun:anim:f:v_dav:prop:pname
+  Матвіївну noun:anim:f:v_zna:prop:pname
+  Матвіївною noun:anim:f:v_oru:prop:pname
+  Матвіївні noun:anim:f:v_mis:prop:pname
+  Матвіївно noun:anim:f:v_kly:prop:pname
+Мелетіївна noun:anim:f:v_naz:prop:pname
+  Мелетіївни noun:anim:f:v_rod:prop:pname
+  Мелетіївні noun:anim:f:v_dav:prop:pname
+  Мелетіївну noun:anim:f:v_zna:prop:pname
+  Мелетіївною noun:anim:f:v_oru:prop:pname
+  Мелетіївні noun:anim:f:v_mis:prop:pname
+  Мелетіївно noun:anim:f:v_kly:prop:pname
+Меркуріївна noun:anim:f:v_naz:prop:pname    # ім'я
+  Меркуріївни noun:anim:f:v_rod:prop:pname
+  Меркуріївні noun:anim:f:v_dav:prop:pname
+  Меркуріївну noun:anim:f:v_zna:prop:pname
+  Меркуріївною noun:anim:f:v_oru:prop:pname
+  Меркуріївні noun:anim:f:v_mis:prop:pname
+  Меркуріївно noun:anim:f:v_kly:prop:pname
+Методіївна noun:anim:f:v_naz:prop:pname
+  Методіївни noun:anim:f:v_rod:prop:pname
+  Методіївні noun:anim:f:v_dav:prop:pname
+  Методіївну noun:anim:f:v_zna:prop:pname
+  Методіївною noun:anim:f:v_oru:prop:pname
+  Методіївні noun:anim:f:v_mis:prop:pname
+  Методіївно noun:anim:f:v_kly:prop:pname
+Мефодіївна noun:anim:f:v_naz:prop:pname
+  Мефодіївни noun:anim:f:v_rod:prop:pname
+  Мефодіївні noun:anim:f:v_dav:prop:pname
+  Мефодіївну noun:anim:f:v_zna:prop:pname
+  Мефодіївною noun:anim:f:v_oru:prop:pname
+  Мефодіївні noun:anim:f:v_mis:prop:pname
+  Мефодіївно noun:anim:f:v_kly:prop:pname
+Микитівна noun:anim:f:v_naz:prop:pname
+  Микитівни noun:anim:f:v_rod:prop:pname
+  Микитівні noun:anim:f:v_dav:prop:pname
+  Микитівну noun:anim:f:v_zna:prop:pname
+  Микитівною noun:anim:f:v_oru:prop:pname
+  Микитівні noun:anim:f:v_mis:prop:pname
+  Микитівно noun:anim:f:v_kly:prop:pname
+Микодимівна noun:anim:f:v_naz:prop:pname
+  Микодимівни noun:anim:f:v_rod:prop:pname
+  Микодимівні noun:anim:f:v_dav:prop:pname
+  Микодимівну noun:anim:f:v_zna:prop:pname
+  Микодимівною noun:anim:f:v_oru:prop:pname
+  Микодимівні noun:anim:f:v_mis:prop:pname
+  Микодимівно noun:anim:f:v_kly:prop:pname
+Миколаївна noun:anim:f:v_naz:prop:pname
+  Миколаївни noun:anim:f:v_rod:prop:pname
+  Миколаївні noun:anim:f:v_dav:prop:pname
+  Миколаївну noun:anim:f:v_zna:prop:pname
+  Миколаївною noun:anim:f:v_oru:prop:pname
+  Миколаївні noun:anim:f:v_mis:prop:pname
+  Миколаївно noun:anim:f:v_kly:prop:pname
+Миколівна noun:anim:f:v_naz:prop:pname
+  Миколівни noun:anim:f:v_rod:prop:pname
+  Миколівні noun:anim:f:v_dav:prop:pname
+  Миколівну noun:anim:f:v_zna:prop:pname
+  Миколівною noun:anim:f:v_oru:prop:pname
+  Миколівні noun:anim:f:v_mis:prop:pname
+  Миколівно noun:anim:f:v_kly:prop:pname
+Милославівна noun:anim:f:v_naz:prop:pname
+  Милославівни noun:anim:f:v_rod:prop:pname
+  Милославівні noun:anim:f:v_dav:prop:pname
+  Милославівну noun:anim:f:v_zna:prop:pname
+  Милославівною noun:anim:f:v_oru:prop:pname
+  Милославівні noun:anim:f:v_mis:prop:pname
+  Милославівно noun:anim:f:v_kly:prop:pname
+Миронівна noun:anim:f:v_naz:prop:pname
+  Миронівни noun:anim:f:v_rod:prop:pname
+  Миронівні noun:anim:f:v_dav:prop:pname
+  Миронівну noun:anim:f:v_zna:prop:pname
+  Миронівною noun:anim:f:v_oru:prop:pname
+  Миронівні noun:anim:f:v_mis:prop:pname
+  Миронівно noun:anim:f:v_kly:prop:pname
+Мирославівна noun:anim:f:v_naz:prop:pname
+  Мирославівни noun:anim:f:v_rod:prop:pname
+  Мирославівні noun:anim:f:v_dav:prop:pname
+  Мирославівну noun:anim:f:v_zna:prop:pname
+  Мирославівною noun:anim:f:v_oru:prop:pname
+  Мирославівні noun:anim:f:v_mis:prop:pname
+  Мирославівно noun:anim:f:v_kly:prop:pname
+Мисаїлівна noun:anim:f:v_naz:prop:pname
+  Мисаїлівни noun:anim:f:v_rod:prop:pname
+  Мисаїлівні noun:anim:f:v_dav:prop:pname
+  Мисаїлівну noun:anim:f:v_zna:prop:pname
+  Мисаїлівною noun:anim:f:v_oru:prop:pname
+  Мисаїлівні noun:anim:f:v_mis:prop:pname
+  Мисаїлівно noun:anim:f:v_kly:prop:pname
+Митрофанівна noun:anim:f:v_naz:prop:pname
+  Митрофанівни noun:anim:f:v_rod:prop:pname
+  Митрофанівні noun:anim:f:v_dav:prop:pname
+  Митрофанівну noun:anim:f:v_zna:prop:pname
+  Митрофанівною noun:anim:f:v_oru:prop:pname
+  Митрофанівні noun:anim:f:v_mis:prop:pname
+  Митрофанівно noun:anim:f:v_kly:prop:pname
+Михайлівна noun:anim:f:v_naz:prop:pname
+  Михайлівни noun:anim:f:v_rod:prop:pname
+  Михайлівні noun:anim:f:v_dav:prop:pname
+  Михайлівну noun:anim:f:v_zna:prop:pname
+  Михайлівною noun:anim:f:v_oru:prop:pname
+  Михайлівні noun:anim:f:v_mis:prop:pname
+  Михайлівно noun:anim:f:v_kly:prop:pname
+Михеївна noun:anim:f:v_naz:prop:pname
+  Михеївни noun:anim:f:v_rod:prop:pname
+  Михеївні noun:anim:f:v_dav:prop:pname
+  Михеївну noun:anim:f:v_zna:prop:pname
+  Михеївною noun:anim:f:v_oru:prop:pname
+  Михеївні noun:anim:f:v_mis:prop:pname
+  Михеївно noun:anim:f:v_kly:prop:pname
+Модестівна noun:anim:f:v_naz:prop:pname
+  Модестівни noun:anim:f:v_rod:prop:pname
+  Модестівні noun:anim:f:v_dav:prop:pname
+  Модестівну noun:anim:f:v_zna:prop:pname
+  Модестівною noun:anim:f:v_oru:prop:pname
+  Модестівні noun:anim:f:v_mis:prop:pname
+  Модестівно noun:anim:f:v_kly:prop:pname
+Мойсеївна noun:anim:f:v_naz:prop:pname
+  Мойсеївни noun:anim:f:v_rod:prop:pname
+  Мойсеївні noun:anim:f:v_dav:prop:pname
+  Мойсеївну noun:anim:f:v_zna:prop:pname
+  Мойсеївною noun:anim:f:v_oru:prop:pname
+  Мойсеївні noun:anim:f:v_mis:prop:pname
+  Мойсеївно noun:anim:f:v_kly:prop:pname
+Мокіївна noun:anim:f:v_naz:prop:pname
+  Мокіївни noun:anim:f:v_rod:prop:pname
+  Мокіївні noun:anim:f:v_dav:prop:pname
+  Мокіївну noun:anim:f:v_zna:prop:pname
+  Мокіївною noun:anim:f:v_oru:prop:pname
+  Мокіївні noun:anim:f:v_mis:prop:pname
+  Мокіївно noun:anim:f:v_kly:prop:pname
+Мстиславівна noun:anim:f:v_naz:prop:pname
+  Мстиславівни noun:anim:f:v_rod:prop:pname
+  Мстиславівні noun:anim:f:v_dav:prop:pname
+  Мстиславівну noun:anim:f:v_zna:prop:pname
+  Мстиславівною noun:anim:f:v_oru:prop:pname
+  Мстиславівні noun:anim:f:v_mis:prop:pname
+  Мстиславівно noun:anim:f:v_kly:prop:pname
+Мусіївна noun:anim:f:v_naz:prop:pname
+  Мусіївни noun:anim:f:v_rod:prop:pname
+  Мусіївні noun:anim:f:v_dav:prop:pname
+  Мусіївну noun:anim:f:v_zna:prop:pname
+  Мусіївною noun:anim:f:v_oru:prop:pname
+  Мусіївні noun:anim:f:v_mis:prop:pname
+  Мусіївно noun:anim:f:v_kly:prop:pname
+Назарівна noun:anim:f:v_naz:prop:pname
+  Назарівни noun:anim:f:v_rod:prop:pname
+  Назарівні noun:anim:f:v_dav:prop:pname
+  Назарівну noun:anim:f:v_zna:prop:pname
+  Назарівною noun:anim:f:v_oru:prop:pname
+  Назарівні noun:anim:f:v_mis:prop:pname
+  Назарівно noun:anim:f:v_kly:prop:pname
+Назаріївна noun:anim:f:v_naz:prop:pname
+  Назаріївни noun:anim:f:v_rod:prop:pname
+  Назаріївні noun:anim:f:v_dav:prop:pname
+  Назаріївну noun:anim:f:v_zna:prop:pname
+  Назаріївною noun:anim:f:v_oru:prop:pname
+  Назаріївні noun:anim:f:v_mis:prop:pname
+  Назаріївно noun:anim:f:v_kly:prop:pname
+Наркисівна noun:anim:f:v_naz:prop:pname
+  Наркисівни noun:anim:f:v_rod:prop:pname
+  Наркисівні noun:anim:f:v_dav:prop:pname
+  Наркисівну noun:anim:f:v_zna:prop:pname
+  Наркисівною noun:anim:f:v_oru:prop:pname
+  Наркисівні noun:anim:f:v_mis:prop:pname
+  Наркисівно noun:anim:f:v_kly:prop:pname
+Натанівна noun:anim:f:v_naz:prop:pname
+  Натанівни noun:anim:f:v_rod:prop:pname
+  Натанівні noun:anim:f:v_dav:prop:pname
+  Натанівну noun:anim:f:v_zna:prop:pname
+  Натанівною noun:anim:f:v_oru:prop:pname
+  Натанівні noun:anim:f:v_mis:prop:pname
+  Натанівно noun:anim:f:v_kly:prop:pname
+Наумівна noun:anim:f:v_naz:prop:pname
+  Наумівни noun:anim:f:v_rod:prop:pname
+  Наумівні noun:anim:f:v_dav:prop:pname
+  Наумівну noun:anim:f:v_zna:prop:pname
+  Наумівною noun:anim:f:v_oru:prop:pname
+  Наумівні noun:anim:f:v_mis:prop:pname
+  Наумівно noun:anim:f:v_kly:prop:pname
+Нахманівна noun:anim:f:v_naz:prop:pname
+  Нахманівни noun:anim:f:v_rod:prop:pname
+  Нахманівні noun:anim:f:v_dav:prop:pname
+  Нахманівну noun:anim:f:v_zna:prop:pname
+  Нахманівною noun:anim:f:v_oru:prop:pname
+  Нахманівні noun:anim:f:v_mis:prop:pname
+  Нахманівно noun:anim:f:v_kly:prop:pname
+Несторівна noun:anim:f:v_naz:prop:pname
+  Несторівни noun:anim:f:v_rod:prop:pname
+  Несторівні noun:anim:f:v_dav:prop:pname
+  Несторівну noun:anim:f:v_zna:prop:pname
+  Несторівною noun:anim:f:v_oru:prop:pname
+  Несторівні noun:anim:f:v_mis:prop:pname
+  Несторівно noun:anim:f:v_kly:prop:pname
+Никандрівна noun:anim:f:v_naz:prop:pname
+  Никандрівни noun:anim:f:v_rod:prop:pname
+  Никандрівні noun:anim:f:v_dav:prop:pname
+  Никандрівну noun:anim:f:v_zna:prop:pname
+  Никандрівною noun:anim:f:v_oru:prop:pname
+  Никандрівні noun:anim:f:v_mis:prop:pname
+  Никандрівно noun:anim:f:v_kly:prop:pname
+Никанорівна noun:anim:f:v_naz:prop:pname
+  Никанорівни noun:anim:f:v_rod:prop:pname
+  Никанорівні noun:anim:f:v_dav:prop:pname
+  Никанорівну noun:anim:f:v_zna:prop:pname
+  Никанорівною noun:anim:f:v_oru:prop:pname
+  Никанорівні noun:anim:f:v_mis:prop:pname
+  Никанорівно noun:anim:f:v_kly:prop:pname
+Никифорівна noun:anim:f:v_naz:prop:pname
+  Никифорівни noun:anim:f:v_rod:prop:pname
+  Никифорівні noun:anim:f:v_dav:prop:pname
+  Никифорівну noun:anim:f:v_zna:prop:pname
+  Никифорівною noun:anim:f:v_oru:prop:pname
+  Никифорівні noun:anim:f:v_mis:prop:pname
+  Никифорівно noun:anim:f:v_kly:prop:pname
+Никодимівна noun:anim:f:v_naz:prop:pname
+  Никодимівни noun:anim:f:v_rod:prop:pname
+  Никодимівні noun:anim:f:v_dav:prop:pname
+  Никодимівну noun:anim:f:v_zna:prop:pname
+  Никодимівною noun:anim:f:v_oru:prop:pname
+  Никодимівні noun:anim:f:v_mis:prop:pname
+  Никодимівно noun:anim:f:v_kly:prop:pname
+Никонівна noun:anim:f:v_naz:prop:pname
+  Никонівни noun:anim:f:v_rod:prop:pname
+  Никонівні noun:anim:f:v_dav:prop:pname
+  Никонівну noun:anim:f:v_zna:prop:pname
+  Никонівною noun:anim:f:v_oru:prop:pname
+  Никонівні noun:anim:f:v_mis:prop:pname
+  Никонівно noun:anim:f:v_kly:prop:pname
+Нилівна noun:anim:f:v_naz:prop:pname
+  Нилівни noun:anim:f:v_rod:prop:pname
+  Нилівні noun:anim:f:v_dav:prop:pname
+  Нилівну noun:anim:f:v_zna:prop:pname
+  Нилівною noun:anim:f:v_oru:prop:pname
+  Нилівні noun:anim:f:v_mis:prop:pname
+  Нилівно noun:anim:f:v_kly:prop:pname
+Нифонтівна noun:anim:f:v_naz:prop:pname
+  Нифонтівни noun:anim:f:v_rod:prop:pname
+  Нифонтівні noun:anim:f:v_dav:prop:pname
+  Нифонтівну noun:anim:f:v_zna:prop:pname
+  Нифонтівною noun:anim:f:v_oru:prop:pname
+  Нифонтівні noun:anim:f:v_mis:prop:pname
+  Нифонтівно noun:anim:f:v_kly:prop:pname
+Ничипорівна noun:anim:f:v_naz:prop:pname
+  Ничипорівни noun:anim:f:v_rod:prop:pname
+  Ничипорівні noun:anim:f:v_dav:prop:pname
+  Ничипорівну noun:anim:f:v_zna:prop:pname
+  Ничипорівною noun:anim:f:v_oru:prop:pname
+  Ничипорівні noun:anim:f:v_mis:prop:pname
+  Ничипорівно noun:anim:f:v_kly:prop:pname
+Ніколаївна noun:anim:f:v_naz:prop:pname
+  Ніколаївни noun:anim:f:v_rod:prop:pname
+  Ніколаївні noun:anim:f:v_dav:prop:pname
+  Ніколаївну noun:anim:f:v_zna:prop:pname
+  Ніколаївною noun:anim:f:v_oru:prop:pname
+  Ніколаївні noun:anim:f:v_mis:prop:pname
+  Ніколаївно noun:anim:f:v_kly:prop:pname
+Ніколозівна noun:anim:f:v_naz:prop:pname
+  Ніколозівни noun:anim:f:v_rod:prop:pname
+  Ніколозівні noun:anim:f:v_dav:prop:pname
+  Ніколозівну noun:anim:f:v_zna:prop:pname
+  Ніколозівною noun:anim:f:v_oru:prop:pname
+  Ніколозівні noun:anim:f:v_mis:prop:pname
+  Ніколозівно noun:anim:f:v_kly:prop:pname
+Оверкіївна noun:anim:f:v_naz:prop:pname
+  Оверкіївни noun:anim:f:v_rod:prop:pname
+  Оверкіївні noun:anim:f:v_dav:prop:pname
+  Оверкіївну noun:anim:f:v_zna:prop:pname
+  Оверкіївною noun:anim:f:v_oru:prop:pname
+  Оверкіївні noun:anim:f:v_mis:prop:pname
+  Оверкіївно noun:anim:f:v_kly:prop:pname
+Овер'янівна noun:anim:f:v_naz:prop:pname
+  Овер'янівни noun:anim:f:v_rod:prop:pname
+  Овер'янівні noun:anim:f:v_dav:prop:pname
+  Овер'янівну noun:anim:f:v_zna:prop:pname
+  Овер'янівною noun:anim:f:v_oru:prop:pname
+  Овер'янівні noun:anim:f:v_mis:prop:pname
+  Овер'янівно noun:anim:f:v_kly:prop:pname
+Овксентівна noun:anim:f:v_naz:prop:pname
+  Овксентівни noun:anim:f:v_rod:prop:pname
+  Овксентівні noun:anim:f:v_dav:prop:pname
+  Овксентівну noun:anim:f:v_zna:prop:pname
+  Овксентівною noun:anim:f:v_oru:prop:pname
+  Овксентівні noun:anim:f:v_mis:prop:pname
+  Овксентівно noun:anim:f:v_kly:prop:pname
+Овксентіївна noun:anim:f:v_naz:prop:pname
+  Овксентіївни noun:anim:f:v_rod:prop:pname
+  Овксентіївні noun:anim:f:v_dav:prop:pname
+  Овксентіївну noun:anim:f:v_zna:prop:pname
+  Овксентіївною noun:anim:f:v_oru:prop:pname
+  Овксентіївні noun:anim:f:v_mis:prop:pname
+  Овксентіївно noun:anim:f:v_kly:prop:pname
+Оврамівна noun:anim:f:v_naz:prop:pname
+  Оврамівни noun:anim:f:v_rod:prop:pname
+  Оврамівні noun:anim:f:v_dav:prop:pname
+  Оврамівну noun:anim:f:v_zna:prop:pname
+  Оврамівною noun:anim:f:v_oru:prop:pname
+  Оврамівні noun:anim:f:v_mis:prop:pname
+  Оврамівно noun:anim:f:v_kly:prop:pname
+Овсіївна noun:anim:f:v_naz:prop:pname
+  Овсіївни noun:anim:f:v_rod:prop:pname
+  Овсіївні noun:anim:f:v_dav:prop:pname
+  Овсіївну noun:anim:f:v_zna:prop:pname
+  Овсіївною noun:anim:f:v_oru:prop:pname
+  Овсіївні noun:anim:f:v_mis:prop:pname
+  Овсіївно noun:anim:f:v_kly:prop:pname
+Огеївна noun:anim:f:v_naz:prop:pname
+  Огеївни noun:anim:f:v_rod:prop:pname
+  Огеївні noun:anim:f:v_dav:prop:pname
+  Огеївну noun:anim:f:v_zna:prop:pname
+  Огеївною noun:anim:f:v_oru:prop:pname
+  Огеївні noun:anim:f:v_mis:prop:pname
+  Огеївно noun:anim:f:v_kly:prop:pname
+Оксентівна noun:anim:f:v_naz:prop:pname
+  Оксентівни noun:anim:f:v_rod:prop:pname
+  Оксентівні noun:anim:f:v_dav:prop:pname
+  Оксентівну noun:anim:f:v_zna:prop:pname
+  Оксентівною noun:anim:f:v_oru:prop:pname
+  Оксентівні noun:anim:f:v_mis:prop:pname
+  Оксентівно noun:anim:f:v_kly:prop:pname
+Оксентіївна noun:anim:f:v_naz:prop:pname
+  Оксентіївни noun:anim:f:v_rod:prop:pname
+  Оксентіївні noun:anim:f:v_dav:prop:pname
+  Оксентіївну noun:anim:f:v_zna:prop:pname
+  Оксентіївною noun:anim:f:v_oru:prop:pname
+  Оксентіївні noun:anim:f:v_mis:prop:pname
+  Оксентіївно noun:anim:f:v_kly:prop:pname
+Олегівна noun:anim:f:v_naz:prop:pname
+  Олегівни noun:anim:f:v_rod:prop:pname
+  Олегівні noun:anim:f:v_dav:prop:pname
+  Олегівну noun:anim:f:v_zna:prop:pname
+  Олегівною noun:anim:f:v_oru:prop:pname
+  Олегівні noun:anim:f:v_mis:prop:pname
+  Олегівно noun:anim:f:v_kly:prop:pname
+Олександрівна noun:anim:f:v_naz:prop:pname
+  Олександрівни noun:anim:f:v_rod:prop:pname
+  Олександрівні noun:anim:f:v_dav:prop:pname
+  Олександрівну noun:anim:f:v_zna:prop:pname
+  Олександрівною noun:anim:f:v_oru:prop:pname
+  Олександрівні noun:anim:f:v_mis:prop:pname
+  Олександрівно noun:anim:f:v_kly:prop:pname
+Олексівна noun:anim:f:v_naz:prop:pname
+  Олексівни noun:anim:f:v_rod:prop:pname
+  Олексівні noun:anim:f:v_dav:prop:pname
+  Олексівну noun:anim:f:v_zna:prop:pname
+  Олексівною noun:anim:f:v_oru:prop:pname
+  Олексівні noun:anim:f:v_mis:prop:pname
+  Олексівно noun:anim:f:v_kly:prop:pname
+Олексіївна noun:anim:f:v_naz:prop:pname
+  Олексіївни noun:anim:f:v_rod:prop:pname
+  Олексіївні noun:anim:f:v_dav:prop:pname
+  Олексіївну noun:anim:f:v_zna:prop:pname
+  Олексіївною noun:anim:f:v_oru:prop:pname
+  Олексіївні noun:anim:f:v_mis:prop:pname
+  Олексіївно noun:anim:f:v_kly:prop:pname
+Омелянівна noun:anim:f:v_naz:prop:pname
+  Омелянівни noun:anim:f:v_rod:prop:pname
+  Омелянівні noun:anim:f:v_dav:prop:pname
+  Омелянівну noun:anim:f:v_zna:prop:pname
+  Омелянівною noun:anim:f:v_oru:prop:pname
+  Омелянівні noun:anim:f:v_mis:prop:pname
+  Омелянівно noun:anim:f:v_kly:prop:pname
+Онисимівна noun:anim:f:v_naz:prop:pname
+  Онисимівни noun:anim:f:v_rod:prop:pname
+  Онисимівні noun:anim:f:v_dav:prop:pname
+  Онисимівну noun:anim:f:v_zna:prop:pname
+  Онисимівною noun:anim:f:v_oru:prop:pname
+  Онисимівні noun:anim:f:v_mis:prop:pname
+  Онисимівно noun:anim:f:v_kly:prop:pname
+Онисіївна noun:anim:f:v_naz:prop:pname
+  Онисіївни noun:anim:f:v_rod:prop:pname
+  Онисіївні noun:anim:f:v_dav:prop:pname
+  Онисіївну noun:anim:f:v_zna:prop:pname
+  Онисіївною noun:anim:f:v_oru:prop:pname
+  Онисіївні noun:anim:f:v_mis:prop:pname
+  Онисіївно noun:anim:f:v_kly:prop:pname
+Онопріївна noun:anim:f:v_naz:prop:pname
+  Онопріївни noun:anim:f:v_rod:prop:pname
+  Онопріївні noun:anim:f:v_dav:prop:pname
+  Онопріївну noun:anim:f:v_zna:prop:pname
+  Онопріївною noun:anim:f:v_oru:prop:pname
+  Онопріївні noun:anim:f:v_mis:prop:pname
+  Онопріївно noun:anim:f:v_kly:prop:pname
+Онупріївна noun:anim:f:v_naz:prop:pname
+  Онупріївни noun:anim:f:v_rod:prop:pname
+  Онупріївні noun:anim:f:v_dav:prop:pname
+  Онупріївну noun:anim:f:v_zna:prop:pname
+  Онупріївною noun:anim:f:v_oru:prop:pname
+  Онупріївні noun:anim:f:v_mis:prop:pname
+  Онупріївно noun:anim:f:v_kly:prop:pname
+Онуфріївна noun:anim:f:v_naz:prop:pname
+  Онуфріївни noun:anim:f:v_rod:prop:pname
+  Онуфріївні noun:anim:f:v_dav:prop:pname
+  Онуфріївну noun:anim:f:v_zna:prop:pname
+  Онуфріївною noun:anim:f:v_oru:prop:pname
+  Онуфріївні noun:anim:f:v_mis:prop:pname
+  Онуфріївно noun:anim:f:v_kly:prop:pname
+Опанасівна noun:anim:f:v_naz:prop:pname
+  Опанасівни noun:anim:f:v_rod:prop:pname
+  Опанасівні noun:anim:f:v_dav:prop:pname
+  Опанасівну noun:anim:f:v_zna:prop:pname
+  Опанасівною noun:anim:f:v_oru:prop:pname
+  Опанасівні noun:anim:f:v_mis:prop:pname
+  Опанасівно noun:anim:f:v_kly:prop:pname
+Орестівна noun:anim:f:v_naz:prop:pname
+  Орестівни noun:anim:f:v_rod:prop:pname
+  Орестівні noun:anim:f:v_dav:prop:pname
+  Орестівну noun:anim:f:v_zna:prop:pname
+  Орестівною noun:anim:f:v_oru:prop:pname
+  Орестівні noun:anim:f:v_mis:prop:pname
+  Орестівно noun:anim:f:v_kly:prop:pname
+Осипівна noun:anim:f:v_naz:prop:pname
+  Осипівни noun:anim:f:v_rod:prop:pname
+  Осипівні noun:anim:f:v_dav:prop:pname
+  Осипівну noun:anim:f:v_zna:prop:pname
+  Осипівною noun:anim:f:v_oru:prop:pname
+  Осипівні noun:anim:f:v_mis:prop:pname
+  Осипівно noun:anim:f:v_kly:prop:pname
+Оскарівна noun:anim:f:v_naz:prop:pname    # ім'я
+  Оскарівни noun:anim:f:v_rod:prop:pname
+  Оскарівні noun:anim:f:v_dav:prop:pname
+  Оскарівну noun:anim:f:v_zna:prop:pname
+  Оскарівною noun:anim:f:v_oru:prop:pname
+  Оскарівні noun:anim:f:v_mis:prop:pname
+  Оскарівно noun:anim:f:v_kly:prop:pname
+Османівна noun:anim:f:v_naz:prop:pname
+  Османівни noun:anim:f:v_rod:prop:pname
+  Османівні noun:anim:f:v_dav:prop:pname
+  Османівну noun:anim:f:v_zna:prop:pname
+  Османівною noun:anim:f:v_oru:prop:pname
+  Османівні noun:anim:f:v_mis:prop:pname
+  Османівно noun:anim:f:v_kly:prop:pname
+Остапівна noun:anim:f:v_naz:prop:pname
+  Остапівни noun:anim:f:v_rod:prop:pname
+  Остапівні noun:anim:f:v_dav:prop:pname
+  Остапівну noun:anim:f:v_zna:prop:pname
+  Остапівною noun:anim:f:v_oru:prop:pname
+  Остапівні noun:anim:f:v_mis:prop:pname
+  Остапівно noun:anim:f:v_kly:prop:pname
+Остромирівна noun:anim:f:v_naz:prop:pname
+  Остромирівни noun:anim:f:v_rod:prop:pname
+  Остромирівні noun:anim:f:v_dav:prop:pname
+  Остромирівну noun:anim:f:v_zna:prop:pname
+  Остромирівною noun:anim:f:v_oru:prop:pname
+  Остромирівні noun:anim:f:v_mis:prop:pname
+  Остромирівно noun:anim:f:v_kly:prop:pname
+Охрімівна noun:anim:f:v_naz:prop:pname
+  Охрімівни noun:anim:f:v_rod:prop:pname
+  Охрімівні noun:anim:f:v_dav:prop:pname
+  Охрімівну noun:anim:f:v_zna:prop:pname
+  Охрімівною noun:anim:f:v_oru:prop:pname
+  Охрімівні noun:anim:f:v_mis:prop:pname
+  Охрімівно noun:anim:f:v_kly:prop:pname
+Павлівна noun:anim:f:v_naz:prop:pname
+  Павлівни noun:anim:f:v_rod:prop:pname
+  Павлівні noun:anim:f:v_dav:prop:pname
+  Павлівну noun:anim:f:v_zna:prop:pname
+  Павлівною noun:anim:f:v_oru:prop:pname
+  Павлівні noun:anim:f:v_mis:prop:pname
+  Павлівно noun:anim:f:v_kly:prop:pname
+Паїсіївна noun:anim:f:v_naz:prop:pname
+  Паїсіївни noun:anim:f:v_rod:prop:pname
+  Паїсіївні noun:anim:f:v_dav:prop:pname
+  Паїсіївну noun:anim:f:v_zna:prop:pname
+  Паїсіївною noun:anim:f:v_oru:prop:pname
+  Паїсіївні noun:anim:f:v_mis:prop:pname
+  Паїсіївно noun:anim:f:v_kly:prop:pname
+Палладіївна noun:anim:f:v_naz:prop:pname
+  Палладіївни noun:anim:f:v_rod:prop:pname
+  Палладіївні noun:anim:f:v_dav:prop:pname
+  Палладіївну noun:anim:f:v_zna:prop:pname
+  Палладіївною noun:anim:f:v_oru:prop:pname
+  Палладіївні noun:anim:f:v_mis:prop:pname
+  Палладіївно noun:anim:f:v_kly:prop:pname
+Памфілівна noun:anim:f:v_naz:prop:pname
+  Памфілівни noun:anim:f:v_rod:prop:pname
+  Памфілівні noun:anim:f:v_dav:prop:pname
+  Памфілівну noun:anim:f:v_zna:prop:pname
+  Памфілівною noun:anim:f:v_oru:prop:pname
+  Памфілівні noun:anim:f:v_mis:prop:pname
+  Памфілівно noun:anim:f:v_kly:prop:pname
+Панасівна noun:anim:f:v_naz:prop:pname
+  Панасівни noun:anim:f:v_rod:prop:pname
+  Панасівні noun:anim:f:v_dav:prop:pname
+  Панасівну noun:anim:f:v_zna:prop:pname
+  Панасівною noun:anim:f:v_oru:prop:pname
+  Панасівні noun:anim:f:v_mis:prop:pname
+  Панасівно noun:anim:f:v_kly:prop:pname
+Панкратівна noun:anim:f:v_naz:prop:pname
+  Панкратівни noun:anim:f:v_rod:prop:pname
+  Панкратівні noun:anim:f:v_dav:prop:pname
+  Панкратівну noun:anim:f:v_zna:prop:pname
+  Панкратівною noun:anim:f:v_oru:prop:pname
+  Панкратівні noun:anim:f:v_mis:prop:pname
+  Панкратівно noun:anim:f:v_kly:prop:pname
+Панкратіївна noun:anim:f:v_naz:prop:pname
+  Панкратіївни noun:anim:f:v_rod:prop:pname
+  Панкратіївні noun:anim:f:v_dav:prop:pname
+  Панкратіївну noun:anim:f:v_zna:prop:pname
+  Панкратіївною noun:anim:f:v_oru:prop:pname
+  Панкратіївні noun:anim:f:v_mis:prop:pname
+  Панкратіївно noun:anim:f:v_kly:prop:pname
+Пантелеймонівна noun:anim:f:v_naz:prop:pname
+  Пантелеймонівни noun:anim:f:v_rod:prop:pname
+  Пантелеймонівні noun:anim:f:v_dav:prop:pname
+  Пантелеймонівну noun:anim:f:v_zna:prop:pname
+  Пантелеймонівною noun:anim:f:v_oru:prop:pname
+  Пантелеймонівні noun:anim:f:v_mis:prop:pname
+  Пантелеймонівно noun:anim:f:v_kly:prop:pname
+Пантеліївна noun:anim:f:v_naz:prop:pname
+  Пантеліївни noun:anim:f:v_rod:prop:pname
+  Пантеліївні noun:anim:f:v_dav:prop:pname
+  Пантеліївну noun:anim:f:v_zna:prop:pname
+  Пантеліївною noun:anim:f:v_oru:prop:pname
+  Пантеліївні noun:anim:f:v_mis:prop:pname
+  Пантеліївно noun:anim:f:v_kly:prop:pname
+Панфілівна noun:anim:f:v_naz:prop:pname
+  Панфілівни noun:anim:f:v_rod:prop:pname
+  Панфілівні noun:anim:f:v_dav:prop:pname
+  Панфілівну noun:anim:f:v_zna:prop:pname
+  Панфілівною noun:anim:f:v_oru:prop:pname
+  Панфілівні noun:anim:f:v_mis:prop:pname
+  Панфілівно noun:anim:f:v_kly:prop:pname
+Парамонівна noun:anim:f:v_naz:prop:pname
+  Парамонівни noun:anim:f:v_rod:prop:pname
+  Парамонівні noun:anim:f:v_dav:prop:pname
+  Парамонівну noun:anim:f:v_zna:prop:pname
+  Парамонівною noun:anim:f:v_oru:prop:pname
+  Парамонівні noun:anim:f:v_mis:prop:pname
+  Парамонівно noun:anim:f:v_kly:prop:pname
+Парменівна noun:anim:f:v_naz:prop:pname
+  Парменівни noun:anim:f:v_rod:prop:pname
+  Парменівні noun:anim:f:v_dav:prop:pname
+  Парменівну noun:anim:f:v_zna:prop:pname
+  Парменівною noun:anim:f:v_oru:prop:pname
+  Парменівні noun:anim:f:v_mis:prop:pname
+  Парменівно noun:anim:f:v_kly:prop:pname
+Парфенівна noun:anim:f:v_naz:prop:pname
+  Парфенівни noun:anim:f:v_rod:prop:pname
+  Парфенівні noun:anim:f:v_dav:prop:pname
+  Парфенівну noun:anim:f:v_zna:prop:pname
+  Парфенівною noun:anim:f:v_oru:prop:pname
+  Парфенівні noun:anim:f:v_mis:prop:pname
+  Парфенівно noun:anim:f:v_kly:prop:pname
+Парфеніївна noun:anim:f:v_naz:prop:pname
+  Парфеніївни noun:anim:f:v_rod:prop:pname
+  Парфеніївні noun:anim:f:v_dav:prop:pname
+  Парфеніївну noun:anim:f:v_zna:prop:pname
+  Парфеніївною noun:anim:f:v_oru:prop:pname
+  Парфеніївні noun:anim:f:v_mis:prop:pname
+  Парфеніївно noun:anim:f:v_kly:prop:pname
+Парфентіївна noun:anim:f:v_naz:prop:pname
+  Парфентіївни noun:anim:f:v_rod:prop:pname
+  Парфентіївні noun:anim:f:v_dav:prop:pname
+  Парфентіївну noun:anim:f:v_zna:prop:pname
+  Парфентіївною noun:anim:f:v_oru:prop:pname
+  Парфентіївні noun:anim:f:v_mis:prop:pname
+  Парфентіївно noun:anim:f:v_kly:prop:pname
+Пахомівна noun:anim:f:v_naz:prop:pname
+  Пахомівни noun:anim:f:v_rod:prop:pname
+  Пахомівні noun:anim:f:v_dav:prop:pname
+  Пахомівну noun:anim:f:v_zna:prop:pname
+  Пахомівною noun:anim:f:v_oru:prop:pname
+  Пахомівні noun:anim:f:v_mis:prop:pname
+  Пахомівно noun:anim:f:v_kly:prop:pname
+Петрівна noun:anim:f:v_naz:prop:pname
+  Петрівни noun:anim:f:v_rod:prop:pname
+  Петрівні noun:anim:f:v_dav:prop:pname
+  Петрівну noun:anim:f:v_zna:prop:pname
+  Петрівною noun:anim:f:v_oru:prop:pname
+  Петрівні noun:anim:f:v_mis:prop:pname
+  Петрівно noun:anim:f:v_kly:prop:pname
+Пилипівна noun:anim:f:v_naz:prop:pname
+  Пилипівни noun:anim:f:v_rod:prop:pname
+  Пилипівні noun:anim:f:v_dav:prop:pname
+  Пилипівну noun:anim:f:v_zna:prop:pname
+  Пилипівною noun:anim:f:v_oru:prop:pname
+  Пилипівні noun:anim:f:v_mis:prop:pname
+  Пилипівно noun:anim:f:v_kly:prop:pname
+Пимонівна noun:anim:f:v_naz:prop:pname
+  Пимонівни noun:anim:f:v_rod:prop:pname
+  Пимонівні noun:anim:f:v_dav:prop:pname
+  Пимонівну noun:anim:f:v_zna:prop:pname
+  Пимонівною noun:anim:f:v_oru:prop:pname
+  Пимонівні noun:anim:f:v_mis:prop:pname
+  Пимонівно noun:anim:f:v_kly:prop:pname
+Платонівна noun:anim:f:v_naz:prop:pname
+  Платонівни noun:anim:f:v_rod:prop:pname
+  Платонівні noun:anim:f:v_dav:prop:pname
+  Платонівну noun:anim:f:v_zna:prop:pname
+  Платонівною noun:anim:f:v_oru:prop:pname
+  Платонівні noun:anim:f:v_mis:prop:pname
+  Платонівно noun:anim:f:v_kly:prop:pname
+Полієвктівна noun:anim:f:v_naz:prop:pname
+  Полієвктівни noun:anim:f:v_rod:prop:pname
+  Полієвктівні noun:anim:f:v_dav:prop:pname
+  Полієвктівну noun:anim:f:v_zna:prop:pname
+  Полієвктівною noun:anim:f:v_oru:prop:pname
+  Полієвктівні noun:anim:f:v_mis:prop:pname
+  Полієвктівно noun:anim:f:v_kly:prop:pname
+Полікарпівна noun:anim:f:v_naz:prop:pname
+  Полікарпівни noun:anim:f:v_rod:prop:pname
+  Полікарпівні noun:anim:f:v_dav:prop:pname
+  Полікарпівну noun:anim:f:v_zna:prop:pname
+  Полікарпівною noun:anim:f:v_oru:prop:pname
+  Полікарпівні noun:anim:f:v_mis:prop:pname
+  Полікарпівно noun:anim:f:v_kly:prop:pname
+Порфирівна noun:anim:f:v_naz:prop:pname
+  Порфирівни noun:anim:f:v_rod:prop:pname
+  Порфирівні noun:anim:f:v_dav:prop:pname
+  Порфирівну noun:anim:f:v_zna:prop:pname
+  Порфирівною noun:anim:f:v_oru:prop:pname
+  Порфирівні noun:anim:f:v_mis:prop:pname
+  Порфирівно noun:anim:f:v_kly:prop:pname
+Порфиріївна noun:anim:f:v_naz:prop:pname
+  Порфиріївни noun:anim:f:v_rod:prop:pname
+  Порфиріївні noun:anim:f:v_dav:prop:pname
+  Порфиріївну noun:anim:f:v_zna:prop:pname
+  Порфиріївною noun:anim:f:v_oru:prop:pname
+  Порфиріївні noun:anim:f:v_mis:prop:pname
+  Порфиріївно noun:anim:f:v_kly:prop:pname
+Потапівна noun:anim:f:v_naz:prop:pname
+  Потапівни noun:anim:f:v_rod:prop:pname
+  Потапівні noun:anim:f:v_dav:prop:pname
+  Потапівну noun:anim:f:v_zna:prop:pname
+  Потапівною noun:anim:f:v_oru:prop:pname
+  Потапівні noun:anim:f:v_mis:prop:pname
+  Потапівно noun:anim:f:v_kly:prop:pname
+Прокопівна noun:anim:f:v_naz:prop:pname
+  Прокопівни noun:anim:f:v_rod:prop:pname
+  Прокопівні noun:anim:f:v_dav:prop:pname
+  Прокопівну noun:anim:f:v_zna:prop:pname
+  Прокопівною noun:anim:f:v_oru:prop:pname
+  Прокопівні noun:anim:f:v_mis:prop:pname
+  Прокопівно noun:anim:f:v_kly:prop:pname
+Прокопіївна noun:anim:f:v_naz:prop:pname
+  Прокопіївни noun:anim:f:v_rod:prop:pname
+  Прокопіївні noun:anim:f:v_dav:prop:pname
+  Прокопіївну noun:anim:f:v_zna:prop:pname
+  Прокопіївною noun:anim:f:v_oru:prop:pname
+  Прокопіївні noun:anim:f:v_mis:prop:pname
+  Прокопіївно noun:anim:f:v_kly:prop:pname
+Протасіївна noun:anim:f:v_naz:prop:pname
+  Протасіївни noun:anim:f:v_rod:prop:pname
+  Протасіївні noun:anim:f:v_dav:prop:pname
+  Протасіївну noun:anim:f:v_zna:prop:pname
+  Протасіївною noun:anim:f:v_oru:prop:pname
+  Протасіївні noun:anim:f:v_mis:prop:pname
+  Протасіївно noun:anim:f:v_kly:prop:pname
+Прохорівна noun:anim:f:v_naz:prop:pname
+  Прохорівни noun:anim:f:v_rod:prop:pname
+  Прохорівні noun:anim:f:v_dav:prop:pname
+  Прохорівну noun:anim:f:v_zna:prop:pname
+  Прохорівною noun:anim:f:v_oru:prop:pname
+  Прохорівні noun:anim:f:v_mis:prop:pname
+  Прохорівно noun:anim:f:v_kly:prop:pname
+Радимівна noun:anim:f:v_naz:prop:pname
+  Радимівни noun:anim:f:v_rod:prop:pname
+  Радимівні noun:anim:f:v_dav:prop:pname
+  Радимівну noun:anim:f:v_zna:prop:pname
+  Радимівною noun:anim:f:v_oru:prop:pname
+  Радимівні noun:anim:f:v_mis:prop:pname
+  Радимівно noun:anim:f:v_kly:prop:pname
+Рафаїлівна noun:anim:f:v_naz:prop:pname
+  Рафаїлівни noun:anim:f:v_rod:prop:pname
+  Рафаїлівні noun:anim:f:v_dav:prop:pname
+  Рафаїлівну noun:anim:f:v_zna:prop:pname
+  Рафаїлівною noun:anim:f:v_oru:prop:pname
+  Рафаїлівні noun:anim:f:v_mis:prop:pname
+  Рафаїлівно noun:anim:f:v_kly:prop:pname
+Ренатівна noun:anim:f:v_naz:prop:pname
+  Ренатівни noun:anim:f:v_rod:prop:pname
+  Ренатівні noun:anim:f:v_dav:prop:pname
+  Ренатівну noun:anim:f:v_zna:prop:pname
+  Ренатівною noun:anim:f:v_oru:prop:pname
+  Ренатівні noun:anim:f:v_mis:prop:pname
+  Ренатівно noun:anim:f:v_kly:prop:pname
+Робертівна noun:anim:f:v_naz:prop:pname
+  Робертівни noun:anim:f:v_rod:prop:pname
+  Робертівні noun:anim:f:v_dav:prop:pname
+  Робертівну noun:anim:f:v_zna:prop:pname
+  Робертівною noun:anim:f:v_oru:prop:pname
+  Робертівні noun:anim:f:v_mis:prop:pname
+  Робертівно noun:anim:f:v_kly:prop:pname
+Родіонівна noun:anim:f:v_naz:prop:pname
+  Родіонівни noun:anim:f:v_rod:prop:pname
+  Родіонівні noun:anim:f:v_dav:prop:pname
+  Родіонівну noun:anim:f:v_zna:prop:pname
+  Родіонівною noun:anim:f:v_oru:prop:pname
+  Родіонівні noun:anim:f:v_mis:prop:pname
+  Родіонівно noun:anim:f:v_kly:prop:pname
+Романівна noun:anim:f:v_naz:prop:pname
+  Романівни noun:anim:f:v_rod:prop:pname
+  Романівні noun:anim:f:v_dav:prop:pname
+  Романівну noun:anim:f:v_zna:prop:pname
+  Романівною noun:anim:f:v_oru:prop:pname
+  Романівні noun:anim:f:v_mis:prop:pname
+  Романівно noun:anim:f:v_kly:prop:pname
+Ростиславівна noun:anim:f:v_naz:prop:pname
+  Ростиславівни noun:anim:f:v_rod:prop:pname
+  Ростиславівні noun:anim:f:v_dav:prop:pname
+  Ростиславівну noun:anim:f:v_zna:prop:pname
+  Ростиславівною noun:anim:f:v_oru:prop:pname
+  Ростиславівні noun:anim:f:v_mis:prop:pname
+  Ростиславівно noun:anim:f:v_kly:prop:pname
+Рубенівна noun:anim:f:v_naz:prop:pname
+  Рубенівни noun:anim:f:v_rod:prop:pname
+  Рубенівні noun:anim:f:v_dav:prop:pname
+  Рубенівну noun:anim:f:v_zna:prop:pname
+  Рубенівною noun:anim:f:v_oru:prop:pname
+  Рубенівні noun:anim:f:v_mis:prop:pname
+  Рубенівно noun:anim:f:v_kly:prop:pname
+Рудольфівна noun:anim:f:v_naz:prop:pname
+  Рудольфівни noun:anim:f:v_rod:prop:pname
+  Рудольфівні noun:anim:f:v_dav:prop:pname
+  Рудольфівну noun:anim:f:v_zna:prop:pname
+  Рудольфівною noun:anim:f:v_oru:prop:pname
+  Рудольфівні noun:anim:f:v_mis:prop:pname
+  Рудольфівно noun:anim:f:v_kly:prop:pname
+Русланівна noun:anim:f:v_naz:prop:pname
+  Русланівни noun:anim:f:v_rod:prop:pname
+  Русланівні noun:anim:f:v_dav:prop:pname
+  Русланівну noun:anim:f:v_zna:prop:pname
+  Русланівною noun:anim:f:v_oru:prop:pname
+  Русланівні noun:anim:f:v_mis:prop:pname
+  Русланівно noun:anim:f:v_kly:prop:pname
+Рюриківна noun:anim:f:v_naz:prop:pname
+  Рюриківни noun:anim:f:v_rod:prop:pname
+  Рюриківні noun:anim:f:v_dav:prop:pname
+  Рюриківну noun:anim:f:v_zna:prop:pname
+  Рюриківною noun:anim:f:v_oru:prop:pname
+  Рюриківні noun:anim:f:v_mis:prop:pname
+  Рюриківно noun:anim:f:v_kly:prop:pname
+Саввівна noun:anim:f:v_naz:prop:pname
+  Саввівни noun:anim:f:v_rod:prop:pname
+  Саввівні noun:anim:f:v_dav:prop:pname
+  Саввівну noun:anim:f:v_zna:prop:pname
+  Саввівною noun:anim:f:v_oru:prop:pname
+  Саввівні noun:anim:f:v_mis:prop:pname
+  Саввівно noun:anim:f:v_kly:prop:pname
+Савеліївна noun:anim:f:v_naz:prop:pname
+  Савеліївни noun:anim:f:v_rod:prop:pname
+  Савеліївні noun:anim:f:v_dav:prop:pname
+  Савеліївну noun:anim:f:v_zna:prop:pname
+  Савеліївною noun:anim:f:v_oru:prop:pname
+  Савеліївні noun:anim:f:v_mis:prop:pname
+  Савеліївно noun:anim:f:v_kly:prop:pname
+Саверіївна noun:anim:f:v_naz:prop:pname
+  Саверіївни noun:anim:f:v_rod:prop:pname
+  Саверіївні noun:anim:f:v_dav:prop:pname
+  Саверіївну noun:anim:f:v_zna:prop:pname
+  Саверіївною noun:anim:f:v_oru:prop:pname
+  Саверіївні noun:anim:f:v_mis:prop:pname
+  Саверіївно noun:anim:f:v_kly:prop:pname
+Савівна noun:anim:f:v_naz:prop:pname
+  Савівни noun:anim:f:v_rod:prop:pname
+  Савівні noun:anim:f:v_dav:prop:pname
+  Савівну noun:anim:f:v_zna:prop:pname
+  Савівною noun:anim:f:v_oru:prop:pname
+  Савівні noun:anim:f:v_mis:prop:pname
+  Савівно noun:anim:f:v_kly:prop:pname
+Саливонівна noun:anim:f:v_naz:prop:pname
+  Саливонівни noun:anim:f:v_rod:prop:pname
+  Саливонівні noun:anim:f:v_dav:prop:pname
+  Саливонівну noun:anim:f:v_zna:prop:pname
+  Саливонівною noun:anim:f:v_oru:prop:pname
+  Саливонівні noun:anim:f:v_mis:prop:pname
+  Саливонівно noun:anim:f:v_kly:prop:pname
+Самійлівна noun:anim:f:v_naz:prop:pname
+  Самійлівни noun:anim:f:v_rod:prop:pname
+  Самійлівні noun:anim:f:v_dav:prop:pname
+  Самійлівну noun:anim:f:v_zna:prop:pname
+  Самійлівною noun:anim:f:v_oru:prop:pname
+  Самійлівні noun:anim:f:v_mis:prop:pname
+  Самійлівно noun:anim:f:v_kly:prop:pname
+Самсонівна noun:anim:f:v_naz:prop:pname
+  Самсонівни noun:anim:f:v_rod:prop:pname
+  Самсонівні noun:anim:f:v_dav:prop:pname
+  Самсонівну noun:anim:f:v_zna:prop:pname
+  Самсонівною noun:anim:f:v_oru:prop:pname
+  Самсонівні noun:anim:f:v_mis:prop:pname
+  Самсонівно noun:anim:f:v_kly:prop:pname
+Сафатівна noun:anim:f:v_naz:prop:pname
+  Сафатівни noun:anim:f:v_rod:prop:pname
+  Сафатівні noun:anim:f:v_dav:prop:pname
+  Сафатівну noun:anim:f:v_zna:prop:pname
+  Сафатівною noun:anim:f:v_oru:prop:pname
+  Сафатівні noun:anim:f:v_mis:prop:pname
+  Сафатівно noun:anim:f:v_kly:prop:pname
+Свиридівна noun:anim:f:v_naz:prop:pname
+  Свиридівни noun:anim:f:v_rod:prop:pname
+  Свиридівні noun:anim:f:v_dav:prop:pname
+  Свиридівну noun:anim:f:v_zna:prop:pname
+  Свиридівною noun:anim:f:v_oru:prop:pname
+  Свиридівні noun:anim:f:v_mis:prop:pname
+  Свиридівно noun:anim:f:v_kly:prop:pname
+Свиридонівна noun:anim:f:v_naz:prop:pname
+  Свиридонівни noun:anim:f:v_rod:prop:pname
+  Свиридонівні noun:anim:f:v_dav:prop:pname
+  Свиридонівну noun:anim:f:v_zna:prop:pname
+  Свиридонівною noun:anim:f:v_oru:prop:pname
+  Свиридонівні noun:anim:f:v_mis:prop:pname
+  Свиридонівно noun:anim:f:v_kly:prop:pname
+Світозарівна noun:anim:f:v_naz:prop:pname
+  Світозарівни noun:anim:f:v_rod:prop:pname
+  Світозарівні noun:anim:f:v_dav:prop:pname
+  Світозарівну noun:anim:f:v_zna:prop:pname
+  Світозарівною noun:anim:f:v_oru:prop:pname
+  Світозарівні noun:anim:f:v_mis:prop:pname
+  Світозарівно noun:anim:f:v_kly:prop:pname
+Святославівна noun:anim:f:v_naz:prop:pname
+  Святославівни noun:anim:f:v_rod:prop:pname
+  Святославівні noun:anim:f:v_dav:prop:pname
+  Святославівну noun:anim:f:v_zna:prop:pname
+  Святославівною noun:anim:f:v_oru:prop:pname
+  Святославівні noun:anim:f:v_mis:prop:pname
+  Святославівно noun:anim:f:v_kly:prop:pname
+Себастіанівна noun:anim:f:v_naz:prop:pname
+  Себастіанівни noun:anim:f:v_rod:prop:pname
+  Себастіанівні noun:anim:f:v_dav:prop:pname
+  Себастіанівну noun:anim:f:v_zna:prop:pname
+  Себастіанівною noun:anim:f:v_oru:prop:pname
+  Себастіанівні noun:anim:f:v_mis:prop:pname
+  Себастіанівно noun:anim:f:v_kly:prop:pname
+Севастіанівна noun:anim:f:v_naz:prop:pname
+  Севастіанівни noun:anim:f:v_rod:prop:pname
+  Севастіанівні noun:anim:f:v_dav:prop:pname
+  Севастіанівну noun:anim:f:v_zna:prop:pname
+  Севастіанівною noun:anim:f:v_oru:prop:pname
+  Севастіанівні noun:anim:f:v_mis:prop:pname
+  Севастіанівно noun:anim:f:v_kly:prop:pname
+Севастянівна noun:anim:f:v_naz:prop:pname
+  Севастянівни noun:anim:f:v_rod:prop:pname
+  Севастянівні noun:anim:f:v_dav:prop:pname
+  Севастянівну noun:anim:f:v_zna:prop:pname
+  Севастянівною noun:anim:f:v_oru:prop:pname
+  Севастянівні noun:anim:f:v_mis:prop:pname
+  Севастянівно noun:anim:f:v_kly:prop:pname
+Северіанівна noun:anim:f:v_naz:prop:pname
+  Северіанівни noun:anim:f:v_rod:prop:pname
+  Северіанівні noun:anim:f:v_dav:prop:pname
+  Северіанівну noun:anim:f:v_zna:prop:pname
+  Северіанівною noun:anim:f:v_oru:prop:pname
+  Северіанівні noun:anim:f:v_mis:prop:pname
+  Северіанівно noun:anim:f:v_kly:prop:pname
+Север'янівна noun:anim:f:v_naz:prop:pname
+  Север'янівни noun:anim:f:v_rod:prop:pname
+  Север'янівні noun:anim:f:v_dav:prop:pname
+  Север'янівну noun:anim:f:v_zna:prop:pname
+  Север'янівною noun:anim:f:v_oru:prop:pname
+  Север'янівні noun:anim:f:v_mis:prop:pname
+  Север'янівно noun:anim:f:v_kly:prop:pname
+Селіфанівна noun:anim:f:v_naz:prop:pname
+  Селіфанівни noun:anim:f:v_rod:prop:pname
+  Селіфанівні noun:anim:f:v_dav:prop:pname
+  Селіфанівну noun:anim:f:v_zna:prop:pname
+  Селіфанівною noun:anim:f:v_oru:prop:pname
+  Селіфанівні noun:anim:f:v_mis:prop:pname
+  Селіфанівно noun:anim:f:v_kly:prop:pname
+Семенівна noun:anim:f:v_naz:prop:pname
+  Семенівни noun:anim:f:v_rod:prop:pname
+  Семенівні noun:anim:f:v_dav:prop:pname
+  Семенівну noun:anim:f:v_zna:prop:pname
+  Семенівною noun:anim:f:v_oru:prop:pname
+  Семенівні noun:anim:f:v_mis:prop:pname
+  Семенівно noun:anim:f:v_kly:prop:pname
+Семйонівна noun:anim:f:v_naz:prop:pname:arch
+  Семйонівни noun:anim:f:v_rod:prop:pname:arch
+  Семйонівні noun:anim:f:v_dav:prop:pname:arch
+  Семйонівну noun:anim:f:v_zna:prop:pname:arch
+  Семйонівною noun:anim:f:v_oru:prop:pname:arch
+  Семйонівні noun:anim:f:v_mis:prop:pname:arch
+  Семйонівно noun:anim:f:v_kly:prop:pname:arch
+Серапіонівна noun:anim:f:v_naz:prop:pname
+  Серапіонівни noun:anim:f:v_rod:prop:pname
+  Серапіонівні noun:anim:f:v_dav:prop:pname
+  Серапіонівну noun:anim:f:v_zna:prop:pname
+  Серапіонівною noun:anim:f:v_oru:prop:pname
+  Серапіонівні noun:anim:f:v_mis:prop:pname
+  Серапіонівно noun:anim:f:v_kly:prop:pname
+Серафимівна noun:anim:f:v_naz:prop:pname
+  Серафимівни noun:anim:f:v_rod:prop:pname
+  Серафимівні noun:anim:f:v_dav:prop:pname
+  Серафимівну noun:anim:f:v_zna:prop:pname
+  Серафимівною noun:anim:f:v_oru:prop:pname
+  Серафимівні noun:anim:f:v_mis:prop:pname
+  Серафимівно noun:anim:f:v_kly:prop:pname
+Сергіївна noun:anim:f:v_naz:prop:pname
+  Сергіївни noun:anim:f:v_rod:prop:pname
+  Сергіївні noun:anim:f:v_dav:prop:pname
+  Сергіївну noun:anim:f:v_zna:prop:pname
+  Сергіївною noun:anim:f:v_oru:prop:pname
+  Сергіївні noun:anim:f:v_mis:prop:pname
+  Сергіївно noun:anim:f:v_kly:prop:pname
+Сигізмундівна noun:anim:f:v_naz:prop:pname
+  Сигізмундівни noun:anim:f:v_rod:prop:pname
+  Сигізмундівні noun:anim:f:v_dav:prop:pname
+  Сигізмундівну noun:anim:f:v_zna:prop:pname
+  Сигізмундівною noun:anim:f:v_oru:prop:pname
+  Сигізмундівні noun:anim:f:v_mis:prop:pname
+  Сигізмундівно noun:anim:f:v_kly:prop:pname
+Сидорівна noun:anim:f:v_naz:prop:pname
+  Сидорівни noun:anim:f:v_rod:prop:pname
+  Сидорівні noun:anim:f:v_dav:prop:pname
+  Сидорівну noun:anim:f:v_zna:prop:pname
+  Сидорівною noun:anim:f:v_oru:prop:pname
+  Сидорівні noun:anim:f:v_mis:prop:pname
+  Сидорівно noun:anim:f:v_kly:prop:pname
+Силантіївна noun:anim:f:v_naz:prop:pname
+  Силантіївни noun:anim:f:v_rod:prop:pname
+  Силантіївні noun:anim:f:v_dav:prop:pname
+  Силантіївну noun:anim:f:v_zna:prop:pname
+  Силантіївною noun:anim:f:v_oru:prop:pname
+  Силантіївні noun:anim:f:v_mis:prop:pname
+  Силантіївно noun:anim:f:v_kly:prop:pname
+Сильвестрівна noun:anim:f:v_naz:prop:pname
+  Сильвестрівни noun:anim:f:v_rod:prop:pname
+  Сильвестрівні noun:anim:f:v_dav:prop:pname
+  Сильвестрівну noun:anim:f:v_zna:prop:pname
+  Сильвестрівною noun:anim:f:v_oru:prop:pname
+  Сильвестрівні noun:anim:f:v_mis:prop:pname
+  Сильвестрівно noun:anim:f:v_kly:prop:pname
+Славмирівна noun:anim:f:v_naz:prop:pname
+  Славмирівни noun:anim:f:v_rod:prop:pname
+  Славмирівні noun:anim:f:v_dav:prop:pname
+  Славмирівну noun:anim:f:v_zna:prop:pname
+  Славмирівною noun:anim:f:v_oru:prop:pname
+  Славмирівні noun:anim:f:v_mis:prop:pname
+  Славмирівно noun:anim:f:v_kly:prop:pname
+Созонівна noun:anim:f:v_naz:prop:pname
+  Созонівни noun:anim:f:v_rod:prop:pname
+  Созонівні noun:anim:f:v_dav:prop:pname
+  Созонівну noun:anim:f:v_zna:prop:pname
+  Созонівною noun:anim:f:v_oru:prop:pname
+  Созонівні noun:anim:f:v_mis:prop:pname
+  Созонівно noun:anim:f:v_kly:prop:pname
+Созонтівна noun:anim:f:v_naz:prop:pname
+  Созонтівни noun:anim:f:v_rod:prop:pname
+  Созонтівні noun:anim:f:v_dav:prop:pname
+  Созонтівну noun:anim:f:v_zna:prop:pname
+  Созонтівною noun:anim:f:v_oru:prop:pname
+  Созонтівні noun:anim:f:v_mis:prop:pname
+  Созонтівно noun:anim:f:v_kly:prop:pname
+Соломонівна noun:anim:f:v_naz:prop:pname
+  Соломонівни noun:anim:f:v_rod:prop:pname
+  Соломонівні noun:anim:f:v_dav:prop:pname
+  Соломонівну noun:anim:f:v_zna:prop:pname
+  Соломонівною noun:anim:f:v_oru:prop:pname
+  Соломонівні noun:anim:f:v_mis:prop:pname
+  Соломонівно noun:anim:f:v_kly:prop:pname
+Сопронівна noun:anim:f:v_naz:prop:pname
+  Сопронівни noun:anim:f:v_rod:prop:pname
+  Сопронівні noun:anim:f:v_dav:prop:pname
+  Сопронівну noun:anim:f:v_zna:prop:pname
+  Сопронівною noun:anim:f:v_oru:prop:pname
+  Сопронівні noun:anim:f:v_mis:prop:pname
+  Сопронівно noun:anim:f:v_kly:prop:pname
+Софонівна noun:anim:f:v_naz:prop:pname
+  Софонівни noun:anim:f:v_rod:prop:pname
+  Софонівні noun:anim:f:v_dav:prop:pname
+  Софонівну noun:anim:f:v_zna:prop:pname
+  Софонівною noun:anim:f:v_oru:prop:pname
+  Софонівні noun:anim:f:v_mis:prop:pname
+  Софонівно noun:anim:f:v_kly:prop:pname
+Софронівна noun:anim:f:v_naz:prop:pname
+  Софронівни noun:anim:f:v_rod:prop:pname
+  Софронівні noun:anim:f:v_dav:prop:pname
+  Софронівну noun:anim:f:v_zna:prop:pname
+  Софронівною noun:anim:f:v_oru:prop:pname
+  Софронівні noun:anim:f:v_mis:prop:pname
+  Софронівно noun:anim:f:v_kly:prop:pname
+Спиридонівна noun:anim:f:v_naz:prop:pname
+  Спиридонівни noun:anim:f:v_rod:prop:pname
+  Спиридонівні noun:anim:f:v_dav:prop:pname
+  Спиридонівну noun:anim:f:v_zna:prop:pname
+  Спиридонівною noun:anim:f:v_oru:prop:pname
+  Спиридонівні noun:anim:f:v_mis:prop:pname
+  Спиридонівно noun:anim:f:v_kly:prop:pname
+Станіславівна noun:anim:f:v_naz:prop:pname
+  Станіславівни noun:anim:f:v_rod:prop:pname
+  Станіславівні noun:anim:f:v_dav:prop:pname
+  Станіславівну noun:anim:f:v_zna:prop:pname
+  Станіславівною noun:anim:f:v_oru:prop:pname
+  Станіславівні noun:anim:f:v_mis:prop:pname
+  Станіславівно noun:anim:f:v_kly:prop:pname
+Стахіївна noun:anim:f:v_naz:prop:pname
+  Стахіївни noun:anim:f:v_rod:prop:pname
+  Стахіївні noun:anim:f:v_dav:prop:pname
+  Стахіївну noun:anim:f:v_zna:prop:pname
+  Стахіївною noun:anim:f:v_oru:prop:pname
+  Стахіївні noun:anim:f:v_mis:prop:pname
+  Стахіївно noun:anim:f:v_kly:prop:pname
+Степанівна noun:anim:f:v_naz:prop:pname
+  Степанівни noun:anim:f:v_rod:prop:pname
+  Степанівні noun:anim:f:v_dav:prop:pname
+  Степанівну noun:anim:f:v_zna:prop:pname
+  Степанівною noun:anim:f:v_oru:prop:pname
+  Степанівні noun:anim:f:v_mis:prop:pname
+  Степанівно noun:anim:f:v_kly:prop:pname
+Стефанівна noun:anim:f:v_naz:prop:pname
+  Стефанівни noun:anim:f:v_rod:prop:pname
+  Стефанівні noun:anim:f:v_dav:prop:pname
+  Стефанівну noun:anim:f:v_zna:prop:pname
+  Стефанівною noun:anim:f:v_oru:prop:pname
+  Стефанівні noun:anim:f:v_mis:prop:pname
+  Стефанівно noun:anim:f:v_kly:prop:pname
+Стратонівна noun:anim:f:v_naz:prop:pname
+  Стратонівни noun:anim:f:v_rod:prop:pname
+  Стратонівні noun:anim:f:v_dav:prop:pname
+  Стратонівну noun:anim:f:v_zna:prop:pname
+  Стратонівною noun:anim:f:v_oru:prop:pname
+  Стратонівні noun:anim:f:v_mis:prop:pname
+  Стратонівно noun:anim:f:v_kly:prop:pname
+Сьвятославівна noun:anim:f:v_naz:prop:pname:arch
+  Сьвятославівни noun:anim:f:v_rod:prop:pname:arch
+  Сьвятославівні noun:anim:f:v_dav:prop:pname:arch
+  Сьвятославівну noun:anim:f:v_zna:prop:pname:arch
+  Сьвятославівною noun:anim:f:v_oru:prop:pname:arch
+  Сьвятославівні noun:anim:f:v_mis:prop:pname:arch
+  Сьвятославівно noun:anim:f:v_kly:prop:pname:arch
+Тадеївна noun:anim:f:v_naz:prop:pname
+  Тадеївни noun:anim:f:v_rod:prop:pname
+  Тадеївні noun:anim:f:v_dav:prop:pname
+  Тадеївну noun:anim:f:v_zna:prop:pname
+  Тадеївною noun:anim:f:v_oru:prop:pname
+  Тадеївні noun:anim:f:v_mis:prop:pname
+  Тадеївно noun:anim:f:v_kly:prop:pname
+Тадіївна noun:anim:f:v_naz:prop:pname
+  Тадіївни noun:anim:f:v_rod:prop:pname
+  Тадіївні noun:anim:f:v_dav:prop:pname
+  Тадіївну noun:anim:f:v_zna:prop:pname
+  Тадіївною noun:anim:f:v_oru:prop:pname
+  Тадіївні noun:anim:f:v_mis:prop:pname
+  Тадіївно noun:anim:f:v_kly:prop:pname
+Тарасівна noun:anim:f:v_naz:prop:pname
+  Тарасівни noun:anim:f:v_rod:prop:pname
+  Тарасівні noun:anim:f:v_dav:prop:pname
+  Тарасівну noun:anim:f:v_zna:prop:pname
+  Тарасівною noun:anim:f:v_oru:prop:pname
+  Тарасівні noun:anim:f:v_mis:prop:pname
+  Тарасівно noun:anim:f:v_kly:prop:pname
+Теодозіївна noun:anim:f:v_naz:prop:pname
+  Теодозіївни noun:anim:f:v_rod:prop:pname
+  Теодозіївні noun:anim:f:v_dav:prop:pname
+  Теодозіївну noun:anim:f:v_zna:prop:pname
+  Теодозіївною noun:anim:f:v_oru:prop:pname
+  Теодозіївні noun:anim:f:v_mis:prop:pname
+  Теодозіївно noun:anim:f:v_kly:prop:pname
+Теодорівна noun:anim:f:v_naz:prop:pname
+  Теодорівни noun:anim:f:v_rod:prop:pname
+  Теодорівні noun:anim:f:v_dav:prop:pname
+  Теодорівну noun:anim:f:v_zna:prop:pname
+  Теодорівною noun:anim:f:v_oru:prop:pname
+  Теодорівні noun:anim:f:v_mis:prop:pname
+  Теодорівно noun:anim:f:v_kly:prop:pname
+Теоктистівна noun:anim:f:v_naz:prop:pname
+  Теоктистівни noun:anim:f:v_rod:prop:pname
+  Теоктистівні noun:anim:f:v_dav:prop:pname
+  Теоктистівну noun:anim:f:v_zna:prop:pname
+  Теоктистівною noun:anim:f:v_oru:prop:pname
+  Теоктистівні noun:anim:f:v_mis:prop:pname
+  Теоктистівно noun:anim:f:v_kly:prop:pname
+Теофілактівна noun:anim:f:v_naz:prop:pname
+  Теофілактівни noun:anim:f:v_rod:prop:pname
+  Теофілактівні noun:anim:f:v_dav:prop:pname
+  Теофілактівну noun:anim:f:v_zna:prop:pname
+  Теофілактівною noun:anim:f:v_oru:prop:pname
+  Теофілактівні noun:anim:f:v_mis:prop:pname
+  Теофілактівно noun:anim:f:v_kly:prop:pname
+Теофілівна noun:anim:f:v_naz:prop:pname
+  Теофілівни noun:anim:f:v_rod:prop:pname
+  Теофілівні noun:anim:f:v_dav:prop:pname
+  Теофілівну noun:anim:f:v_zna:prop:pname
+  Теофілівною noun:anim:f:v_oru:prop:pname
+  Теофілівні noun:anim:f:v_mis:prop:pname
+  Теофілівно noun:anim:f:v_kly:prop:pname
+Терапонтівна noun:anim:f:v_naz:prop:pname
+  Терапонтівни noun:anim:f:v_rod:prop:pname
+  Терапонтівні noun:anim:f:v_dav:prop:pname
+  Терапонтівну noun:anim:f:v_zna:prop:pname
+  Терапонтівною noun:anim:f:v_oru:prop:pname
+  Терапонтівні noun:anim:f:v_mis:prop:pname
+  Терапонтівно noun:anim:f:v_kly:prop:pname
+Терентіївна noun:anim:f:v_naz:prop:pname
+  Терентіївни noun:anim:f:v_rod:prop:pname
+  Терентіївні noun:anim:f:v_dav:prop:pname
+  Терентіївну noun:anim:f:v_zna:prop:pname
+  Терентіївною noun:anim:f:v_oru:prop:pname
+  Терентіївні noun:anim:f:v_mis:prop:pname
+  Терентіївно noun:anim:f:v_kly:prop:pname
+Тилимонівна noun:anim:f:v_naz:prop:pname
+  Тилимонівни noun:anim:f:v_rod:prop:pname
+  Тилимонівні noun:anim:f:v_dav:prop:pname
+  Тилимонівну noun:anim:f:v_zna:prop:pname
+  Тилимонівною noun:anim:f:v_oru:prop:pname
+  Тилимонівні noun:anim:f:v_mis:prop:pname
+  Тилимонівно noun:anim:f:v_kly:prop:pname
+Тимонівна noun:anim:f:v_naz:prop:pname
+  Тимонівни noun:anim:f:v_rod:prop:pname
+  Тимонівні noun:anim:f:v_dav:prop:pname
+  Тимонівну noun:anim:f:v_zna:prop:pname
+  Тимонівною noun:anim:f:v_oru:prop:pname
+  Тимонівні noun:anim:f:v_mis:prop:pname
+  Тимонівно noun:anim:f:v_kly:prop:pname
+Тимофіївна noun:anim:f:v_naz:prop:pname
+  Тимофіївни noun:anim:f:v_rod:prop:pname
+  Тимофіївні noun:anim:f:v_dav:prop:pname
+  Тимофіївну noun:anim:f:v_zna:prop:pname
+  Тимофіївною noun:anim:f:v_oru:prop:pname
+  Тимофіївні noun:anim:f:v_mis:prop:pname
+  Тимофіївно noun:anim:f:v_kly:prop:pname
+Тимурівна noun:anim:f:v_naz:prop:pname
+  Тимурівни noun:anim:f:v_rod:prop:pname
+  Тимурівні noun:anim:f:v_dav:prop:pname
+  Тимурівну noun:anim:f:v_zna:prop:pname
+  Тимурівною noun:anim:f:v_oru:prop:pname
+  Тимурівні noun:anim:f:v_mis:prop:pname
+  Тимурівно noun:anim:f:v_kly:prop:pname
+Титівна noun:anim:f:v_naz:prop:pname
+  Титівни noun:anim:f:v_rod:prop:pname
+  Титівні noun:anim:f:v_dav:prop:pname
+  Титівну noun:anim:f:v_zna:prop:pname
+  Титівною noun:anim:f:v_oru:prop:pname
+  Титівні noun:anim:f:v_mis:prop:pname
+  Титівно noun:anim:f:v_kly:prop:pname
+Тихонівна noun:anim:f:v_naz:prop:pname
+  Тихонівни noun:anim:f:v_rod:prop:pname
+  Тихонівні noun:anim:f:v_dav:prop:pname
+  Тихонівну noun:anim:f:v_zna:prop:pname
+  Тихонівною noun:anim:f:v_oru:prop:pname
+  Тихонівні noun:anim:f:v_mis:prop:pname
+  Тихонівно noun:anim:f:v_kly:prop:pname
+Тодосівна noun:anim:f:v_naz:prop:pname
+  Тодосівни noun:anim:f:v_rod:prop:pname
+  Тодосівні noun:anim:f:v_dav:prop:pname
+  Тодосівну noun:anim:f:v_zna:prop:pname
+  Тодосівною noun:anim:f:v_oru:prop:pname
+  Тодосівні noun:anim:f:v_mis:prop:pname
+  Тодосівно noun:anim:f:v_kly:prop:pname
+Тодосіївна noun:anim:f:v_naz:prop:pname
+  Тодосіївни noun:anim:f:v_rod:prop:pname
+  Тодосіївні noun:anim:f:v_dav:prop:pname
+  Тодосіївну noun:anim:f:v_zna:prop:pname
+  Тодосіївною noun:anim:f:v_oru:prop:pname
+  Тодосіївні noun:anim:f:v_mis:prop:pname
+  Тодосіївно noun:anim:f:v_kly:prop:pname
+Трифіліївна noun:anim:f:v_naz:prop:pname
+  Трифіліївни noun:anim:f:v_rod:prop:pname
+  Трифіліївні noun:anim:f:v_dav:prop:pname
+  Трифіліївну noun:anim:f:v_zna:prop:pname
+  Трифіліївною noun:anim:f:v_oru:prop:pname
+  Трифіліївні noun:anim:f:v_mis:prop:pname
+  Трифіліївно noun:anim:f:v_kly:prop:pname
+Трифонівна noun:anim:f:v_naz:prop:pname
+  Трифонівни noun:anim:f:v_rod:prop:pname
+  Трифонівні noun:anim:f:v_dav:prop:pname
+  Трифонівну noun:anim:f:v_zna:prop:pname
+  Трифонівною noun:anim:f:v_oru:prop:pname
+  Трифонівні noun:anim:f:v_mis:prop:pname
+  Трифонівно noun:anim:f:v_kly:prop:pname
+Трохимівна noun:anim:f:v_naz:prop:pname
+  Трохимівни noun:anim:f:v_rod:prop:pname
+  Трохимівні noun:anim:f:v_dav:prop:pname
+  Трохимівну noun:anim:f:v_zna:prop:pname
+  Трохимівною noun:anim:f:v_oru:prop:pname
+  Трохимівні noun:anim:f:v_mis:prop:pname
+  Трохимівно noun:anim:f:v_kly:prop:pname
+Уласівна noun:anim:f:v_naz:prop:pname
+  Уласівни noun:anim:f:v_rod:prop:pname
+  Уласівні noun:anim:f:v_dav:prop:pname
+  Уласівну noun:anim:f:v_zna:prop:pname
+  Уласівною noun:anim:f:v_oru:prop:pname
+  Уласівні noun:anim:f:v_mis:prop:pname
+  Уласівно noun:anim:f:v_kly:prop:pname
+Устимівна noun:anim:f:v_naz:prop:pname
+  Устимівни noun:anim:f:v_rod:prop:pname
+  Устимівні noun:anim:f:v_dav:prop:pname
+  Устимівну noun:anim:f:v_zna:prop:pname
+  Устимівною noun:anim:f:v_oru:prop:pname
+  Устимівні noun:anim:f:v_mis:prop:pname
+  Устимівно noun:anim:f:v_kly:prop:pname
+Устинівна noun:anim:f:v_naz:prop:pname
+  Устинівни noun:anim:f:v_rod:prop:pname
+  Устинівні noun:anim:f:v_dav:prop:pname
+  Устинівну noun:anim:f:v_zna:prop:pname
+  Устинівною noun:anim:f:v_oru:prop:pname
+  Устинівні noun:anim:f:v_mis:prop:pname
+  Устинівно noun:anim:f:v_kly:prop:pname
+Устиянівна noun:anim:f:v_naz:prop:pname
+  Устиянівни noun:anim:f:v_rod:prop:pname
+  Устиянівні noun:anim:f:v_dav:prop:pname
+  Устиянівну noun:anim:f:v_zna:prop:pname
+  Устиянівною noun:anim:f:v_oru:prop:pname
+  Устиянівні noun:anim:f:v_mis:prop:pname
+  Устиянівно noun:anim:f:v_kly:prop:pname
+Фавіївна noun:anim:f:v_naz:prop:pname
+  Фавіївни noun:anim:f:v_rod:prop:pname
+  Фавіївні noun:anim:f:v_dav:prop:pname
+  Фавіївну noun:anim:f:v_zna:prop:pname
+  Фавіївною noun:anim:f:v_oru:prop:pname
+  Фавіївні noun:anim:f:v_mis:prop:pname
+  Фавіївно noun:anim:f:v_kly:prop:pname
+Фавстіанівна noun:anim:f:v_naz:prop:pname
+  Фавстіанівни noun:anim:f:v_rod:prop:pname
+  Фавстіанівні noun:anim:f:v_dav:prop:pname
+  Фавстіанівну noun:anim:f:v_zna:prop:pname
+  Фавстіанівною noun:anim:f:v_oru:prop:pname
+  Фавстіанівні noun:anim:f:v_mis:prop:pname
+  Фавстіанівно noun:anim:f:v_kly:prop:pname
+Фавстівна noun:anim:f:v_naz:prop:pname
+  Фавстівни noun:anim:f:v_rod:prop:pname
+  Фавстівні noun:anim:f:v_dav:prop:pname
+  Фавстівну noun:anim:f:v_zna:prop:pname
+  Фавстівною noun:anim:f:v_oru:prop:pname
+  Фавстівні noun:anim:f:v_mis:prop:pname
+  Фавстівно noun:anim:f:v_kly:prop:pname
+Фадеївна noun:anim:f:v_naz:prop:pname
+  Фадеївни noun:anim:f:v_rod:prop:pname
+  Фадеївні noun:anim:f:v_dav:prop:pname
+  Фадеївну noun:anim:f:v_zna:prop:pname
+  Фадеївною noun:anim:f:v_oru:prop:pname
+  Фадеївні noun:anim:f:v_mis:prop:pname
+  Фадеївно noun:anim:f:v_kly:prop:pname
+Фалоліївна noun:anim:f:v_naz:prop:pname
+  Фалоліївни noun:anim:f:v_rod:prop:pname
+  Фалоліївні noun:anim:f:v_dav:prop:pname
+  Фалоліївну noun:anim:f:v_zna:prop:pname
+  Фалоліївною noun:anim:f:v_oru:prop:pname
+  Фалоліївні noun:anim:f:v_mis:prop:pname
+  Фалоліївно noun:anim:f:v_kly:prop:pname
+Фалосіївна noun:anim:f:v_naz:prop:pname
+  Фалосіївни noun:anim:f:v_rod:prop:pname
+  Фалосіївні noun:anim:f:v_dav:prop:pname
+  Фалосіївну noun:anim:f:v_zna:prop:pname
+  Фалосіївною noun:anim:f:v_oru:prop:pname
+  Фалосіївні noun:anim:f:v_mis:prop:pname
+  Фалосіївно noun:anim:f:v_kly:prop:pname
+Фантинівна noun:anim:f:v_naz:prop:pname
+  Фантинівни noun:anim:f:v_rod:prop:pname
+  Фантинівні noun:anim:f:v_dav:prop:pname
+  Фантинівну noun:anim:f:v_zna:prop:pname
+  Фантинівною noun:anim:f:v_oru:prop:pname
+  Фантинівні noun:anim:f:v_mis:prop:pname
+  Фантинівно noun:anim:f:v_kly:prop:pname
+Федорівна noun:anim:f:v_naz:prop:pname
+  Федорівни noun:anim:f:v_rod:prop:pname
+  Федорівні noun:anim:f:v_dav:prop:pname
+  Федорівну noun:anim:f:v_zna:prop:pname
+  Федорівною noun:anim:f:v_oru:prop:pname
+  Федорівні noun:anim:f:v_mis:prop:pname
+  Федорівно noun:anim:f:v_kly:prop:pname
+Федосіївна noun:anim:f:v_naz:prop:pname
+  Федосіївни noun:anim:f:v_rod:prop:pname
+  Федосіївні noun:anim:f:v_dav:prop:pname
+  Федосіївну noun:anim:f:v_zna:prop:pname
+  Федосіївною noun:anim:f:v_oru:prop:pname
+  Федосіївні noun:anim:f:v_mis:prop:pname
+  Федосіївно noun:anim:f:v_kly:prop:pname
+Федотівна noun:anim:f:v_naz:prop:pname
+  Федотівни noun:anim:f:v_rod:prop:pname
+  Федотівні noun:anim:f:v_dav:prop:pname
+  Федотівну noun:anim:f:v_zna:prop:pname
+  Федотівною noun:anim:f:v_oru:prop:pname
+  Федотівні noun:anim:f:v_mis:prop:pname
+  Федотівно noun:anim:f:v_kly:prop:pname
+Федулівна noun:anim:f:v_naz:prop:pname
+  Федулівни noun:anim:f:v_rod:prop:pname
+  Федулівні noun:anim:f:v_dav:prop:pname
+  Федулівну noun:anim:f:v_zna:prop:pname
+  Федулівною noun:anim:f:v_oru:prop:pname
+  Федулівні noun:anim:f:v_mis:prop:pname
+  Федулівно noun:anim:f:v_kly:prop:pname
+Феліксівна noun:anim:f:v_naz:prop:pname
+  Феліксівни noun:anim:f:v_rod:prop:pname
+  Феліксівні noun:anim:f:v_dav:prop:pname
+  Феліксівну noun:anim:f:v_zna:prop:pname
+  Феліксівною noun:anim:f:v_oru:prop:pname
+  Феліксівні noun:anim:f:v_mis:prop:pname
+  Феліксівно noun:anim:f:v_kly:prop:pname
+Фемістоклівна noun:anim:f:v_naz:prop:pname
+  Фемістоклівни noun:anim:f:v_rod:prop:pname
+  Фемістоклівні noun:anim:f:v_dav:prop:pname
+  Фемістоклівну noun:anim:f:v_zna:prop:pname
+  Фемістоклівною noun:anim:f:v_oru:prop:pname
+  Фемістоклівні noun:anim:f:v_mis:prop:pname
+  Фемістоклівно noun:anim:f:v_kly:prop:pname
+Феогенівна noun:anim:f:v_naz:prop:pname
+  Феогенівни noun:anim:f:v_rod:prop:pname
+  Феогенівні noun:anim:f:v_dav:prop:pname
+  Феогенівну noun:anim:f:v_zna:prop:pname
+  Феогенівною noun:anim:f:v_oru:prop:pname
+  Феогенівні noun:anim:f:v_mis:prop:pname
+  Феогенівно noun:anim:f:v_kly:prop:pname
+Феодосіївна noun:anim:f:v_naz:prop:pname
+  Феодосіївни noun:anim:f:v_rod:prop:pname
+  Феодосіївні noun:anim:f:v_dav:prop:pname
+  Феодосіївну noun:anim:f:v_zna:prop:pname
+  Феодосіївною noun:anim:f:v_oru:prop:pname
+  Феодосіївні noun:anim:f:v_mis:prop:pname
+  Феодосіївно noun:anim:f:v_kly:prop:pname
+Феодулівна noun:anim:f:v_naz:prop:pname
+  Феодулівни noun:anim:f:v_rod:prop:pname
+  Феодулівні noun:anim:f:v_dav:prop:pname
+  Феодулівну noun:anim:f:v_zna:prop:pname
+  Феодулівною noun:anim:f:v_oru:prop:pname
+  Феодулівні noun:anim:f:v_mis:prop:pname
+  Феодулівно noun:anim:f:v_kly:prop:pname
+Феоктистівна noun:anim:f:v_naz:prop:pname
+  Феоктистівни noun:anim:f:v_rod:prop:pname
+  Феоктистівні noun:anim:f:v_dav:prop:pname
+  Феоктистівну noun:anim:f:v_zna:prop:pname
+  Феоктистівною noun:anim:f:v_oru:prop:pname
+  Феоктистівні noun:anim:f:v_mis:prop:pname
+  Феоктистівно noun:anim:f:v_kly:prop:pname
+Феофанівна noun:anim:f:v_naz:prop:pname
+  Феофанівни noun:anim:f:v_rod:prop:pname
+  Феофанівні noun:anim:f:v_dav:prop:pname
+  Феофанівну noun:anim:f:v_zna:prop:pname
+  Феофанівною noun:anim:f:v_oru:prop:pname
+  Феофанівні noun:anim:f:v_mis:prop:pname
+  Феофанівно noun:anim:f:v_kly:prop:pname
+Феофілактівна noun:anim:f:v_naz:prop:pname
+  Феофілактівни noun:anim:f:v_rod:prop:pname
+  Феофілактівні noun:anim:f:v_dav:prop:pname
+  Феофілактівну noun:anim:f:v_zna:prop:pname
+  Феофілактівною noun:anim:f:v_oru:prop:pname
+  Феофілактівні noun:anim:f:v_mis:prop:pname
+  Феофілактівно noun:anim:f:v_kly:prop:pname
+Ферапонтівна noun:anim:f:v_naz:prop:pname
+  Ферапонтівни noun:anim:f:v_rod:prop:pname
+  Ферапонтівні noun:anim:f:v_dav:prop:pname
+  Ферапонтівну noun:anim:f:v_zna:prop:pname
+  Ферапонтівною noun:anim:f:v_oru:prop:pname
+  Ферапонтівні noun:anim:f:v_mis:prop:pname
+  Ферапонтівно noun:anim:f:v_kly:prop:pname
+Филимонівна noun:anim:f:v_naz:prop:pname
+  Филимонівни noun:anim:f:v_rod:prop:pname
+  Филимонівні noun:anim:f:v_dav:prop:pname
+  Филимонівну noun:anim:f:v_zna:prop:pname
+  Филимонівною noun:anim:f:v_oru:prop:pname
+  Филимонівні noun:anim:f:v_mis:prop:pname
+  Филимонівно noun:anim:f:v_kly:prop:pname
+Філаретівна noun:anim:f:v_naz:prop:pname
+  Філаретівни noun:anim:f:v_rod:prop:pname
+  Філаретівні noun:anim:f:v_dav:prop:pname
+  Філаретівну noun:anim:f:v_zna:prop:pname
+  Філаретівною noun:anim:f:v_oru:prop:pname
+  Філаретівні noun:anim:f:v_mis:prop:pname
+  Філаретівно noun:anim:f:v_kly:prop:pname
+Фірсівна noun:anim:f:v_naz:prop:pname
+  Фірсівни noun:anim:f:v_rod:prop:pname
+  Фірсівні noun:anim:f:v_dav:prop:pname
+  Фірсівну noun:anim:f:v_zna:prop:pname
+  Фірсівною noun:anim:f:v_oru:prop:pname
+  Фірсівні noun:anim:f:v_mis:prop:pname
+  Фірсівно noun:anim:f:v_kly:prop:pname
+Флавіанівна noun:anim:f:v_naz:prop:pname
+  Флавіанівни noun:anim:f:v_rod:prop:pname
+  Флавіанівні noun:anim:f:v_dav:prop:pname
+  Флавіанівну noun:anim:f:v_zna:prop:pname
+  Флавіанівною noun:anim:f:v_oru:prop:pname
+  Флавіанівні noun:anim:f:v_mis:prop:pname
+  Флавіанівно noun:anim:f:v_kly:prop:pname
+Флегонтівна noun:anim:f:v_naz:prop:pname
+  Флегонтівни noun:anim:f:v_rod:prop:pname
+  Флегонтівні noun:anim:f:v_dav:prop:pname
+  Флегонтівну noun:anim:f:v_zna:prop:pname
+  Флегонтівною noun:anim:f:v_oru:prop:pname
+  Флегонтівні noun:anim:f:v_mis:prop:pname
+  Флегонтівно noun:anim:f:v_kly:prop:pname
+Флорентинівна noun:anim:f:v_naz:prop:pname
+  Флорентинівни noun:anim:f:v_rod:prop:pname
+  Флорентинівні noun:anim:f:v_dav:prop:pname
+  Флорентинівну noun:anim:f:v_zna:prop:pname
+  Флорентинівною noun:anim:f:v_oru:prop:pname
+  Флорентинівні noun:anim:f:v_mis:prop:pname
+  Флорентинівно noun:anim:f:v_kly:prop:pname
+Фомівна noun:anim:f:v_naz:prop:pname
+  Фомівни noun:anim:f:v_rod:prop:pname
+  Фомівні noun:anim:f:v_dav:prop:pname
+  Фомівну noun:anim:f:v_zna:prop:pname
+  Фомівною noun:anim:f:v_oru:prop:pname
+  Фомівні noun:anim:f:v_mis:prop:pname
+  Фомівно noun:anim:f:v_kly:prop:pname
+Фортунатівна noun:anim:f:v_naz:prop:pname
+  Фортунатівни noun:anim:f:v_rod:prop:pname
+  Фортунатівні noun:anim:f:v_dav:prop:pname
+  Фортунатівну noun:anim:f:v_zna:prop:pname
+  Фортунатівною noun:anim:f:v_oru:prop:pname
+  Фортунатівні noun:anim:f:v_mis:prop:pname
+  Фортунатівно noun:anim:f:v_kly:prop:pname
+Фрідріхівна noun:anim:f:v_naz:prop:pname
+  Фрідріхівни noun:anim:f:v_rod:prop:pname
+  Фрідріхівні noun:anim:f:v_dav:prop:pname
+  Фрідріхівну noun:anim:f:v_zna:prop:pname
+  Фрідріхівною noun:anim:f:v_oru:prop:pname
+  Фрідріхівні noun:anim:f:v_mis:prop:pname
+  Фрідріхівно noun:anim:f:v_kly:prop:pname
+Фролівна noun:anim:f:v_naz:prop:pname
+  Фролівни noun:anim:f:v_rod:prop:pname
+  Фролівні noun:anim:f:v_dav:prop:pname
+  Фролівну noun:anim:f:v_zna:prop:pname
+  Фролівною noun:anim:f:v_oru:prop:pname
+  Фролівні noun:anim:f:v_mis:prop:pname
+  Фролівно noun:anim:f:v_kly:prop:pname
+Харитонівна noun:anim:f:v_naz:prop:pname
+  Харитонівни noun:anim:f:v_rod:prop:pname
+  Харитонівні noun:anim:f:v_dav:prop:pname
+  Харитонівну noun:anim:f:v_zna:prop:pname
+  Харитонівною noun:anim:f:v_oru:prop:pname
+  Харитонівні noun:anim:f:v_mis:prop:pname
+  Харитонівно noun:anim:f:v_kly:prop:pname
+Харламівна noun:anim:f:v_naz:prop:pname
+  Харламівни noun:anim:f:v_rod:prop:pname
+  Харламівні noun:anim:f:v_dav:prop:pname
+  Харламівну noun:anim:f:v_zna:prop:pname
+  Харламівною noun:anim:f:v_oru:prop:pname
+  Харламівні noun:anim:f:v_mis:prop:pname
+  Харламівно noun:anim:f:v_kly:prop:pname
+Харлампіївна noun:anim:f:v_naz:prop:pname
+  Харлампіївни noun:anim:f:v_rod:prop:pname
+  Харлампіївні noun:anim:f:v_dav:prop:pname
+  Харлампіївну noun:anim:f:v_zna:prop:pname
+  Харлампіївною noun:anim:f:v_oru:prop:pname
+  Харлампіївні noun:anim:f:v_mis:prop:pname
+  Харлампіївно noun:anim:f:v_kly:prop:pname
+Хведорівна noun:anim:f:v_naz:prop:pname
+  Хведорівни noun:anim:f:v_rod:prop:pname
+  Хведорівні noun:anim:f:v_dav:prop:pname
+  Хведорівну noun:anim:f:v_zna:prop:pname
+  Хведорівною noun:anim:f:v_oru:prop:pname
+  Хведорівні noun:anim:f:v_mis:prop:pname
+  Хведорівно noun:anim:f:v_kly:prop:pname
+Хомівна noun:anim:f:v_naz:prop:pname
+  Хомівни noun:anim:f:v_rod:prop:pname
+  Хомівні noun:anim:f:v_dav:prop:pname
+  Хомівну noun:anim:f:v_zna:prop:pname
+  Хомівною noun:anim:f:v_oru:prop:pname
+  Хомівні noun:anim:f:v_mis:prop:pname
+  Хомівно noun:anim:f:v_kly:prop:pname
+Хрисанфівна noun:anim:f:v_naz:prop:pname
+  Хрисанфівни noun:anim:f:v_rod:prop:pname
+  Хрисанфівні noun:anim:f:v_dav:prop:pname
+  Хрисанфівну noun:anim:f:v_zna:prop:pname
+  Хрисанфівною noun:anim:f:v_oru:prop:pname
+  Хрисанфівні noun:anim:f:v_mis:prop:pname
+  Хрисанфівно noun:anim:f:v_kly:prop:pname
+Християнівна noun:anim:f:v_naz:prop:pname
+  Християнівни noun:anim:f:v_rod:prop:pname
+  Християнівні noun:anim:f:v_dav:prop:pname
+  Християнівну noun:anim:f:v_zna:prop:pname
+  Християнівною noun:anim:f:v_oru:prop:pname
+  Християнівні noun:anim:f:v_mis:prop:pname
+  Християнівно noun:anim:f:v_kly:prop:pname
+Ювеналіївна noun:anim:f:v_naz:prop:pname
+  Ювеналіївни noun:anim:f:v_rod:prop:pname
+  Ювеналіївні noun:anim:f:v_dav:prop:pname
+  Ювеналіївну noun:anim:f:v_zna:prop:pname
+  Ювеналіївною noun:anim:f:v_oru:prop:pname
+  Ювеналіївні noun:anim:f:v_mis:prop:pname
+  Ювеналіївно noun:anim:f:v_kly:prop:pname
+Юзефівна noun:anim:f:v_naz:prop:pname
+  Юзефівни noun:anim:f:v_rod:prop:pname
+  Юзефівні noun:anim:f:v_dav:prop:pname
+  Юзефівну noun:anim:f:v_zna:prop:pname
+  Юзефівною noun:anim:f:v_oru:prop:pname
+  Юзефівні noun:anim:f:v_mis:prop:pname
+  Юзефівно noun:anim:f:v_kly:prop:pname
+Юліанівна noun:anim:f:v_naz:prop:pname
+  Юліанівни noun:anim:f:v_rod:prop:pname
+  Юліанівні noun:anim:f:v_dav:prop:pname
+  Юліанівну noun:anim:f:v_zna:prop:pname
+  Юліанівною noun:anim:f:v_oru:prop:pname
+  Юліанівні noun:anim:f:v_mis:prop:pname
+  Юліанівно noun:anim:f:v_kly:prop:pname
+Юліївна noun:anim:f:v_naz:prop:pname
+  Юліївни noun:anim:f:v_rod:prop:pname
+  Юліївні noun:anim:f:v_dav:prop:pname
+  Юліївну noun:anim:f:v_zna:prop:pname
+  Юліївною noun:anim:f:v_oru:prop:pname
+  Юліївні noun:anim:f:v_mis:prop:pname
+  Юліївно noun:anim:f:v_kly:prop:pname
+Юніївна noun:anim:f:v_naz:prop:pname
+  Юніївни noun:anim:f:v_rod:prop:pname
+  Юніївні noun:anim:f:v_dav:prop:pname
+  Юніївну noun:anim:f:v_zna:prop:pname
+  Юніївною noun:anim:f:v_oru:prop:pname
+  Юніївні noun:anim:f:v_mis:prop:pname
+  Юніївно noun:anim:f:v_kly:prop:pname
+Юріївна noun:anim:f:v_naz:prop:pname
+  Юріївни noun:anim:f:v_rod:prop:pname
+  Юріївні noun:anim:f:v_dav:prop:pname
+  Юріївну noun:anim:f:v_zna:prop:pname
+  Юріївною noun:anim:f:v_oru:prop:pname
+  Юріївні noun:anim:f:v_mis:prop:pname
+  Юріївно noun:anim:f:v_kly:prop:pname
+Юстимівна noun:anim:f:v_naz:prop:pname
+  Юстимівни noun:anim:f:v_rod:prop:pname
+  Юстимівні noun:anim:f:v_dav:prop:pname
+  Юстимівну noun:anim:f:v_zna:prop:pname
+  Юстимівною noun:anim:f:v_oru:prop:pname
+  Юстимівні noun:anim:f:v_mis:prop:pname
+  Юстимівно noun:anim:f:v_kly:prop:pname
+Юстинівна noun:anim:f:v_naz:prop:pname
+  Юстинівни noun:anim:f:v_rod:prop:pname
+  Юстинівні noun:anim:f:v_dav:prop:pname
+  Юстинівну noun:anim:f:v_zna:prop:pname
+  Юстинівною noun:anim:f:v_oru:prop:pname
+  Юстинівні noun:anim:f:v_mis:prop:pname
+  Юстинівно noun:anim:f:v_kly:prop:pname
+Юхимівна noun:anim:f:v_naz:prop:pname
+  Юхимівни noun:anim:f:v_rod:prop:pname
+  Юхимівні noun:anim:f:v_dav:prop:pname
+  Юхимівну noun:anim:f:v_zna:prop:pname
+  Юхимівною noun:anim:f:v_oru:prop:pname
+  Юхимівні noun:anim:f:v_mis:prop:pname
+  Юхимівно noun:anim:f:v_kly:prop:pname
+Явдокимівна noun:anim:f:v_naz:prop:pname
+  Явдокимівни noun:anim:f:v_rod:prop:pname
+  Явдокимівні noun:anim:f:v_dav:prop:pname
+  Явдокимівну noun:anim:f:v_zna:prop:pname
+  Явдокимівною noun:anim:f:v_oru:prop:pname
+  Явдокимівні noun:anim:f:v_mis:prop:pname
+  Явдокимівно noun:anim:f:v_kly:prop:pname
+Якимівна noun:anim:f:v_naz:prop:pname
+  Якимівни noun:anim:f:v_rod:prop:pname
+  Якимівні noun:anim:f:v_dav:prop:pname
+  Якимівну noun:anim:f:v_zna:prop:pname
+  Якимівною noun:anim:f:v_oru:prop:pname
+  Якимівні noun:anim:f:v_mis:prop:pname
+  Якимівно noun:anim:f:v_kly:prop:pname
+Яківна noun:anim:f:v_naz:prop:pname
+  Яківни noun:anim:f:v_rod:prop:pname
+  Яківні noun:anim:f:v_dav:prop:pname
+  Яківну noun:anim:f:v_zna:prop:pname
+  Яківною noun:anim:f:v_oru:prop:pname
+  Яківні noun:anim:f:v_mis:prop:pname
+  Яківно noun:anim:f:v_kly:prop:pname
+Яковлівна noun:anim:f:v_naz:prop:pname:bad
+  Яковлівни noun:anim:f:v_rod:prop:pname:bad
+  Яковлівні noun:anim:f:v_dav:prop:pname:bad
+  Яковлівну noun:anim:f:v_zna:prop:pname:bad
+  Яковлівною noun:anim:f:v_oru:prop:pname:bad
+  Яковлівні noun:anim:f:v_mis:prop:pname:bad
+  Яковлівно noun:anim:f:v_kly:prop:pname:bad
+Якубівна noun:anim:f:v_naz:prop:pname
+  Якубівни noun:anim:f:v_rod:prop:pname
+  Якубівні noun:anim:f:v_dav:prop:pname
+  Якубівну noun:anim:f:v_zna:prop:pname
+  Якубівною noun:anim:f:v_oru:prop:pname
+  Якубівні noun:anim:f:v_mis:prop:pname
+  Якубівно noun:anim:f:v_kly:prop:pname
+Янівна noun:anim:f:v_naz:prop:pname
+  Янівни noun:anim:f:v_rod:prop:pname
+  Янівні noun:anim:f:v_dav:prop:pname
+  Янівну noun:anim:f:v_zna:prop:pname
+  Янівною noun:anim:f:v_oru:prop:pname
+  Янівні noun:anim:f:v_mis:prop:pname
+  Янівно noun:anim:f:v_kly:prop:pname
+Яремівна noun:anim:f:v_naz:prop:pname
+  Яремівни noun:anim:f:v_rod:prop:pname
+  Яремівні noun:anim:f:v_dav:prop:pname
+  Яремівну noun:anim:f:v_zna:prop:pname
+  Яремівною noun:anim:f:v_oru:prop:pname
+  Яремівні noun:anim:f:v_mis:prop:pname
+  Яремівно noun:anim:f:v_kly:prop:pname
+Ярославівна noun:anim:f:v_naz:prop:pname
+  Ярославівни noun:anim:f:v_rod:prop:pname
+  Ярославівні noun:anim:f:v_dav:prop:pname
+  Ярославівну noun:anim:f:v_zna:prop:pname
+  Ярославівною noun:anim:f:v_oru:prop:pname
+  Ярославівні noun:anim:f:v_mis:prop:pname
+  Ярославівно noun:anim:f:v_kly:prop:pname
