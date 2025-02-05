@@ -10,9 +10,9 @@
 
 - `lname_freq_dict.csv` — частотний словник прізвищ;
 - `female_fname_freq_dict.csv` — частотний словник жіночих імен;
-- `female_pname_freq_dict.csv` — частотний словник жіночих прізвищ;
+- `female_pname_freq_dict.csv` — частотний словник жіночих по-батькові;
 - `male_fname_freq_dict.csv` — частотний словник чоловічих імен;
-- `male_pname_freq_dict.csv` — частотний словник чоловічих прізвищ.
+- `male_pname_freq_dict.csv` — частотний словник чоловічих по-батькові.
 
 ## Генерація словника
 
