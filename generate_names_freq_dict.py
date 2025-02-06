@@ -113,11 +113,6 @@ male_fname_freq_dict = get_names_freq('dict/wiki_male_fname.txt', freq_dict, nam
 save_names_freq_dict(female_fname_freq_dict, 'generated/female_fname_freq_dict.csv')
 save_names_freq_dict(male_fname_freq_dict, 'generated/male_fname_freq_dict.csv')
 
-# Process last names (ignore list includes names from first names)
-print("\nProcessing last names...")
-lname_ignore_list = names_ignore_list + [name[0] for name in female_fname_freq_dict] + [name[0] for name in male_fname_freq_dict]
-lname_freq_dict = get_names_freq('dict/wiki_lname.txt', freq_dict, lname_ignore_list)
-save_names_freq_dict(lname_freq_dict, 'generated/lname_freq_dict.csv')
 
 # Patronymics
 print("\nProcessing female patronymics...")
@@ -126,3 +121,15 @@ print("Processing male patronymics...")
 male_pname_freq_dict = get_names_freq('dict/vesum_male_pname.txt', freq_dict, [])
 save_names_freq_dict(female_pname_freq_dict, 'generated/female_pname_freq_dict.csv')
 save_names_freq_dict(male_pname_freq_dict, 'generated/male_pname_freq_dict.csv')
+
+
+# Process last names (ignore list includes names from first names and patronymics)
+print("\nProcessing last names...")
+lname_ignore_list = names_ignore_list + \
+    [name[0] for name in female_fname_freq_dict] + \
+    [name[0] for name in male_fname_freq_dict] + \
+    [name[0] for name in female_pname_freq_dict] + \
+    [name[0] for name in male_pname_freq_dict]
+
+lname_freq_dict = get_names_freq('dict/wiki_lname.txt', freq_dict, lname_ignore_list)
+save_names_freq_dict(lname_freq_dict, 'generated/lname_freq_dict.csv')
