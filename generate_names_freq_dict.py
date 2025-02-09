@@ -55,7 +55,7 @@ def freq_dict_contains(word, freq_dict):
 
 def get_names_from_file(filename, ignore_list):
     with open(filename, 'r', encoding='utf-8') as file:
-        names = [line.strip() for line in file if not line.startswith(' ')]
+        names = [line.strip() for line in file]
     final_names = [name.split()[0] for name in names if name not in ignore_list]
     print(f"Extracted {len(final_names)} names from {filename}")
     return final_names
