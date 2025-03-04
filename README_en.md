@@ -20,3 +20,8 @@ No additional dependencies are needed; you only require internet access to downl
 
 ```bash
 python3 generate_names_freq_dict.py
+```
+
+## Limitations
+
+The generated frequency dictionary has a problematic tokenization. Specifically, there may be issues with names containing apostrophes, hyphens, and names that appeared in markdown texts.
